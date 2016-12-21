@@ -11,6 +11,7 @@
    * 2. Prevent iOS and IE text size adjust after device orientation change,
    *    without disabling user zoom.
    */
+@import url("https://fonts.googleapis.com/css?family=Montserrat");
 html {
   font-family: sans-serif;
   /* 1 */
@@ -4644,6 +4645,17 @@ table.hover tbody tr:nth-of-type(even):hover {
   /* Legacy iOS */
   font-style: normal;
   font-weight: 400; }
+
+h1,
+h3 {
+  font-family: "Montserrat", Arial, sans-serif;
+  text-transform: uppercase; }
+
+h1 {
+  letter-spacing: 0.075rem; }
+
+h3 {
+  letter-spacing: 0.03125rem; }
 
 .p-0 {
   padding: 0; }
