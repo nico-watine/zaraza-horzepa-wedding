@@ -3577,6 +3577,182 @@
 		"oF": 0,
 		"oS": 0
 		},
+	"\/dist\/fonts\/baskerville-regular\/baskerville-regular.eot": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/fonts\/baskerville-regular\/baskerville-regular.eot",
+		"oF": 0
+		},
+	"\/dist\/fonts\/baskerville-regular\/baskerville-regular.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/dist\/fonts\/baskerville-regular\/baskerville-regular.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/dist\/fonts\/baskerville-regular\/baskerville-regular.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/fonts\/baskerville-regular\/baskerville-regular.ttf",
+		"oF": 0
+		},
+	"\/dist\/fonts\/baskerville-regular\/baskerville-regular.woff": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/fonts\/baskerville-regular\/baskerville-regular.woff",
+		"oF": 0
+		},
+	"\/dist\/fonts\/baskerville-regular\/font.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/dist\/fonts\/baskerville-regular\/font-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/dist\/fonts\/baskerville-regular\/New Folder With Items\/baskerville-regular.eot": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/fonts\/baskerville-regular\/New Folder With Items\/baskerville-regular.eot",
+		"oF": 0
+		},
+	"\/dist\/fonts\/baskerville-regular\/New Folder With Items\/baskerville-regular.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/dist\/fonts\/baskerville-regular\/New Folder With Items\/baskerville-regular.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/dist\/fonts\/baskerville-regular\/New Folder With Items\/baskerville-regular.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/fonts\/baskerville-regular\/New Folder With Items\/baskerville-regular.ttf",
+		"oF": 0
+		},
+	"\/dist\/fonts\/baskerville-regular\/New Folder With Items\/baskerville-regular.woff": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/fonts\/baskerville-regular\/New Folder With Items\/baskerville-regular.woff",
+		"oF": 0
+		},
+	"\/dist\/fonts\/baskerville-regular\/New Folder With Items\/font.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/dist\/fonts\/baskerville-regular\/New Folder With Items\/font-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/dist\/fonts\/baskerville-regular\/New Folder With Items\/preview.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/fonts\/baskerville-regular\/New Folder With Items\/preview.html",
+		"oF": 0
+		},
+	"\/dist\/fonts\/baskerville-regular\/preview.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/fonts\/baskerville-regular\/preview.html",
+		"oF": 0
+		},
+	"\/dist\/fonts\/baskerville-regular\/regular\/baskerville-regular.eot": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/fonts\/baskerville-regular\/regular\/baskerville-regular.eot",
+		"oF": 0
+		},
+	"\/dist\/fonts\/baskerville-regular\/regular\/baskerville-regular.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/dist\/fonts\/baskerville-regular\/regular\/baskerville-regular.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/dist\/fonts\/baskerville-regular\/regular\/baskerville-regular.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/fonts\/baskerville-regular\/regular\/baskerville-regular.ttf",
+		"oF": 0
+		},
+	"\/dist\/fonts\/baskerville-regular\/regular\/baskerville-regular.woff": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/fonts\/baskerville-regular\/regular\/baskerville-regular.woff",
+		"oF": 0
+		},
+	"\/dist\/fonts\/baskerville-regular\/regular\/font.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/dist\/fonts\/baskerville-regular\/regular\/font-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/dist\/fonts\/baskerville-regular\/regular\/preview.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/fonts\/baskerville-regular\/regular\/preview.html",
+		"oF": 0
+		},
+	"\/dist\/fonts\/baskerville\/regular\/baskerville-regular.eot": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/fonts\/baskerville\/regular\/baskerville-regular.eot",
+		"oF": 0
+		},
+	"\/dist\/fonts\/baskerville\/regular\/baskerville-regular.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/dist\/fonts\/baskerville\/regular\/baskerville-regular.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/dist\/fonts\/baskerville\/regular\/baskerville-regular.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/fonts\/baskerville\/regular\/baskerville-regular.ttf",
+		"oF": 0
+		},
+	"\/dist\/fonts\/baskerville\/regular\/baskerville-regular.woff": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/fonts\/baskerville\/regular\/baskerville-regular.woff",
+		"oF": 0
+		},
+	"\/dist\/fonts\/baskerville\/regular\/font.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/dist\/fonts\/baskerville\/regular\/font-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/dist\/fonts\/baskerville\/regular\/preview.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/fonts\/baskerville\/regular\/preview.html",
+		"oF": 0
+		},
 	"\/dist\/humans.txt": {
 		"ft": 8192,
 		"oA": 2,
@@ -3625,6 +3801,50 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/dist\/robots.txt",
+		"oF": 0
+		},
+	"\/fonts\/baskerville\/regular\/baskerville-regular.eot": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/fonts\/baskerville\/regular\/baskerville-regular.eot",
+		"oF": 0
+		},
+	"\/fonts\/baskerville\/regular\/baskerville-regular.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/fonts\/baskerville\/regular\/baskerville-regular.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/fonts\/baskerville\/regular\/baskerville-regular.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/fonts\/baskerville\/regular\/baskerville-regular.ttf",
+		"oF": 0
+		},
+	"\/fonts\/baskerville\/regular\/baskerville-regular.woff": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/fonts\/baskerville\/regular\/baskerville-regular.woff",
+		"oF": 0
+		},
+	"\/fonts\/baskerville\/regular\/font.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/fonts\/baskerville\/regular\/font-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/fonts\/baskerville\/regular\/preview.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/fonts\/baskerville\/regular\/preview.html",
 		"oF": 0
 		},
 	"\/gulpfile.babel.js": {
