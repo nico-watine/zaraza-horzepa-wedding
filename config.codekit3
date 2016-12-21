@@ -3567,6 +3567,16 @@
 		"oAP": "\/dist\/404.html",
 		"oF": 0
 		},
+	"\/dist\/css\/app-min.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/dist\/css\/app-min-min.css",
+		"oF": 0,
+		"oS": 0
+		},
 	"\/dist\/css\/app.css": {
 		"aP": 0,
 		"bl": 0,
@@ -3829,22 +3839,6 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/fonts\/baskerville\/regular\/baskerville-regular.woff",
-		"oF": 0
-		},
-	"\/fonts\/baskerville\/regular\/font.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/fonts\/baskerville\/regular\/font-min.css",
-		"oF": 0,
-		"oS": 0
-		},
-	"\/fonts\/baskerville\/regular\/preview.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/fonts\/baskerville\/regular\/preview.html",
 		"oF": 0
 		},
 	"\/gulpfile.babel.js": {

@@ -1,1 +1,13 @@
 @import "../../_settings.scss";
+
+@font-face {
+  font-family: 'Baskerville';
+  src: url('#{$url}/fonts/baskerville/regular/baskerville-regular.eot'); /* IE9 Compat Modes */
+  src: url('#{$url}/fonts/baskerville/regular/baskerville-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('#{$url}/fonts/baskerville/regular/baskerville-regular.woff') format('woff'), /* Modern Browsers */
+       url('#{$url}/fonts/baskerville/regular/baskerville-regular.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('#{$url}/fonts/baskerville/regular/baskerville-regular.svg#0056e359605c42173e61fed2212d8c03') format('svg'); /* Legacy iOS */
+       
+  font-style:   normal;
+  font-weight:  400;
+}
