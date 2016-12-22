@@ -4,7 +4,7 @@
 	background: #C5C5C5 url('/img/our-story/embrace-bw-background.png') 30% top/cover no-repeat;
 
 	@include breakpoint(medium) {
-		background: #C5C5C5 url('/img/our-story/medium.png') left top/cover no-repeat;
+		background: #C5C5C5 url('/img/our-story/medium.png') 30% top/cover no-repeat fixed;
 	}
 
 	@include breakpoint(large) {
