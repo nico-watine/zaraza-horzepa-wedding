@@ -3577,16 +3577,6 @@
 		"oF": 0,
 		"oS": 0
 		},
-	"\/dist\/css\/app.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/dist\/css\/app-min.css",
-		"oF": 0,
-		"oS": 0
-		},
 	"\/dist\/fonts\/baskerville\/regular\/baskerville-regular.eot": {
 		"ft": 8192,
 		"oA": 2,
