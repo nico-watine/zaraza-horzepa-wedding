@@ -4669,7 +4669,7 @@ h3 {
 .index .loveStory-headline {
   text-align: right;
   background: rgba(0, 0, 0, 0.35);
-  width: 29.375rem;
+  width: 27.625rem;
   padding: 0.75rem 1rem;
   float: right;
   margin-bottom: 3.75rem; }
@@ -4678,7 +4678,9 @@ h3 {
     color: #fff; }
   .index .loveStory-headline p {
     letter-spacing: 0.00625rem;
-    font-weight: 600; }
+    font-weight: 600;
+    width: 22.1875rem;
+    float: right; }
 
 .index .loveStory-prose {
   background: #fff;

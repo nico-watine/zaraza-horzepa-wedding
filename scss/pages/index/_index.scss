@@ -6,7 +6,7 @@
 	.loveStory-headline {
 		text-align: right; 
 		background: rgba(0,0,0,0.35); 
-		width: rem-calc(470); 
+		width: rem-calc(442);
 		padding: rem-calc(12) rem-calc(16); 
 		float: right; 
 		margin-bottom: rem-calc(60);
@@ -19,6 +19,8 @@
 		p {
 			letter-spacing: rem-calc(0.1);
 			font-weight: 600;
+			width: rem-calc(355);
+			float: right;
 		}
 	}
 
