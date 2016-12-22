@@ -2,12 +2,21 @@
 
 @import "_background.scss";
 
+$max-480: "only screen and (max-width : 30.000em)";
+$max-570: "only screen and (max-width : 35.625em)";
+
 .index {
 	.loveStory-headline {
 		text-align: right; 
 		background: rgba(0,0,0,0.35); 
 		padding: rem-calc(12) rem-calc(16); 
 		float: right;
+
+		@media #{$max-570} {
+			margin-top: rem-calc(100);
+			margin-bottom: rem-calc(30);
+		}
+		
 		margin-bottom: rem-calc(60);
 		margin-top: rem-calc(200);
 
