@@ -1,2 +1,28 @@
 @import "../../_settings.scss";
 
+.index {
+	.loveStory-headline {
+		text-align: right; 
+		background: rgba(0,0,0,0.35); 
+		width: rem-calc(470); 
+		padding: rem-calc(12) rem-calc(16); 
+		float: right; 
+		margin-bottom: rem-calc(60);
+
+		h1,
+		p {
+			color: #fff;
+		}
+
+		p {
+			letter-spacing: rem-calc(0.1);
+			font-weight: 600;
+		}
+	}
+
+	.loveStory-prose {
+		background: #fff; 
+		box-shadow: 0 rem-calc(1) rem-calc(4) 0 rgba(0,0,0,0.37); 
+		padding: rem-calc(20);
+	}
+}

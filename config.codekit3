@@ -3549,6 +3549,130 @@
 		"oF": 0,
 		"oS": 0
 		},
+	"\/dist\/.htaccess": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/.htaccess",
+		"oF": 0
+		},
+	"\/dist\/403.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/403.html",
+		"oF": 0
+		},
+	"\/dist\/404.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/404.html",
+		"oF": 0
+		},
+	"\/dist\/css\/app-min.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/dist\/css\/app-min-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/dist\/css\/app.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/dist\/css\/app-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/dist\/fonts\/baskerville\/regular\/baskerville-regular.eot": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/fonts\/baskerville\/regular\/baskerville-regular.eot",
+		"oF": 0
+		},
+	"\/dist\/fonts\/baskerville\/regular\/baskerville-regular.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/dist\/fonts\/baskerville\/regular\/baskerville-regular.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/dist\/fonts\/baskerville\/regular\/baskerville-regular.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/fonts\/baskerville\/regular\/baskerville-regular.ttf",
+		"oF": 0
+		},
+	"\/dist\/fonts\/baskerville\/regular\/baskerville-regular.woff": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/fonts\/baskerville\/regular\/baskerville-regular.woff",
+		"oF": 0
+		},
+	"\/dist\/humans.txt": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/humans.txt",
+		"oF": 0
+		},
+	"\/dist\/img\/banditos.jpg": {
+		"ft": 16384,
+		"iS": 363627,
+		"oA": 1,
+		"oAP": "\/dist\/img\/banditos.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/our-story\/embrace-bw-background.png": {
+		"ft": 32768,
+		"iS": 1149905,
+		"oA": 1,
+		"oAP": "\/dist\/img\/our-story\/embrace-bw-background.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/index.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/index.php",
+		"oF": 0
+		},
+	"\/dist\/js\/app-min.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/app-min-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/dist\/js\/custom\/scripts-min.js": {
+		"ft": 64,
+		"mi": 0,
+		"oA": 1,
+		"oAP": "\/dist\/js\/scripts-min-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/dist\/php\/autoVer.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/php\/autoVer.php",
+		"oF": 0
+		},
+	"\/dist\/robots.txt": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/robots.txt",
+		"oF": 0
+		},
 	"\/fonts\/baskerville\/regular\/baskerville-regular.eot": {
 		"ft": 8192,
 		"oA": 2,
