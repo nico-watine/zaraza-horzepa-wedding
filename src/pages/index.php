@@ -8,7 +8,15 @@ og-image:
 body-id: index
 body-class: index
 ---
-<header style="height: 60px; width: 100%; margin-bottom: 60px; background: rgba(0,0,0,0.35);">&nbsp;</header>
+<header style="width: 100%; margin-bottom: 60px; background: rgba(0,0,0,0.35);">
+	<div class="row">
+		<div class="small-12 columns">
+			<nav class="mainNav">
+				<a href="http://www.rsvp.zaraza-horzepa2017.wedding/">RSVP</a>
+			</nav>
+		</div>
+	</div>
+</header>
 <main>
 	<div class="row">
 		<div class="medium-6 medium-push-6 columns">

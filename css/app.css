@@ -4657,6 +4657,15 @@ h1 {
 h3 {
   letter-spacing: 0.03125rem; }
 
+nav.mainNav {
+  padding: 1.25rem 0; }
+  nav.mainNav a {
+    font-family: "Montserrat", Arial, sans-serif;
+    font-size: 2rem;
+    color: #fff;
+    letter-spacing: 0.075rem;
+    text-shadow: 0 0.0625rem 0.1875rem #000; }
+
 .index {
   background: #C5C5C5 url("/img/our-story/small.jpg") left top/cover no-repeat fixed; }
   @media only screen and (max-width: 30em) {

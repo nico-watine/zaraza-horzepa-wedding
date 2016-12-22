@@ -1,1 +1,13 @@
 @import "../_settings.scss";
+
+nav.mainNav {
+	padding: rem-calc(20) 0;
+
+	a {
+		font-family: $sans-serif-font;
+		font-size: rem-calc(32);
+		color: #fff;
+		letter-spacing: rem-calc(1.2);
+		text-shadow: 0 rem-calc(1) rem-calc(3) #000;
+	}
+}
