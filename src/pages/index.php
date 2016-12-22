@@ -20,7 +20,7 @@ body-class: index
 		</div>
 	</div>
 	<div class="row">
-		<div class="medium-8 medium-push-4 large-7 large-push-5 columns">
+		<div class="medium-9 medium-push-3 large-7 large-push-5 columns">
 			<article class="loveStory-prose">
 				<p>Joe and Juliana have a love story 16 years in the making. It all started one evening when Joe approached Juliana completely on his own. Juliana, busy chatting with her 5 girlfriends in Spanish, quickly dismissed Joe, thinking, “Who is this guy, and why won’t he just leave already?” Joe knew he just met his future wife, and he was not about to go anywhere.</p>
 				<p>For the next 10 years, on every June 13th, Joe made sure that Juliana received a massive bouquet of flowers. It did not matter if she was at home, or all the way in Colombia, visiting her mom. Those flowers always got to her. Finally, about a decade after that fateful introduction, Joe’s quiet patience and overt compassion got to Juliana’s heart, too.</p>
