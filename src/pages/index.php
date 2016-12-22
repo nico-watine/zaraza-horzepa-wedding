@@ -11,7 +11,7 @@ body-class: index
 <header style="width: 100%; margin-bottom: 60px; background: rgba(0,0,0,0.35);">
 	<div class="row">
 		<div class="small-12 columns">
-			<nav class="mainNav">
+			<nav class="mainNav text-right medium-text-left">
 				<a href="http://www.rsvp.zaraza-horzepa2017.wedding/">RSVP</a>
 			</nav>
 		</div>
