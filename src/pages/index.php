@@ -12,7 +12,14 @@ body-class: index
 	<div class="row">
 		<div class="small-12 columns">
 			<nav class="mainNav text-right medium-text-left">
-				<a href="http://www.rsvp.zaraza-horzepa2017.wedding/" target="_blank">RSVP</a>
+				<!-- <a href="http://www.rsvp.zaraza-horzepa2017.wedding/" target="_blank">RSVP</a> -->
+				<ul class="menu">
+					<li class="active"><a href="/">Our Story</a></li>
+					<li><a href="http://www.rsvp.zaraza-horzepa2017.wedding/" target="_blank">RSVP</a></li>
+					<li><a href="#">Wedding Details</a></li>
+					<li><a href="#">Cartagena Info</a></li>
+					<li><a href="#">Registry</a></li>
+				</ul>
 			</nav>
 		</div>
 	</div>
