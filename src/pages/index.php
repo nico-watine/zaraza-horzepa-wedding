@@ -8,7 +8,7 @@ og-image:
 body-id: index
 body-class: index
 ---
-<div class="off-canvas position-left" id="offCanvas" data-off-canvas>
+<div class="off-canvas position-right" id="offCanvas" data-off-canvas>
 	<!-- Close button -->
 	<button class="close-button" aria-label="Close menu" type="button" data-close>
 		<span aria-hidden="true">&times;</span>
@@ -25,7 +25,7 @@ body-class: index
 	</ul>
 </div>
 <div class="title-bar">
-	<div class="title-bar-left">
+	<div class="title-bar-right">
 		<button class="menu-icon" type="button" data-open="offCanvas"></button>
 		<!-- <button type="button" class="button" data-toggle="offCanvasLeft">Open Menu</button> -->
 	</div>
