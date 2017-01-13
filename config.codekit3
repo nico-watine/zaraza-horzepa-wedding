@@ -3591,6 +3591,12 @@
 		"oF": 0,
 		"oS": 0
 		},
+	"\/dist\/esp\/index.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/esp\/index.php",
+		"oF": 0
+		},
 	"\/dist\/fonts\/baskerville\/regular\/baskerville-regular.eot": {
 		"ft": 8192,
 		"oA": 2,
@@ -4090,6 +4096,12 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/src\/layouts\/default.html",
+		"oF": 0
+		},
+	"\/src\/pages\/esp\/index.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/pages\/esp\/index.php",
 		"oF": 0
 		},
 	"\/src\/pages\/index.php": {
