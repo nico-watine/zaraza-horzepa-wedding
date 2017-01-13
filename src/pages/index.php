@@ -8,6 +8,28 @@ og-image:
 body-id: index
 body-class: index
 ---
+<div class="off-canvas position-right" id="offCanvasMenu" data-off-canvas>
+    <!-- Close button -->
+    <button class="close-button" aria-label="Close menu" type="button" data-close>
+      <span aria-hidden="true">&times;</span>
+    </button>
+
+    <!-- Menu -->
+    <ul class="vertical menu">
+      <li><a href="#">Foundation</a></li>
+      <li><a href="#">Dot</a></li>
+      <li><a href="#">ZURB</a></li>
+      <li><a href="#">Com</a></li>
+      <li><a href="#">Slash</a></li>
+      <li><a href="#">Sites</a></li>
+    </ul>
+</div>
+<div class="title-bar">
+	<div class="title-bar-right">
+		<button class="menu-icon" type="button" data-open="offCanvasMenu"></button>
+	</div>
+</div>
+<div class="off-canvas-content" data-off-canvas-content style="background: none;">
 <header style="width: 100%; margin-bottom: 60px; background: rgba(0,0,0,0.35);">
 	<div class="row">
 		<div class="small-12 columns">
@@ -43,3 +65,4 @@ body-class: index
 		</div>
 	</div>
 </main>
+</div> <!-- end .off-canvas-content -->
