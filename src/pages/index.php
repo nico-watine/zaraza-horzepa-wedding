@@ -24,15 +24,10 @@ body-class: index
 		<li><a href="#">Sites</a></li>
 	</ul>
 </div>
-<div class="title-bar">
-	<div class="title-bar-right">
-		<button class="menu-icon" type="button" data-open="offCanvas"></button>
-		<!-- <button type="button" class="button" data-toggle="offCanvasLeft">Open Menu</button> -->
-	</div>
-</div>
 <div class="off-canvas-content" data-off-canvas-content style="background: none;">
 	<header style="width: 100%; margin-bottom: 60px; background: rgba(0,0,0,0.35);">
 		<div class="row">
+		<button class="menu-icon" type="button" data-open="offCanvas"></button>
 			<div class="small-12 columns">
 				<nav class="mainNav text-right medium-text-left">
 					<ul class="menu">
