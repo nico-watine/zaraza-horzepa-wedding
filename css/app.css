@@ -4812,13 +4812,13 @@ nav.mainNav {
     margin-top: 0; } }
 
 .index {
-  background: #C5C5C5 url("/img/wedding-details/small.jpg") left top/cover no-repeat fixed; }
+  background: #C5C5C5 url("/img/cartagena-info/small.jpg") left top/cover no-repeat fixed; }
   @media print, screen and (min-width: 40em) {
     .index {
-      background: #C5C5C5 url("/img/wedding-details/medium.jpg") 30% top/cover no-repeat fixed; } }
+      background: #C5C5C5 url("/img/cartagena-info/medium.jpg") 30% top/cover no-repeat fixed; } }
   @media print, screen and (min-width: 64em) {
     .index {
-      background: #C5C5C5 url("/img/wedding-details/large.jpg") 30% top/cover no-repeat fixed; } }
+      background: #C5C5C5 url("/img/cartagena-info/large.jpg") 30% top/cover no-repeat fixed; } }
 
 .index {
   background: #C5C5C5 url("/img/wedding-details/small.jpg") left top/cover no-repeat fixed; }
