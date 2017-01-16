@@ -24,9 +24,9 @@ body-class: index
 	</ul>
 </div>
 <div class="off-canvas-content" data-off-canvas-content style="background: none;">
-	<header style="width: 100%; margin-bottom: 60px; background: rgba(0,0,0,0.35);">
+	<header>
 		<div class="row">
-		<button style="margin: 16px; width: 26px;" class="float-right menu-icon hide-for-medium" type="button" data-open="offCanvas"></button>
+		<button class="float-right menu-icon hide-for-medium" type="button" data-open="offCanvas"></button>
 			<div class="small-12 columns">
 				<nav class="mainNav text-right medium-text-left show-for-medium">
 					<ul class="menu">

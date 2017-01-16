@@ -24,6 +24,19 @@
 // 	}
 // }
 
+// ----------------------------------
+// |            <HEADER>            |
+// ----------------------------------
+
+header {
+	margin-bottom: rem-calc(60); 
+	background: rgba(0,0,0,0.35);
+
+	.menu-icon {
+		margin: rem-calc(16); 
+		width: rem-calc(26);
+	}
+}
 
 // ----------------------------------------
 // |            HORIZONTAL NAV            |
