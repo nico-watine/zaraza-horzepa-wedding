@@ -5,8 +5,8 @@ description: The beautiful love story of Joe & Juliana, 16 years in the making.
 og-title: Joe & Juliana's Love Story
 og-description: Joe knew from the beginning that he had just met his future wife. A love story 16 years in the making.
 og-image:
-body-id: index
-body-class: index
+body-id: wedding-details
+body-class: wedding-details
 ---
 <div class="off-canvas position-right" id="offCanvas" data-transition="overlap" data-off-canvas>
 	<!-- Close button -->
