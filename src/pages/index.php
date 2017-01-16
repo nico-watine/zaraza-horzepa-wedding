@@ -16,12 +16,11 @@ body-class: index
 
 	<!-- Menu -->
 	<ul class="vertical menu">
-		<li><a href="#">Foundation</a></li>
-		<li><a href="#">Dot</a></li>
-		<li><a href="#">ZURB</a></li>
-		<li><a href="#">Com</a></li>
-		<li><a href="#">Slash</a></li>
-		<li><a href="#">Sites</a></li>
+		<li class="active"><a href="/">Our Story</a></li>
+		<li><a href="http://www.rsvp.zaraza-horzepa2017.wedding/" target="_blank">RSVP</a></li>
+		<li><a href="#">Wedding Details</a></li>
+		<li><a href="#">Cartagena Info</a></li>
+		<li><a href="#">Registry</a></li>
 	</ul>
 </div>
 <div class="off-canvas-content" data-off-canvas-content style="background: none;">
