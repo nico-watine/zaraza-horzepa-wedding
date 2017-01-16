@@ -4792,6 +4792,12 @@
 		"oAP": "\/src\/layouts\/default.html",
 		"oF": 0
 		},
+	"\/src\/pages\/cartagena-info.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/pages\/cartagena-info.php",
+		"oF": 0
+		},
 	"\/src\/pages\/esp\/index.php": {
 		"ft": 8192,
 		"oA": 2,
