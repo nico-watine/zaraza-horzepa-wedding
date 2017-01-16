@@ -32,8 +32,8 @@ body-class: index
 					<ul class="menu">
 						<li><a href="/">Our Story</a></li>
 						<li><a href="http://www.rsvp.zaraza-horzepa2017.wedding/" target="_blank">RSVP</a></li>
-						<li class="active"><a href="#">Wedding Details</a></li>
-						<li><a href="#">Cartagena Info</a></li>
+						<li class="active"><a href="/wedding-details">Wedding Details</a></li>
+						<li><a href="/cartagena-info">Cartagena Info</a></li>
 						<li><a href="#">Registry</a></li>
 					</ul>
 				</nav>
