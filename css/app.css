@@ -4811,6 +4811,36 @@ nav.mainNav {
   .index .loveStory-headline {
     margin-top: 0; } }
 
+.index .loveStory-headline {
+  text-align: right;
+  background: rgba(0, 0, 0, 0.35);
+  padding: 0.75rem 1rem;
+  float: right;
+  margin-bottom: 3.75rem;
+  margin-top: 12.5rem; }
+  @media only screen and (max-width: 35.625em) {
+    .index .loveStory-headline {
+      margin-top: 6.25rem;
+      margin-bottom: 1.875rem; } }
+  .index .loveStory-headline h1,
+  .index .loveStory-headline p {
+    color: #fff; }
+  .index .loveStory-headline p {
+    max-width: 18.75rem;
+    letter-spacing: 0.00625rem;
+    font-weight: 600;
+    float: right; }
+
+.index .loveStory-prose {
+  background: #fff;
+  box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37);
+  padding: 1.25rem;
+  margin-bottom: 3.75rem; }
+
+@media print, screen and (min-width: 40em) {
+  .index .loveStory-headline {
+    margin-top: 0; } }
+
 .p-0 {
   padding: 0; }
 
