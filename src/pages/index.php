@@ -8,7 +8,7 @@ og-image:
 body-id: index
 body-class: index
 ---
-<div class="off-canvas position-right" id="offCanvas" data-off-canvas>
+<div class="off-canvas position-right" id="offCanvas" data-transition="overlap" data-off-canvas>
 	<!-- Close button -->
 	<button class="close-button" aria-label="Close menu" type="button" data-close>
 		<span aria-hidden="true">&times;</span>
@@ -26,7 +26,7 @@ body-class: index
 <div class="off-canvas-content" data-off-canvas-content style="background: none;">
 	<header style="width: 100%; margin-bottom: 60px; background: rgba(0,0,0,0.35);">
 		<div class="row">
-		<button style="margin: 16px;" class="float-right menu-icon hide-for-medium" type="button" data-open="offCanvas"></button>
+		<button style="margin: 16px; width: 26px;" class="float-right menu-icon hide-for-medium" type="button" data-open="offCanvas"></button>
 			<div class="small-12 columns">
 				<nav class="mainNav text-right medium-text-left show-for-medium">
 					<ul class="menu">
