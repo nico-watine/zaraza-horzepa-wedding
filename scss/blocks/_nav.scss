@@ -69,3 +69,34 @@ nav.mainNav {
 	}
 }
 
+// --------------------------------------------------
+// |            VERTICAL OFF-CANVAS MENU            |
+// --------------------------------------------------
+
+.off-canvas {
+	background: rgba(0,0,0,0.5);
+
+	.menu {
+		li {
+			a {
+				font-family: $sans-serif-font;
+				color: $white;
+			}
+
+			&:hover {
+				background: $white;
+
+				a {
+					color: $black;
+				}
+			}
+		}
+
+		li.active {
+			a {
+				background: $white;
+				color: $black;
+			}
+		}
+	}
+}

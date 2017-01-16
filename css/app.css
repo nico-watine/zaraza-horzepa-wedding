@@ -4756,6 +4756,19 @@ nav.mainNav {
     background: none;
     text-decoration: underline; }
 
+.off-canvas {
+  background: rgba(0, 0, 0, 0.5); }
+  .off-canvas .menu li a {
+    font-family: "Montserrat", Arial, sans-serif;
+    color: #fefefe; }
+  .off-canvas .menu li:hover {
+    background: #fefefe; }
+    .off-canvas .menu li:hover a {
+      color: #0a0a0a; }
+  .off-canvas .menu li.active a {
+    background: #fefefe;
+    color: #0a0a0a; }
+
 .index {
   background: #C5C5C5 url("/img/our-story/small.jpg") left top/cover no-repeat fixed; }
   @media only screen and (max-width: 30em) {
