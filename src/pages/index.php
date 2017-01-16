@@ -28,7 +28,7 @@ body-class: index
 		<div class="row">
 		<button class="menu-icon" type="button" data-open="offCanvas"></button>
 			<div class="small-12 columns">
-				<nav class="mainNav text-right medium-text-left">
+				<nav class="mainNav text-right medium-text-left show-for-medium">
 					<ul class="menu">
 						<li class="active"><a href="/">Our Story</a></li>
 						<li><a href="http://www.rsvp.zaraza-horzepa2017.wedding/" target="_blank">RSVP</a></li>

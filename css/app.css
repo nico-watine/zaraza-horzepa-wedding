@@ -4735,13 +4735,16 @@ h3 {
 
 nav.mainNav {
   padding: 0.75rem 0; }
-  nav.mainNav ul.menu li a {
-    font-family: "Montserrat", Arial, sans-serif;
-    font-size: 1.25rem;
-    color: #fff;
-    letter-spacing: 0.0625rem;
-    text-shadow: 0 0.0625rem 0.1875rem #000;
-    text-transform: uppercase; }
+  nav.mainNav ul.menu li {
+    text-align: center; }
+    nav.mainNav ul.menu li a {
+      font-family: "Montserrat", Arial, sans-serif;
+      font-size: 1.125rem;
+      color: #fff;
+      line-height: 1.4;
+      letter-spacing: 0.0625rem;
+      text-shadow: 0 0.0625rem 0.1875rem #000;
+      text-transform: uppercase; }
   nav.mainNav ul.menu li.active a {
     background: none;
     text-decoration: underline; }
