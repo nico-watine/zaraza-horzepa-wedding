@@ -4047,6 +4047,16 @@
 		"oAP": "\/dist\/404.html",
 		"oF": 0
 		},
+	"\/dist\/css\/app-min.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/dist\/css\/app-min-min.css",
+		"oF": 0,
+		"oS": 0
+		},
 	"\/dist\/css\/app.css": {
 		"aP": 0,
 		"bl": 0,
@@ -4096,6 +4106,30 @@
 		"oA": 2,
 		"oAP": "\/dist\/humans.txt",
 		"oF": 0
+		},
+	"\/dist\/img\/cartagena-info\/large.jpg": {
+		"ft": 16384,
+		"iS": 119929,
+		"oA": 1,
+		"oAP": "\/dist\/img\/cartagena-info\/large.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/cartagena-info\/medium.jpg": {
+		"ft": 16384,
+		"iS": 100172,
+		"oA": 1,
+		"oAP": "\/dist\/img\/cartagena-info\/medium.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/cartagena-info\/small.jpg": {
+		"ft": 16384,
+		"iS": 51616,
+		"oA": 1,
+		"oAP": "\/dist\/img\/cartagena-info\/small.jpg",
+		"oF": 0,
+		"opt": 0
 		},
 	"\/dist\/img\/icons\/eng.png": {
 		"ft": 32768,
@@ -4272,6 +4306,30 @@
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
+		},
+	"\/img\/cartagena-info\/large.jpg": {
+		"ft": 16384,
+		"iS": 119929,
+		"oA": 1,
+		"oAP": "\/img\/cartagena-info\/large.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/cartagena-info\/medium.jpg": {
+		"ft": 16384,
+		"iS": 100172,
+		"oA": 1,
+		"oAP": "\/img\/cartagena-info\/medium.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/cartagena-info\/small.jpg": {
+		"ft": 16384,
+		"iS": 51616,
+		"oA": 1,
+		"oAP": "\/img\/cartagena-info\/small.jpg",
+		"oF": 0,
+		"opt": 0
 		},
 	"\/img\/icons\/eng.png": {
 		"ft": 32768,
@@ -4603,6 +4661,32 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/scss\/components\/css\/_fonts.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/scss\/pages\/cartagena-info\/_background.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/scss\/pages\/css\/_background.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/scss\/pages\/cartagena-info\/_cartagena-info.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/scss\/pages\/css\/_cartagena-info.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1

@@ -1,0 +1,16 @@
+@import "../../_settings.scss";
+
+$max-480: "only screen and (max-width : 30.000em)";
+
+.index {
+	background: #C5C5C5 url('/img/wedding-details/small.jpg') left top/cover no-repeat fixed;
+
+	@include breakpoint(medium) {
+		background: #C5C5C5 url('/img/wedding-details/medium.jpg') 30% top/cover no-repeat fixed;
+	}
+
+	@include breakpoint(large) {
+		background: #C5C5C5 url('/img/wedding-details/large.jpg') 30% top/cover no-repeat fixed;
+	}
+}
+
