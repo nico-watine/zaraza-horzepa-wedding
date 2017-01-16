@@ -5,7 +5,8 @@
 $max-480: "only screen and (max-width : 30.000em)";
 $max-570: "only screen and (max-width : 35.625em)";
 
-.index {
+.index,
+.cartagena-info {
 	.loveStory-headline {
 		text-align: right; 
 		background: rgba(0,0,0,0.35); 
@@ -42,7 +43,8 @@ $max-570: "only screen and (max-width : 35.625em)";
 }
 
 @include breakpoint(medium) {
-	.index {
+	.index,
+	.cartagena-info {
 		.loveStory-headline {
 			margin-top: 0;
 		}
