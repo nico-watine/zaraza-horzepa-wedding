@@ -4752,6 +4752,8 @@ nav.mainNav {
       letter-spacing: 0.0625rem;
       text-shadow: 0 0.0625rem 0.1875rem #000;
       text-transform: uppercase; }
+      nav.mainNav ul.menu li a:hover {
+        text-decoration: underline; }
   nav.mainNav ul.menu li.active a {
     background: none;
     text-decoration: underline; }

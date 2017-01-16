@@ -57,6 +57,10 @@ nav.mainNav {
 				letter-spacing: rem-calc(1);
 				text-shadow: 0 rem-calc(1) rem-calc(3) #000;
 				text-transform: uppercase;
+
+				&:hover {
+					text-decoration: underline;
+				}
 			}
 		}
 
