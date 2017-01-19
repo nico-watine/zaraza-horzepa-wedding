@@ -4778,7 +4778,8 @@ nav.mainNav {
 
 .index .loveStory-headline,
 .cartagena-info .loveStory-headline,
-.wedding-details .loveStory-headline {
+.wedding-details .loveStory-headline,
+.registry .loveStory-headline {
   text-align: right;
   background: rgba(0, 0, 0, 0.35);
   padding: 0.75rem 1rem;
@@ -4788,7 +4789,8 @@ nav.mainNav {
   @media only screen and (max-width: 35.625em) {
     .index .loveStory-headline,
     .cartagena-info .loveStory-headline,
-    .wedding-details .loveStory-headline {
+    .wedding-details .loveStory-headline,
+    .registry .loveStory-headline {
       margin-top: 6.25rem;
       margin-bottom: 1.875rem; } }
   .index .loveStory-headline h1,
@@ -4796,11 +4798,14 @@ nav.mainNav {
   .cartagena-info .loveStory-headline h1,
   .cartagena-info .loveStory-headline p,
   .wedding-details .loveStory-headline h1,
-  .wedding-details .loveStory-headline p {
+  .wedding-details .loveStory-headline p,
+  .registry .loveStory-headline h1,
+  .registry .loveStory-headline p {
     color: #fff; }
   .index .loveStory-headline p,
   .cartagena-info .loveStory-headline p,
-  .wedding-details .loveStory-headline p {
+  .wedding-details .loveStory-headline p,
+  .registry .loveStory-headline p {
     max-width: 18.75rem;
     letter-spacing: 0.00625rem;
     font-weight: 600;
@@ -4808,7 +4813,8 @@ nav.mainNav {
 
 .index .loveStory-prose,
 .cartagena-info .loveStory-prose,
-.wedding-details .loveStory-prose {
+.wedding-details .loveStory-prose,
+.registry .loveStory-prose {
   background: #fff;
   box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37);
   padding: 1.25rem;
@@ -4902,6 +4908,86 @@ nav.mainNav {
   @media print, screen and (min-width: 64em) {
     .cartagena-info {
       background: #C5C5C5 url("/img/cartagena-info/large.jpg") 30% top/cover no-repeat fixed; } }
+
+.registry {
+  background: #e1e1e1; }
+  .registry .splash-background {
+    background: #C5C5C5 url("/img/wedding-details/palm-bg.png") center top/100% auto repeat; }
+
+#wedding-details .loveStory-headline,
+#registry .loveStory-headline {
+  margin-top: 6.25rem; }
+
+#wedding-details .pageContent,
+#registry .pageContent {
+  background: #fff;
+  box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); }
+  #wedding-details .pageContent article,
+  #registry .pageContent article {
+    padding-top: 2.5rem;
+    padding-bottom: 1.25rem; }
+  #wedding-details .pageContent .bumperRed,
+  #registry .pageContent .bumperRed {
+    background: #A61B2C;
+    height: 0.875rem;
+    width: 100%;
+    margin: 0 0 2.5rem 0; }
+  #wedding-details .pageContent .bumperYellow,
+  #registry .pageContent .bumperYellow {
+    background: #D08528;
+    height: 0.875rem;
+    width: 100%;
+    margin: 2.5rem 0; }
+  #wedding-details .pageContent .bumperBlue,
+  #registry .pageContent .bumperBlue {
+    background: #5BB3CB;
+    height: 0.875rem;
+    width: 100%;
+    margin: 0 0 2.5rem; }
+
+.weddingEvent .eventTitle {
+  text-align: center; }
+  @media print, screen and (min-width: 40em) {
+    .weddingEvent .eventTitle h2,
+    .weddingEvent .eventTitle h3 {
+      display: inline-block; } }
+
+.weddingEvent .eventDetails {
+  background: #fff;
+  padding-top: 1.25rem; }
+  @media print, screen and (min-width: 64em) {
+    .weddingEvent .eventDetails {
+      padding-bottom: 1.25rem; } }
+  .weddingEvent .eventDetails .infoCard {
+    margin: 0 auto; }
+    @media print, screen and (min-width: 40em) {
+      .weddingEvent .eventDetails .infoCard {
+        background: #fff;
+        box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37);
+        border-radius: 0.25rem;
+        padding: 1rem; } }
+  @media print, screen and (min-width: 40em) {
+    .weddingEvent .eventDetails .infoCard-location {
+      max-width: 16.875rem;
+      margin-bottom: 1.5625rem; } }
+  .weddingEvent .eventDetails .infoCard-location h3 {
+    margin-bottom: 1rem; }
+  .weddingEvent .eventDetails .infoCard-location img {
+    width: 11.875rem;
+    display: block;
+    margin: 0 auto 1rem; }
+  .weddingEvent .eventDetails .infoCard-time,
+  .weddingEvent .eventDetails .infoCard-theme {
+    max-width: 12.8125rem;
+    margin: 0 auto 1.5625rem; }
+
+@media print, screen and (min-width: 40em) {
+  .weddingEvent#cocktailParty .eventDetails {
+    background: #fff url("/img/wedding-details/cocktailParty/bastion-banner.png") center center/cover no-repeat; } }
+
+@media print, screen and (min-width: 40em) {
+  .weddingEvent#weddingDay .eventDetails {
+    background: #fff url("/img/wedding-details/weddingDay/radisson-banner.png") center center/cover no-repeat; } }
 
 .p-0 {
   padding: 0; }

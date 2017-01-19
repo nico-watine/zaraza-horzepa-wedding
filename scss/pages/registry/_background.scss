@@ -1,0 +1,22 @@
+@import "../../_settings.scss";
+
+$max-480: "only screen and (max-width : 30.000em)";
+
+.registry {
+	background: #e1e1e1;
+	
+	.splash-background {
+		background: #C5C5C5 url('/img/wedding-details/palm-bg.png') center top/100% auto repeat;
+	}
+	// background: #C5C5C5 url('/img/wedding-details/small.jpg') left top/cover no-repeat fixed;
+	// background: #C5C5C5 url('/img/wedding-details/palm-bg.png') center top/100% auto repeat;
+
+	// @include breakpoint(medium) {
+	// 	background: #C5C5C5 url('/img/wedding-details/medium.jpg') 30% top/cover no-repeat fixed;
+	// }
+
+	// @include breakpoint(large) {
+	// 	background: #C5C5C5 url('/img/wedding-details/large.jpg') 30% top/cover no-repeat fixed;
+	// }
+}
+

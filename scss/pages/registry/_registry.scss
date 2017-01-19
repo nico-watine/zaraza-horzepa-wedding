@@ -1,0 +1,114 @@
+@import "../../_settings.scss";
+
+@import "_background.scss";
+
+#wedding-details,
+#registry {
+	.loveStory-headline {
+		margin-top: rem-calc(100);
+	}
+	
+	.pageContent {
+		background: #fff; 
+		box-shadow: 0 rem-calc(1) rem-calc(4) 0 rgba(0,0,0,0.37); 
+
+		article {
+			padding-top: rem-calc(40);
+			padding-bottom: rem-calc(20);
+		}
+
+		.bumperRed {
+			background: #A61B2C;
+			height: rem-calc(14);
+			width: 100%;
+			margin: 0 0 rem-calc(40) 0;
+		}
+
+		.bumperYellow {
+			background: #D08528;
+			height: rem-calc(14);
+			width: 100%;
+			margin: rem-calc(40) 0;
+		}
+
+		.bumperBlue {
+			background: #5BB3CB;
+			height: rem-calc(14);
+			width: 100%;
+			margin: 0 0 rem-calc(40);
+		}
+	}
+}
+
+.weddingEvent	{
+	.eventTitle {
+		text-align: center;
+
+		h2,
+		h3 {
+			@include breakpoint(medium) {
+				display: inline-block;
+			}
+		}
+	}
+
+	.eventDetails {
+		background: #fff;
+		padding-top: rem-calc(20);
+
+		@include breakpoint(large) {
+			padding-bottom: rem-calc(20);
+		}
+
+		.infoCard {
+			@include breakpoint(medium) {
+				background: #fff;
+				box-shadow: $z-1;
+				border-radius: rem-calc(4);
+				padding: rem-calc(16);
+			}
+
+			margin: 0 auto;
+		}
+
+		.infoCard-location {
+			@include breakpoint(medium) {
+				max-width: rem-calc(270);
+				margin-bottom: rem-calc(25);
+			}
+			
+			h3 {
+				margin-bottom: rem-calc(16);
+			}
+
+			img {
+				width: rem-calc(190); 
+				display: block; 
+				margin: 0 auto rem-calc(16);
+			}
+		}
+
+		.infoCard-time,
+		.infoCard-theme {
+			max-width: rem-calc(205); 
+			margin: 0 auto rem-calc(25);
+		}
+	}
+}
+
+.weddingEvent#cocktailParty	{
+	.eventDetails {
+		@include breakpoint(medium) {
+			background: #fff url('/img/wedding-details/cocktailParty/bastion-banner.png') center center/cover no-repeat;
+		}
+	}
+}
+
+
+.weddingEvent#weddingDay	{
+	.eventDetails {
+		@include breakpoint(medium) {
+			background: #fff url('/img/wedding-details/weddingDay/radisson-banner.png') center center/cover no-repeat;
+		}
+	}
+}
