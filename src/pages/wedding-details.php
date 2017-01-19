@@ -104,9 +104,12 @@ body-class: wedding-details
 					<div class="small-12 columns">
 						<div class="row eventTitle">
 							<div class="small-12 columns">
-								<h2>Cocktail Party</h2>
-								<h3>| FRIDAY, APRIL 28</h3>
+								<h2>Wedding Day</h2>
+								<h3>| Saturday, April 29</h3>
 							</div>
+						</div>
+						<div class="row hide-for-medium">
+							<img src="/img/wedding-details/weddingDay/radisson-banner.png" alt="">
 						</div>
 						<div class="row eventDetails">
 							<div class="large-4 columns">
@@ -129,6 +132,9 @@ body-class: wedding-details
 							</div>
 						</div>
 					</div>
+				</div>
+				<div class="row">
+					<div class="bumperRed">&nbsp;</div>
 				</div>
 			</article>
 		</div>
