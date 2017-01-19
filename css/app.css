@@ -4836,6 +4836,10 @@ nav.mainNav {
     .wedding-details {
       background: #C5C5C5 url("/img/wedding-details/large.jpg") 30% top/cover no-repeat fixed; } }
 
+#wedding-details .pageContent {
+  background: #fff;
+  box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); }
+
 .cartagena-info {
   background: #C5C5C5 url("/img/cartagena-info/small.jpg") left top/cover no-repeat fixed; }
   @media print, screen and (min-width: 40em) {

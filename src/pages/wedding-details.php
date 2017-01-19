@@ -48,12 +48,14 @@ body-class: wedding-details
 				</aside>
 			</div>
 		</div>
-		<div class="row">
-			<div class="medium-9 medium-push-3 large-7 large-push-5 columns">
-				<article class="loveStory-prose" style="height: 500px;">
-					&nbsp;
-				</article>
-			</div>
+		<div class="row pageContent">
+			<article class="small-12 columns">
+				<div class="row">
+					<div class="small-12 columns" style="padding: 50px;">
+						&nbsp;
+					</div>
+				</div>
+			</article>
 		</div>
 	</main>
 </div> <!-- end .off-canvas-content -->
