@@ -4839,6 +4839,9 @@ nav.mainNav {
 #wedding-details .pageContent {
   background: #fff;
   box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); }
+  #wedding-details .pageContent article {
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem; }
 
 .cartagena-info {
   background: #C5C5C5 url("/img/cartagena-info/small.jpg") left top/cover no-repeat fixed; }

@@ -51,8 +51,8 @@ body-class: wedding-details
 		<div class="row pageContent">
 			<article class="small-12 columns">
 				<div class="row">
-					<div class="small-12 columns" style="padding: 50px;">
-						&nbsp;
+					<div class="small-12 columns">
+						<!-- &nbsp; -->
 					</div>
 				</div>
 			</article>
