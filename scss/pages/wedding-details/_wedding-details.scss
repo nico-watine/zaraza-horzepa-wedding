@@ -3,6 +3,10 @@
 @import "_background.scss";
 
 #wedding-details {
+	.loveStory-headline {
+		margin-top: rem-calc(100);
+	}
+	
 	.pageContent {
 		background: #fff; 
 		box-shadow: 0 rem-calc(1) rem-calc(4) 0 rgba(0,0,0,0.37); 
