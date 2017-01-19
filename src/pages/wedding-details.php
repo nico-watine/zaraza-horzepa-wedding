@@ -50,7 +50,7 @@ body-class: wedding-details
 		</div>
 		<div class="row pageContent">
 			<article class="small-12 columns">
-				<div class="row weddingEvent" id="cocktailParty" style="margin-bottom: 40px;">
+				<div class="row weddingEvent" id="cocktailParty">
 					<div class="small-12 columns">
 						<div class="row eventTitle">
 							<div class="small-12 columns">
@@ -81,7 +81,10 @@ body-class: wedding-details
 						</div>
 					</div>
 				</div>
-				<div class="row weddingEvent" id="weddingDay" style="margin-bottom: 40px;">
+				<div class="row">
+					<div class="bumperRed">&nbsp;</div>
+				</div>
+				<div class="row weddingEvent" id="weddingDay">
 					<div class="small-12 columns">
 						<div class="row eventTitle">
 							<div class="small-12 columns">
