@@ -1,9 +1,9 @@
 ---
 url: /
-title: Our Story
-description: The beautiful love story of Joe & Juliana, 16 years in the making.
-og-title: Joe & Juliana's Love Story
-og-description: Joe knew from the beginning that he had just met his future wife. A love story 16 years in the making.
+title: Wedding Details
+description: 
+og-title: 
+og-description: 
 og-image:
 body-id: wedding-details
 body-class: wedding-details
