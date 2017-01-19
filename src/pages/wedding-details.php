@@ -54,8 +54,8 @@ body-class: wedding-details
 					<div class="small-12 columns">
 						<div class="row eventTitle">
 							<div class="small-12 columns">
-								<h2 style="padding-left: 50px; display: inline-block;">Cocktail Party</h2>
-								<h3 style="display: inline-block;">| FRIDAY, APRIL 28</h3>
+								<h2>Cocktail Party</h2>
+								<h3>| FRIDAY, APRIL 28</h3>
 							</div>
 						</div>
 						<div class="row eventDetails">
@@ -88,8 +88,8 @@ body-class: wedding-details
 					<div class="small-12 columns">
 						<div class="row eventTitle">
 							<div class="small-12 columns">
-								<h2 style="padding-left: 50px; display: inline-block;">Cocktail Party</h2>
-								<h3 style="display: inline-block;">| FRIDAY, APRIL 28</h3>
+								<h2>Cocktail Party</h2>
+								<h3>| FRIDAY, APRIL 28</h3>
 							</div>
 						</div>
 						<div class="row eventDetails">

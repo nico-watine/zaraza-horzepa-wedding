@@ -22,6 +22,16 @@
 }
 
 .weddingEvent	{
+	.eventTitle {
+		h2 {
+			padding-left: rem-calc(50); 
+			display: inline-block;
+		}
+
+		h3 {
+			display: inline-block;
+		}
+	}
 	.eventDetails {
 		background: #fff;
 		padding-top: rem-calc(20);

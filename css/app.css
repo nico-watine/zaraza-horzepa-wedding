@@ -4841,6 +4841,13 @@ nav.mainNav {
     width: 100%;
     margin: 1.25rem 0; }
 
+.weddingEvent .eventTitle h2 {
+  padding-left: 3.125rem;
+  display: inline-block; }
+
+.weddingEvent .eventTitle h3 {
+  display: inline-block; }
+
 .weddingEvent .eventDetails {
   background: #fff;
   padding-top: 1.25rem;
