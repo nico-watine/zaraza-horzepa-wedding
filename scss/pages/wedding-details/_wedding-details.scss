@@ -37,14 +37,9 @@
 
 .weddingEvent	{
 	.eventTitle {
-		h2 {
-			display: inline-block;
+		text-align: center;
 
-			@include breakpoint(medium) {
-				padding-left: rem-calc(50); 
-			}
-		}
-
+		h2,
 		h3 {
 			display: inline-block;
 		}

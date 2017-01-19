@@ -4845,14 +4845,11 @@ nav.mainNav {
     width: 100%;
     margin: 1.25rem 0; }
 
-.weddingEvent .eventTitle h2 {
-  display: inline-block; }
-  @media print, screen and (min-width: 40em) {
-    .weddingEvent .eventTitle h2 {
-      padding-left: 3.125rem; } }
-
-.weddingEvent .eventTitle h3 {
-  display: inline-block; }
+.weddingEvent .eventTitle {
+  text-align: center; }
+  .weddingEvent .eventTitle h2,
+  .weddingEvent .eventTitle h3 {
+    display: inline-block; }
 
 .weddingEvent .eventDetails {
   background: #fff;
