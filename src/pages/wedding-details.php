@@ -60,7 +60,7 @@ body-class: wedding-details
 						</div>
 						<div class="row eventDetails">
 							<div class="large-4 columns end">
-								<div class="infoCard text-center" style="max-width: 270px; margin: 0 auto;">
+								<div class="infoCard infoCard-location text-center" style="max-width: 270px; margin: 0 auto;">
 									<h3 style="margin-bottom: 16px;">Location</h3>
 									<h5>Bastión Luxury Hotel</h5>
 									<img style="width: 190px; display: block; margin: 0 auto 16px;" src="/img/wedding-details/cocktailParty/bastion_logo.png" alt="Bastion Luxury Hotel Logo">
