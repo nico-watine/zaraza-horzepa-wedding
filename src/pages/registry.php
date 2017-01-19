@@ -18,9 +18,9 @@ body-class: registry
 	<ul class="vertical menu">
 		<li><a href="/">Our Story</a></li>
 		<li><a href="http://www.rsvp.zaraza-horzepa2017.wedding/" target="_blank">RSVP</a></li>
-		<li class="active"><a href="/wedding-details">Wedding Details</a></li>
+		<li><a href="/wedding-details">Wedding Details</a></li>
 		<li><a href="/cartagena-info">Cartagena Info</a></li>
-		<li><a href="/registry">Registry</a></li>
+		<li class="active"><a href="/registry">Registry</a></li>
 	</ul>
 </div>
 <div class="off-canvas-content" data-off-canvas-content style="background: none;">
@@ -33,9 +33,9 @@ body-class: registry
 					<ul class="menu">
 						<li><a href="/">Our Story</a></li>
 						<li><a href="http://www.rsvp.zaraza-horzepa2017.wedding/" target="_blank">RSVP</a></li>
-						<li class="active"><a href="/wedding-details">Wedding Details</a></li>
+						<li><a href="/wedding-details">Wedding Details</a></li>
 						<li><a href="/cartagena-info">Cartagena Info</a></li>
-						<li><a href="/registry">Registry</a></li>
+						<li class="active"><a href="/registry">Registry</a></li>
 					</ul>
 				</nav>
 			</div>
