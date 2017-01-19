@@ -14,45 +14,9 @@
 	}
 }
 
-.weddingEvent#cocktailParty	{
+.weddingEvent	{
 	.eventDetails {
-		background: #fff url('/img/wedding-details/cocktailParty/bastion-banner.png') center center/cover no-repeat;
-		padding-top: rem-calc(20);
-		padding-bottom: rem-calc(20);
-
-		.infoCard {
-			background: #fff;
-			box-shadow: $z-1;
-			border-radius: rem-calc(4);
-			padding: rem-calc(16);
-			margin: 0 auto;
-		}
-
-		.infoCard-location {
-			max-width: rem-calc(270);
-			
-			h3 {
-				margin-bottom: rem-calc(16);
-			}
-
-			img {
-				width: rem-calc(190); 
-				display: block; 
-				margin: 0 auto rem-calc(16);
-			}
-		}
-
-		.infoCard-time,
-		.infoCard-theme {
-			max-width: rem-calc(180); 
-			margin: 0 auto;
-		}
-	}
-}
-
-.weddingEvent#weddingDay	{
-	.eventDetails {
-		background: #fff url('/img/wedding-details/weddingDay/radisson-banner.png') center center/cover no-repeat;
+		background: #fff;
 		padding-top: rem-calc(20);
 		padding-bottom: rem-calc(20);
 
@@ -83,5 +47,18 @@
 			max-width: rem-calc(205); 
 			margin: 0 auto;
 		}
+	}
+}
+
+.weddingEvent#cocktailParty	{
+	.eventDetails {
+		background: #fff url('/img/wedding-details/cocktailParty/bastion-banner.png') center center/cover no-repeat;
+	}
+}
+
+
+.weddingEvent#weddingDay	{
+	.eventDetails {
+		background: #fff url('/img/wedding-details/weddingDay/radisson-banner.png') center center/cover no-repeat;
 	}
 }
