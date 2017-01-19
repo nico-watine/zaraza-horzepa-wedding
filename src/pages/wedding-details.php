@@ -59,13 +59,23 @@ body-class: wedding-details
 							</div>
 						</div>
 						<div class="row eventDetails">
-							<div class="large-4 columns end">
+							<div class="large-4 columns">
 								<div class="infoCard infoCard-location text-center" style="max-width: 270px; margin: 0 auto;">
 									<h3 style="margin-bottom: 16px;">Location</h3>
 									<h5>Bastión Luxury Hotel</h5>
 									<img style="width: 190px; display: block; margin: 0 auto 16px;" src="/img/wedding-details/cocktailParty/bastion_logo.png" alt="Bastion Luxury Hotel Logo">
 									<p><a href="http://en.bastionluxuryhotel.com" target="_blank">Official Website</a></p>
 									<p class="text-left">Transportation will be provided between your hotel and the cocktail party.</p>
+								</div>
+							</div>
+							<div class="large-3 columns">
+								<div class="infoCard infoCard-time text-center" style="max-width: 180px; margin: 0 auto; margin-bottom: 25px;">
+									<h3>Time</h3>
+									<p style="margin-bottom: 0;">6PM</p>
+								</div>
+								<div class="infoCard infoCard-theme text-center" style="max-width: 180px; margin: 0 auto;">
+									<h3>Theme</h3>
+									<p style="margin-bottom: 0;">White-Linen Party</p>
 								</div>
 							</div>
 						</div>
