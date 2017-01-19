@@ -14,7 +14,21 @@
 
 		.bumperRed {
 			background: #A61B2C;
-			height: rem-calc(20);
+			height: rem-calc(14);
+			width: 100%;
+			margin: rem-calc(20) 0;
+		}
+
+		.bumperYellow {
+			background: #D08528;
+			height: rem-calc(14);
+			width: 100%;
+			margin: rem-calc(20) 0;
+		}
+
+		.bumperBlue {
+			background: #5BB3CB;
+			height: rem-calc(14);
 			width: 100%;
 			margin: rem-calc(20) 0;
 		}

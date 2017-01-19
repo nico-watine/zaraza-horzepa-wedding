@@ -50,6 +50,19 @@ body-class: wedding-details
 		</div>
 		<div class="row pageContent">
 			<article class="small-12 columns">
+				<div class="row weddingEvent" id="guestArrival">
+					<div class="small-12 columns">
+						<div class="row eventTitle">
+							<div class="small-12 columns">
+								<h2>Guest Arrival</h2>
+								<h3>| THURSDAY, APRIL 27</h3>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					<div class="bumperYellow">&nbsp;</div>
+				</div>
 				<div class="row weddingEvent" id="cocktailParty">
 					<div class="small-12 columns">
 						<div class="row eventTitle">
@@ -82,7 +95,7 @@ body-class: wedding-details
 					</div>
 				</div>
 				<div class="row">
-					<div class="bumperRed">&nbsp;</div>
+					<div class="bumperBlue">&nbsp;</div>
 				</div>
 				<div class="row weddingEvent" id="weddingDay">
 					<div class="small-12 columns">
