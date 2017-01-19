@@ -54,7 +54,7 @@
 		background: #fff;
 		padding-top: rem-calc(20);
 
-		@include breakpoint(medium) {
+		@include breakpoint(large) {
 			padding-bottom: rem-calc(20);
 		}
 
@@ -72,6 +72,7 @@
 		.infoCard-location {
 			@include breakpoint(medium) {
 				max-width: rem-calc(270);
+				margin-bottom: rem-calc(25);
 			}
 			
 			h3 {
@@ -88,7 +89,7 @@
 		.infoCard-time,
 		.infoCard-theme {
 			max-width: rem-calc(205); 
-			margin: 0 auto;
+			margin: 0 auto rem-calc(25);
 		}
 	}
 }

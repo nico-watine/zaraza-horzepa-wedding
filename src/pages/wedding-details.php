@@ -84,8 +84,8 @@ body-class: wedding-details
 									<p>Transportation will be provided between your hotel and the cocktail party.</p>
 								</div>
 							</div>
-							<div class="large-3 columns">
-								<div class="infoCard infoCard-time text-center" style="margin-bottom: 25px;">
+							<div class="large-3 columns text-center">
+								<div class="infoCard infoCard-time text-center">
 									<h3>Time</h3>
 									<p class="margin-0">6PM</p>
 								</div>
