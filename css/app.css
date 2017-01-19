@@ -4843,6 +4843,11 @@ nav.mainNav {
     padding-top: 1.25rem;
     padding-bottom: 1.25rem; }
 
+.weddingEvent#cocktailParty .eventDetails {
+  background: #fff url("/img/wedding-details/cocktailParty/bastion-banner.png") center center/cover no-repeat;
+  padding-top: 1.25rem;
+  padding-bottom: 1.25rem; }
+
 .cartagena-info {
   background: #C5C5C5 url("/img/cartagena-info/small.jpg") left top/cover no-repeat fixed; }
   @media print, screen and (min-width: 40em) {

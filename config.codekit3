@@ -4201,6 +4201,14 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/dist\/img\/wedding-details\/cocktailParty\/bastion-banner.png": {
+		"ft": 32768,
+		"iS": 955394,
+		"oA": 1,
+		"oAP": "\/dist\/img\/wedding-details\/cocktailParty\/bastion-banner.png",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/dist\/img\/wedding-details\/large.jpg": {
 		"ft": 16384,
 		"iS": 218943,
@@ -4398,6 +4406,22 @@
 		"iS": 60100,
 		"oA": 1,
 		"oAP": "\/img\/our-story\/small.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/wedding-details\/cocktailParty\/bastion-banner.png": {
+		"ft": 32768,
+		"iS": 955394,
+		"oA": 1,
+		"oAP": "\/img\/wedding-details\/cocktailParty\/bastion-banner.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/wedding-details\/cocktailParty\/bastion_logo.png": {
+		"ft": 32768,
+		"iS": 80783,
+		"oA": 1,
+		"oAP": "\/img\/wedding-details\/cocktailParty\/bastion_logo.png",
 		"oF": 0,
 		"opt": 0
 		},

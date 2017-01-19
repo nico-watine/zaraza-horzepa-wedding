@@ -50,13 +50,16 @@ body-class: wedding-details
 		</div>
 		<div class="row pageContent">
 			<article class="small-12 columns">
-				<div class="row" id="cocktailParty">
+				<div class="row weddingEvent" id="cocktailParty">
 					<div class="small-12 columns">
 						<div class="row eventTitle">
 							<div class="small-12 columns">
 								<h2 style="padding-left: 50px; display: inline-block;">Cocktail Party</h2>
 								<h3 style="display: inline-block;">| FRIDAY, APRIL 28</h3>
 							</div>
+						</div>
+						<div class="row eventDetails">
+							
 						</div>
 					</div>
 				</div>
