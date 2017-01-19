@@ -71,6 +71,9 @@ body-class: wedding-details
 								<h3>| FRIDAY, APRIL 28</h3>
 							</div>
 						</div>
+						<div class="row hide-for-medium">
+							<img src="/img/wedding-details/cocktailParty/bastion-banner.png" alt="">
+						</div>
 						<div class="row eventDetails">
 							<div class="large-4 columns">
 								<div class="infoCard infoCard-location text-center">
@@ -78,7 +81,7 @@ body-class: wedding-details
 									<h5>Bastión Luxury Hotel</h5>
 									<img src="/img/wedding-details/cocktailParty/bastion_logo.png" alt="Bastion Luxury Hotel Logo">
 									<p><a href="http://en.bastionluxuryhotel.com" target="_blank">Official Website</a></p>
-									<p class="text-left">Transportation will be provided between your hotel and the cocktail party.</p>
+									<p>Transportation will be provided between your hotel and the cocktail party.</p>
 								</div>
 							</div>
 							<div class="large-3 columns">

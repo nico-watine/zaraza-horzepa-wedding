@@ -38,29 +38,41 @@
 .weddingEvent	{
 	.eventTitle {
 		h2 {
-			padding-left: rem-calc(50); 
 			display: inline-block;
+
+			@include breakpoint(medium) {
+				padding-left: rem-calc(50); 
+			}
 		}
 
 		h3 {
 			display: inline-block;
 		}
 	}
+
 	.eventDetails {
 		background: #fff;
 		padding-top: rem-calc(20);
-		padding-bottom: rem-calc(20);
+		
+		@include breakpoint(medium) {
+			padding-bottom: rem-calc(20);
+		}
 
 		.infoCard {
-			background: #fff;
-			box-shadow: $z-1;
-			border-radius: rem-calc(4);
-			padding: rem-calc(16);
+			@include breakpoint(medium) {
+				background: #fff;
+				box-shadow: $z-1;
+				border-radius: rem-calc(4);
+				padding: rem-calc(16);
+			}
+
 			margin: 0 auto;
 		}
 
 		.infoCard-location {
-			max-width: rem-calc(270);
+			@include breakpoint(medium) {
+				max-width: rem-calc(270);
+			}
 			
 			h3 {
 				margin-bottom: rem-calc(16);
@@ -83,7 +95,9 @@
 
 .weddingEvent#cocktailParty	{
 	.eventDetails {
-		background: #fff url('/img/wedding-details/cocktailParty/bastion-banner.png') center center/cover no-repeat;
+		@include breakpoint(medium) {
+			background: #fff url('/img/wedding-details/cocktailParty/bastion-banner.png') center center/cover no-repeat;
+		}
 	}
 }
 
