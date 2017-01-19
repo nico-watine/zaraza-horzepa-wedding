@@ -29,6 +29,8 @@
 		}
 
 		.infoCard-location {
+			max-width: rem-calc(270);
+			
 			h3 {
 				margin-bottom: rem-calc(16);
 			}
@@ -37,10 +39,6 @@
 				width: rem-calc(190); 
 				display: block; 
 				margin: 0 auto rem-calc(16);
-			}
-
-			@include breakpoint(large) {
-				max-width: rem-calc(270);
 			}
 		}
 

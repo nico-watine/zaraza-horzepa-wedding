@@ -4846,15 +4846,14 @@ nav.mainNav {
     border-radius: 0.25rem;
     padding: 1rem;
     margin: 0 auto; }
-  .weddingEvent#cocktailParty .eventDetails .infoCard-location h3 {
-    margin-bottom: 1rem; }
-  .weddingEvent#cocktailParty .eventDetails .infoCard-location img {
-    width: 11.875rem;
-    display: block;
-    margin: 0 auto 1rem; }
-  @media print, screen and (min-width: 64em) {
-    .weddingEvent#cocktailParty .eventDetails .infoCard-location {
-      max-width: 16.875rem; } }
+  .weddingEvent#cocktailParty .eventDetails .infoCard-location {
+    max-width: 16.875rem; }
+    .weddingEvent#cocktailParty .eventDetails .infoCard-location h3 {
+      margin-bottom: 1rem; }
+    .weddingEvent#cocktailParty .eventDetails .infoCard-location img {
+      width: 11.875rem;
+      display: block;
+      margin: 0 auto 1rem; }
   .weddingEvent#cocktailParty .eventDetails .infoCard-time,
   .weddingEvent#cocktailParty .eventDetails .infoCard-theme {
     max-width: 11.25rem;
