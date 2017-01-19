@@ -25,6 +25,29 @@
 			box-shadow: $z-1;
 			border-radius: rem-calc(4);
 			padding: rem-calc(16);
+			margin: 0 auto;
+		}
+
+		.infoCard-location {
+			h3 {
+				margin-bottom: rem-calc(16);
+			}
+
+			img {
+				width: rem-calc(190); 
+				display: block; 
+				margin: 0 auto rem-calc(16);
+			}
+
+			@include breakpoint(large) {
+				max-width: rem-calc(270);
+			}
+		}
+
+		.infoCard-time,
+		.infoCard-theme {
+			max-width: rem-calc(180); 
+			margin: 0 auto;
 		}
 	}
 }

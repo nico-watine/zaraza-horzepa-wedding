@@ -3873,34 +3873,27 @@ table {
   width: 100%;
   margin-bottom: 1rem;
   border-radius: 0; }
-  table thead,
-  table tbody,
-  table tfoot {
+  thead, tbody, tfoot {
     border: 1px solid #f1f1f1;
     background-color: #fefefe; }
-  table caption {
+  caption {
     padding: 0.5rem 0.625rem 0.625rem;
     font-weight: bold; }
-  table thead {
+  thead {
     background: #f8f8f8;
     color: #0a0a0a; }
-  table tfoot {
+  tfoot {
     background: #f1f1f1;
     color: #0a0a0a; }
-  table thead tr,
-  table tfoot tr {
+  thead tr, tfoot tr {
     background: transparent; }
-  table thead th,
-  table thead td,
-  table tfoot th,
-  table tfoot td {
+  thead th, thead td, tfoot th, tfoot td {
     padding: 0.5rem 0.625rem 0.625rem;
     font-weight: bold;
     text-align: left; }
-  table tbody th,
-  table tbody td {
+  tbody th, tbody td {
     padding: 0.5rem 0.625rem 0.625rem; }
-  table tbody tr:nth-child(even) {
+  tbody tr:nth-child(even) {
     border-bottom: 0;
     background-color: #f1f1f1; }
   table.unstriped tbody {
@@ -4851,7 +4844,21 @@ nav.mainNav {
     background: #fff;
     box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37);
     border-radius: 0.25rem;
-    padding: 1rem; }
+    padding: 1rem;
+    margin: 0 auto; }
+  .weddingEvent#cocktailParty .eventDetails .infoCard-location h3 {
+    margin-bottom: 1rem; }
+  .weddingEvent#cocktailParty .eventDetails .infoCard-location img {
+    width: 11.875rem;
+    display: block;
+    margin: 0 auto 1rem; }
+  @media print, screen and (min-width: 64em) {
+    .weddingEvent#cocktailParty .eventDetails .infoCard-location {
+      max-width: 16.875rem; } }
+  .weddingEvent#cocktailParty .eventDetails .infoCard-time,
+  .weddingEvent#cocktailParty .eventDetails .infoCard-theme {
+    max-width: 11.25rem;
+    margin: 0 auto; }
 
 .cartagena-info {
   background: #C5C5C5 url("/img/cartagena-info/small.jpg") left top/cover no-repeat fixed; }
@@ -4865,7 +4872,7 @@ nav.mainNav {
 .p-0 {
   padding: 0; }
 
-.m-0 {
+.margin-0 {
   margin: 0; }
 
 .p-x {
