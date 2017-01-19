@@ -24,6 +24,7 @@ body-class: wedding-details
 	</ul>
 </div>
 <div class="off-canvas-content" data-off-canvas-content style="background: none;">
+<div class="splash-background">
 	<header>
 		<div class="row">
 		<button class="float-right menu-icon hide-for-medium" type="button" data-open="offCanvas"></button>
@@ -40,7 +41,7 @@ body-class: wedding-details
 			</div>
 		</div>
 	</header>
-	<main>
+	<!-- <main> -->
 		<div class="row">
 			<div class="medium-6 medium-push-6 columns">
 				<aside class="loveStory-headline">
@@ -48,6 +49,7 @@ body-class: wedding-details
 				</aside>
 			</div>
 		</div>
+</div>
 		<div class="row pageContent">
 			<article class="small-12 columns">
 				<div class="row weddingEvent" id="guestArrival">
@@ -138,5 +140,5 @@ body-class: wedding-details
 				</div>
 			</article>
 		</div>
-	</main>
+	<!-- </main> -->
 </div> <!-- end .off-canvas-content -->

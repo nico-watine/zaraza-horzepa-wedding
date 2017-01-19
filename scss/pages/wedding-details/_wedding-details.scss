@@ -8,7 +8,7 @@
 		box-shadow: 0 rem-calc(1) rem-calc(4) 0 rgba(0,0,0,0.37); 
 
 		article {
-			padding-top: rem-calc(20);
+			padding-top: rem-calc(40);
 			padding-bottom: rem-calc(20);
 		}
 
@@ -16,21 +16,21 @@
 			background: #A61B2C;
 			height: rem-calc(14);
 			width: 100%;
-			margin: rem-calc(20) 0;
+			margin: 0 0 rem-calc(40) 0;
 		}
 
 		.bumperYellow {
 			background: #D08528;
 			height: rem-calc(14);
 			width: 100%;
-			margin: rem-calc(20) 0;
+			margin: rem-calc(40) 0;
 		}
 
 		.bumperBlue {
 			background: #5BB3CB;
 			height: rem-calc(14);
 			width: 100%;
-			margin: rem-calc(20) 0;
+			margin: 0 0 rem-calc(40);
 		}
 	}
 }
