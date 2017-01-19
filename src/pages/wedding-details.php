@@ -55,7 +55,7 @@ body-class: wedding-details
 						<div class="row eventTitle">
 							<div class="small-12 columns">
 								<h2>Guest Arrival</h2>
-								<h3>| THURSDAY, APRIL 27</h3>
+								<h3><span class="hide-for-small-only">&nbsp;|</span> THURSDAY, APRIL 27</h3>
 							</div>
 						</div>
 					</div>
@@ -68,7 +68,7 @@ body-class: wedding-details
 						<div class="row eventTitle">
 							<div class="small-12 columns">
 								<h2>Cocktail Party</h2>
-								<h3>| FRIDAY, APRIL 28</h3>
+								<h3><span class="hide-for-small-only">&nbsp;|</span> FRIDAY, APRIL 28</h3>
 							</div>
 						</div>
 						<div class="row hide-for-medium">
@@ -105,7 +105,7 @@ body-class: wedding-details
 						<div class="row eventTitle">
 							<div class="small-12 columns">
 								<h2>Wedding Day</h2>
-								<h3>| Saturday, April 29</h3>
+								<h3><span class="hide-for-small-only">&nbsp;|</span> Saturday, April 29</h3>
 							</div>
 						</div>
 						<div class="row hide-for-medium">

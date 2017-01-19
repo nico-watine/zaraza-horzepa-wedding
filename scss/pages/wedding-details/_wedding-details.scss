@@ -41,7 +41,9 @@
 
 		h2,
 		h3 {
-			display: inline-block;
+			@include breakpoint(medium) {
+				display: inline-block;
+			}
 		}
 	}
 
