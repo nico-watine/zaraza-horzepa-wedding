@@ -74,7 +74,7 @@ body-class: wedding-details
 							</div>
 						</div>
 						<div class="row hide-for-medium">
-							<img src="/img/wedding-details/cocktailParty/bastion-banner.png" alt="">
+							<img src="/img/wedding-details/cocktailParty/bastion-banner.jpg" alt="">
 						</div>
 						<div class="row eventDetails">
 							<div class="large-4 columns">

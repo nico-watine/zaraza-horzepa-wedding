@@ -4894,7 +4894,7 @@ nav.mainNav {
 
 @media print, screen and (min-width: 40em) {
   .weddingEvent#cocktailParty .eventDetails {
-    background: #fff url("/img/wedding-details/cocktailParty/bastion-banner.png") center center/cover no-repeat; } }
+    background: #fff url("/img/wedding-details/cocktailParty/bastion-background.jpg") center center/cover no-repeat; } }
 
 @media print, screen and (min-width: 40em) {
   .weddingEvent#weddingDay .eventDetails {
