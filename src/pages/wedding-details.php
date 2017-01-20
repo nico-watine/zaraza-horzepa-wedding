@@ -81,7 +81,7 @@ body-class: wedding-details
 								<div class="infoCard infoCard-location text-center">
 									<h3>Location</h3>
 									<h5>Bastión Luxury Hotel</h5>
-									<img src="/img/wedding-details/cocktailParty/bastion_logo.png" alt="Bastion Luxury Hotel Logo">
+									<img src="/img/wedding-details/cocktailParty/bastion-logo.png" alt="Bastion Luxury Hotel Logo">
 									<p><a href="http://en.bastionluxuryhotel.com" target="_blank">Official Website</a></p>
 									<p>Transportation will be provided between your hotel and the cocktail party.</p>
 								</div>
