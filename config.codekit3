@@ -4257,6 +4257,14 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/dist\/img\/wedding-details\/palm-bg.jpg": {
+		"ft": 16384,
+		"iS": 294493,
+		"oA": 1,
+		"oAP": "\/dist\/img\/wedding-details\/palm-bg.jpg",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/dist\/img\/wedding-details\/palm-bg.png": {
 		"ft": 32768,
 		"iS": 606012,
@@ -4527,11 +4535,11 @@
 		"oF": 0,
 		"opt": 0
 		},
-	"\/img\/wedding-details\/palm-bg.png": {
-		"ft": 32768,
-		"iS": 606012,
+	"\/img\/wedding-details\/palm-bg.jpg": {
+		"ft": 16384,
+		"iS": 294493,
 		"oA": 1,
-		"oAP": "\/img\/wedding-details\/palm-bg.png",
+		"oAP": "\/img\/wedding-details\/palm-bg.jpg",
 		"oF": 0,
 		"opt": 0
 		},
