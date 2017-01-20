@@ -4273,6 +4273,22 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/dist\/img\/wedding-details\/weddingDay\/radisson-background.jpg": {
+		"ft": 16384,
+		"iS": 89391,
+		"oA": 1,
+		"oAP": "\/dist\/img\/wedding-details\/weddingDay\/radisson-background.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/wedding-details\/weddingDay\/radisson-banner.jpg": {
+		"ft": 16384,
+		"iS": 54596,
+		"oA": 1,
+		"oAP": "\/dist\/img\/wedding-details\/weddingDay\/radisson-banner.jpg",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/dist\/img\/wedding-details\/weddingDay\/radisson-banner.png": {
 		"ft": 32768,
 		"iS": 239750,
@@ -4527,19 +4543,27 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/img\/wedding-details\/weddingDay\/radisson-background.jpg": {
+		"ft": 16384,
+		"iS": 89391,
+		"oA": 1,
+		"oAP": "\/img\/wedding-details\/weddingDay\/radisson-background.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/wedding-details\/weddingDay\/radisson-banner.jpg": {
+		"ft": 16384,
+		"iS": 54596,
+		"oA": 1,
+		"oAP": "\/img\/wedding-details\/weddingDay\/radisson-banner.jpg",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/img\/wedding-details\/weddingDay\/radisson-banner.png": {
 		"ft": 32768,
 		"iS": 239750,
 		"oA": 1,
 		"oAP": "\/img\/wedding-details\/weddingDay\/radisson-banner.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/img\/wedding-details\/weddingDay\/radisson-logo.png": {
-		"ft": 32768,
-		"iS": 20850,
-		"oA": 1,
-		"oAP": "\/img\/wedding-details\/weddingDay\/radisson-logo.png",
 		"oF": 0,
 		"opt": 0
 		},
