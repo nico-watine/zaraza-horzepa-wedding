@@ -4784,26 +4784,21 @@ nav.mainNav {
     font-weight: 600;
     float: right; }
 
-.loveStory-prose {
-  background: #fff;
-  box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37);
-  padding: 1.25rem;
-  margin-bottom: 3.75rem; }
-
 @media print, screen and (min-width: 40em) {
   .pageTitle {
     margin-top: 0; } }
 
-.index {
+.index .splash-background {
   background: #C5C5C5 url("/img/our-story/small.jpg") left top/cover no-repeat fixed; }
   @media only screen and (max-width: 30em) {
-    .index {
+    .index .splash-background {
       background: #C5C5C5 url("/img/our-story/max-480.jpg") left top/contain no-repeat; } }
   @media print, screen and (min-width: 40em) {
-    .index {
-      background: #C5C5C5 url("/img/our-story/medium.jpg") 30% top/cover no-repeat fixed; } }
+    .index .splash-background {
+      background: #C5C5C5 url("/img/our-story/medium.jpg") 30% top/cover no-repeat fixed;
+      height: 40.625rem; } }
   @media print, screen and (min-width: 64em) {
-    .index {
+    .index .splash-background {
       background: #C5C5C5 url("/img/our-story/large.jpg") 30% top/cover no-repeat fixed; } }
 
 .index .loveStory-headline,
@@ -4845,16 +4840,19 @@ nav.mainNav {
 .cartagena-info .loveStory-prose,
 .wedding-details .loveStory-prose,
 .registry .loveStory-prose {
-  background: #fff;
-  box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37);
   padding: 1.25rem;
-  margin-bottom: 3.75rem; }
+  margin-bottom: 1.875rem; }
 
 @media print, screen and (min-width: 40em) {
   .index .loveStory-headline,
   .cartagena-info .loveStory-headline,
   .wedding-details .loveStory-headline {
     margin-top: 0; } }
+
+.wedding-details {
+  background: #e1e1e1; }
+  .wedding-details .splash-background {
+    background: #C5C5C5 url("/img/wedding-details/palm-bg.jpg") center top/100% auto repeat; }
 
 #wedding-details .pageTitle {
   margin-top: 6.25rem; }

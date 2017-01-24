@@ -29,12 +29,12 @@ $max-570: "only screen and (max-width : 35.625em)";
 	}
 }
 
-.loveStory-prose {
-	background: #fff; 
-	box-shadow: 0 rem-calc(1) rem-calc(4) 0 rgba(0,0,0,0.37); 
-	padding: rem-calc(20);
-	margin-bottom: rem-calc(60);
-}
+// .loveStory-prose {
+// 	background: #fff; 
+// 	box-shadow: 0 rem-calc(1) rem-calc(4) 0 rgba(0,0,0,0.37); 
+// 	padding: rem-calc(20);
+// 	margin-bottom: rem-calc(60);
+// }
 
 
 @include breakpoint(medium) {
