@@ -1,2 +1,44 @@
 @import "../_settings.scss";
 
+$max-570: "only screen and (max-width : 35.625em)";
+
+.pageTitle {
+	text-align: right; 
+	background: rgba(0,0,0,0.35); 
+	padding: rem-calc(12) rem-calc(16); 
+	float: right;
+
+	@media #{$max-570} {
+		margin-top: rem-calc(100);
+		margin-bottom: rem-calc(30);
+	}
+	
+	margin-bottom: rem-calc(60);
+	margin-top: rem-calc(200);
+
+	h1,
+	p {
+		color: #fff;
+	}
+
+	p {
+		max-width: rem-calc(300);
+		letter-spacing: rem-calc(0.1);
+		font-weight: 600;
+		float: right;
+	}
+}
+
+.loveStory-prose {
+	background: #fff; 
+	box-shadow: 0 rem-calc(1) rem-calc(4) 0 rgba(0,0,0,0.37); 
+	padding: rem-calc(20);
+	margin-bottom: rem-calc(60);
+}
+
+
+@include breakpoint(medium) {
+	.pageTitle {
+		margin-top: 0;
+	}	
+}
