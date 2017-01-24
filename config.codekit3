@@ -4059,6 +4059,16 @@
 		"oAP": "\/dist\/cartagena-info.php",
 		"oF": 0
 		},
+	"\/dist\/css\/app-min.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/dist\/css\/app-min-min.css",
+		"oF": 0,
+		"oS": 0
+		},
 	"\/dist\/css\/app.css": {
 		"aP": 0,
 		"bl": 0,
@@ -4162,6 +4172,70 @@
 		"iS": 13538,
 		"oA": 1,
 		"oAP": "\/dist\/img\/icons\/esp_2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/our-story\/gallery\/our-story-1.jpg": {
+		"ft": 16384,
+		"iS": 56828,
+		"oA": 1,
+		"oAP": "\/dist\/img\/our-story\/gallery\/our-story-1.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/our-story\/gallery\/our-story-2.jpg": {
+		"ft": 16384,
+		"iS": 50929,
+		"oA": 1,
+		"oAP": "\/dist\/img\/our-story\/gallery\/our-story-2.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/our-story\/gallery\/our-story-3.jpg": {
+		"ft": 16384,
+		"iS": 100622,
+		"oA": 1,
+		"oAP": "\/dist\/img\/our-story\/gallery\/our-story-3.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/our-story\/gallery\/our-story-4.jpg": {
+		"ft": 16384,
+		"iS": 65209,
+		"oA": 1,
+		"oAP": "\/dist\/img\/our-story\/gallery\/our-story-4.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/our-story\/gallery\/our-story-5.jpg": {
+		"ft": 16384,
+		"iS": 49694,
+		"oA": 1,
+		"oAP": "\/dist\/img\/our-story\/gallery\/our-story-5.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/our-story\/gallery\/our-story-6.jpg": {
+		"ft": 16384,
+		"iS": 40095,
+		"oA": 1,
+		"oAP": "\/dist\/img\/our-story\/gallery\/our-story-6.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/our-story\/gallery\/our-story-7.jpg": {
+		"ft": 16384,
+		"iS": 46856,
+		"oA": 1,
+		"oAP": "\/dist\/img\/our-story\/gallery\/our-story-7.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/our-story\/gallery\/our-story-8.jpg": {
+		"ft": 16384,
+		"iS": 71668,
+		"oA": 1,
+		"oAP": "\/dist\/img\/our-story\/gallery\/our-story-8.jpg",
 		"oF": 0,
 		"opt": 0
 		},
@@ -4424,6 +4498,70 @@
 		"iS": 13538,
 		"oA": 1,
 		"oAP": "\/img\/icons\/esp_2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/our-story\/gallery\/our-story-1.jpg": {
+		"ft": 16384,
+		"iS": 56828,
+		"oA": 1,
+		"oAP": "\/img\/our-story\/gallery\/our-story-1.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/our-story\/gallery\/our-story-2.jpg": {
+		"ft": 16384,
+		"iS": 50929,
+		"oA": 1,
+		"oAP": "\/img\/our-story\/gallery\/our-story-2.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/our-story\/gallery\/our-story-3.jpg": {
+		"ft": 16384,
+		"iS": 100622,
+		"oA": 1,
+		"oAP": "\/img\/our-story\/gallery\/our-story-3.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/our-story\/gallery\/our-story-4.jpg": {
+		"ft": 16384,
+		"iS": 65209,
+		"oA": 1,
+		"oAP": "\/img\/our-story\/gallery\/our-story-4.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/our-story\/gallery\/our-story-5.jpg": {
+		"ft": 16384,
+		"iS": 49694,
+		"oA": 1,
+		"oAP": "\/img\/our-story\/gallery\/our-story-5.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/our-story\/gallery\/our-story-6.jpg": {
+		"ft": 16384,
+		"iS": 40095,
+		"oA": 1,
+		"oAP": "\/img\/our-story\/gallery\/our-story-6.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/our-story\/gallery\/our-story-7.jpg": {
+		"ft": 16384,
+		"iS": 46856,
+		"oA": 1,
+		"oAP": "\/img\/our-story\/gallery\/our-story-7.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/our-story\/gallery\/our-story-8.jpg": {
+		"ft": 16384,
+		"iS": 71668,
+		"oA": 1,
+		"oAP": "\/img\/our-story\/gallery\/our-story-8.jpg",
 		"oF": 0,
 		"opt": 0
 		},
