@@ -11,6 +11,13 @@ UNCSS_OPTIONS:
   ignore:
     - !!js/regexp .foundation-mq
     - !!js/regexp ^\.is-.*
+    - .off-canvas
+    - .off-canvas.is-open
+    - .off-canvas.is-transition-overlap.is-open
+    - .js-off-canvas-overlay.is-overlay-fixed
+    - .js-off-canvas-overlay.is-closable
+    - .js-off-canvas-overlay.is-visible
+    - .js-off-canvas-overlay
 
 # Gulp will reference these paths when it copies files
 PATHS:
