@@ -61,33 +61,35 @@ body-class: index
 				</article>
 			</div>
 		</div>
-		<div class="row">
-			<div class="small-6 medium-3 columns">
-				<img class="thumbnail" style="margin-bottom: 30px;" src="/img/our-story/gallery/our-story-1.jpg" alt="">
+		<section class="image-gallery">
+			<div class="row">
+				<div class="small-6 medium-3 columns">
+					<img class="thumbnail" src="/img/our-story/gallery/our-story-1.jpg" title="Joe &amp; Juliana" alt="Joe &amp; Juliana">
+				</div>
+				<div class="small-6 medium-3 columns">
+					<img class="thumbnail" src="/img/our-story/gallery/our-story-2.jpg" title="Joe &amp; Juliana" alt="Joe &amp; Juliana">
+				</div>
+				<div class="small-6 medium-3 columns">
+					<img class="thumbnail" src="/img/our-story/gallery/our-story-3.jpg" title="Joe &amp; Juliana" alt="Joe &amp; Juliana">
+				</div>
+				<div class="small-6 medium-3 columns">
+					<img class="thumbnail" src="/img/our-story/gallery/our-story-4.jpg" title="Joe &amp; Juliana" alt="Joe &amp; Juliana">
+				</div>
 			</div>
-			<div class="small-6 medium-3 columns">
-				<img class="thumbnail" style="margin-bottom: 30px;" src="/img/our-story/gallery/our-story-2.jpg" alt="">
+			<div class="row">
+				<div class="small-6 medium-3 columns">
+					<img class="thumbnail" src="/img/our-story/gallery/our-story-5.jpg" title="Joe &amp; Juliana" alt="Joe &amp; Juliana">
+				</div>
+				<div class="small-6 medium-3 columns">
+					<img class="thumbnail" src="/img/our-story/gallery/our-story-6.jpg" title="Joe &amp; Juliana" alt="Joe &amp; Juliana">
+				</div>
+				<div class="small-6 medium-3 columns">
+					<img class="thumbnail" src="/img/our-story/gallery/our-story-7.jpg" title="Joe &amp; Juliana" alt="Joe &amp; Juliana">
+				</div>
+				<div class="small-6 medium-3 columns">
+					<img class="thumbnail" src="/img/our-story/gallery/our-story-8.jpg" title="Joe &amp; Juliana" alt="Joe &amp; Juliana">
+				</div>
 			</div>
-			<div class="small-6 medium-3 columns">
-				<img class="thumbnail" style="margin-bottom: 30px;" src="/img/our-story/gallery/our-story-3.jpg" alt="">
-			</div>
-			<div class="small-6 medium-3 columns">
-				<img class="thumbnail" style="margin-bottom: 30px;" src="/img/our-story/gallery/our-story-4.jpg" alt="">
-			</div>
-		</div>
-		<div class="row" style="margin-bottom: 30px;">
-			<div class="small-6 medium-3 columns">
-				<img class="thumbnail" style="margin-bottom: 30px;" src="/img/our-story/gallery/our-story-5.jpg" alt="">
-			</div>
-			<div class="small-6 medium-3 columns">
-				<img class="thumbnail" style="margin-bottom: 30px;" src="/img/our-story/gallery/our-story-6.jpg" alt="">
-			</div>
-			<div class="small-6 medium-3 columns">
-				<img class="thumbnail" style="margin-bottom: 30px;" src="/img/our-story/gallery/our-story-7.jpg" alt="">
-			</div>
-			<div class="small-6 medium-3 columns">
-				<img class="thumbnail" style="margin-bottom: 30px;" src="/img/our-story/gallery/our-story-8.jpg" alt="">
-			</div>
-		</div>
+		</section>
 	<!-- </main> -->
 </div> <!-- end .off-canvas-content -->

@@ -4849,6 +4849,11 @@ nav.mainNav {
   .wedding-details .loveStory-headline {
     margin-top: 0; } }
 
+.index .image-gallery {
+  margin-bottom: 3.75rem; }
+  .index .image-gallery img {
+    margin-bottom: 1.875rem; }
+
 .wedding-details {
   background: #e1e1e1; }
   .wedding-details .splash-background {
