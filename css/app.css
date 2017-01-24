@@ -4841,7 +4841,7 @@ nav.mainNav {
 .wedding-details .loveStory-prose,
 .registry .loveStory-prose {
   padding: 1.25rem;
-  margin-bottom: 1.875rem; }
+  margin: 1.875rem 0; }
 
 @media print, screen and (min-width: 40em) {
   .index .loveStory-headline,

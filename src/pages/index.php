@@ -61,5 +61,33 @@ body-class: index
 				</article>
 			</div>
 		</div>
+		<div class="row">
+			<div class="small-6 medium-3 columns">
+				<img style="margin-bottom: 30px;" src="/img/our-story/gallery/our-story-1.jpg" alt="">
+			</div>
+			<div class="small-6 medium-3 columns">
+				<img style="margin-bottom: 30px;" src="/img/our-story/gallery/our-story-2.jpg" alt="">
+			</div>
+			<div class="small-6 medium-3 columns">
+				<img style="margin-bottom: 30px;" src="/img/our-story/gallery/our-story-3.jpg" alt="">
+			</div>
+			<div class="small-6 medium-3 columns">
+				<img style="margin-bottom: 30px;" src="/img/our-story/gallery/our-story-4.jpg" alt="">
+			</div>
+		</div>
+		<div class="row" style="margin-bottom: 30px;">
+			<div class="small-6 medium-3 columns">
+				<img style="margin-bottom: 30px;" src="/img/our-story/gallery/our-story-5.jpg" alt="">
+			</div>
+			<div class="small-6 medium-3 columns">
+				<img style="margin-bottom: 30px;" src="/img/our-story/gallery/our-story-6.jpg" alt="">
+			</div>
+			<div class="small-6 medium-3 columns">
+				<img style="margin-bottom: 30px;" src="/img/our-story/gallery/our-story-7.jpg" alt="">
+			</div>
+			<div class="small-6 medium-3 columns">
+				<img style="margin-bottom: 30px;" src="/img/our-story/gallery/our-story-8.jpg" alt="">
+			</div>
+		</div>
 	<!-- </main> -->
 </div> <!-- end .off-canvas-content -->
