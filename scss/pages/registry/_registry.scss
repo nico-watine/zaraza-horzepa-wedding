@@ -96,19 +96,3 @@
 	}
 }
 
-.weddingEvent#cocktailParty	{
-	.eventDetails {
-		@include breakpoint(medium) {
-			background: #fff url('/img/wedding-details/cocktailParty/bastion-banner.png') center center/cover no-repeat;
-		}
-	}
-}
-
-
-.weddingEvent#weddingDay	{
-	.eventDetails {
-		@include breakpoint(medium) {
-			background: #fff url('/img/wedding-details/weddingDay/radisson-banner.png') center center/cover no-repeat;
-		}
-	}
-}
