@@ -9,4 +9,30 @@
 	.sectionTitle {
 		padding: rem-calc(40) 0;
 	}
+
+	.linkGallery-item {
+		height: rem-calc(230);
+		margin-bottom: rem-calc(40);
+		border-width: rem-calc(3);
+		border-style: solid;
+		border-radius: rem-calc(4);
+	}
+
+	.linkGallery-item#lure {
+		background: #fff;
+		border-color: #17E5C5;
+		box-shadow: 0 2px 2px 0 rgba(23,229,197,0.20), 0 6px 10px 0 rgba(23,229,197,0.30);
+	}
+
+	.linkGallery-item#wanderlustKitchen {
+		background: #252525;
+		border-color: #ECCB3C;
+		box-shadow: 0 2px 2px 0 rgba(236,203,60,0.20), 0 6px 10px 0 rgba(236,203,60,0.30);
+	}
+
+	.linkGallery-item#lonelyPlanet {
+		background: #002E72;
+		border-color: #EE692B;
+		box-shadow: 0 2px 2px 0 rgba(238,104,43,0.20), 0 6px 10px 0 rgba(238,104,43,0.30);
+	}
 }

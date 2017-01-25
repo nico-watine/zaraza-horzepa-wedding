@@ -56,6 +56,23 @@ body-class: cartagena-info
 				<h3>Experience Cartagena</h3>
 			</div>
 		</div>
+		<div class="row sectionLinks">
+			<div class="medium-4 columns">
+				<div class="linkGallery-item" id="lure">
+					
+				</div>
+			</div>
+			<div class="medium-4 columns">
+				<div class="linkGallery-item" id="wanderlustKitchen">
+					
+				</div>
+			</div>
+			<div class="medium-4 columns">
+				<div class="linkGallery-item" id="lonelyPlanet">
+					
+				</div>
+			</div>
+		</div>
 	</section>
 </main>
 </div>
