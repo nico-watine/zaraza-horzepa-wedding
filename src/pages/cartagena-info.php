@@ -41,5 +41,12 @@ body-class: cartagena-info
 			</div>
 		</div>
 	</header>
+	<div class="row">
+		<div class="medium-6 medium-push-6 columns">
+			<aside class="pageTitle">
+				<h1>Cartagena Info</h1>
+			</aside>
+		</div>
+	</div>
 </div>
 </div>
