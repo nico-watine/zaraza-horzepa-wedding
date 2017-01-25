@@ -89,6 +89,16 @@
 		border-color: #000;
 		box-shadow: 0 2px 2px 0 rgba(0,0,0,0.20), 0 6px 10px 0 rgba(0,0,0,0.30);
 	}
+
+	.linkGallery-item#travelGov {
+		background: #0069A5;
+		border-color: #fff;
+		box-shadow: 0 2px 2px 0 rgba(16,88,147,0.20), 0 6px 10px 0 rgba(16,88,147,0.30);
+		max-width: rem-calc(240);
+		width: 100%;
+		margin: 0 auto rem-calc(50);
+		height: auto;
+	}
 }
 
 .linkGallery#experience-cartagena {
@@ -99,4 +109,8 @@
 	background: #fff;
 	border-top: rem-calc(6) solid #EB391F;
 	border-bottom: rem-calc(6) solid #EB391F;
+}
+
+.linkGallery#safe-in-cartagena {
+	background: #FAF9F9 url('/img/cartagena-info/safe-in-cartagena/background/flower-detail.png') right bottom/auto no-repeat;
 }

@@ -205,5 +205,21 @@ body-class: cartagena-info
 			</div>
 		</div>
 	</section>
+	<section class="linkGallery text-center" id="safe-in-cartagena">
+		<div class="row sectionTitle">
+			<div class="small-12 columns">
+				<h3>Safe In Cartagena</h3>
+			</div>
+		</div>
+		<div class="row sectionLinks">
+			<div class="medium-4 medium-push-4 end columns">
+				<div class="linkGallery-item" id="travelGov">
+					<a href="https://travel.state.gov/content/passports/en/alertswarnings/colombia-travel-warning.html" target="_blank">
+						<img src="/img/cartagena-info/safe-in-cartagena/travel-gov/logo.jpg" alt="US State Department Logo">
+					</a>
+				</div>
+			</div>
+		</div>
+	</section>
 </main>
 </div>

@@ -4239,6 +4239,22 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/dist\/img\/cartagena-info\/safe-in-cartagena\/background\/flower-detail.png": {
+		"ft": 32768,
+		"iS": 30325,
+		"oA": 1,
+		"oAP": "\/dist\/img\/cartagena-info\/safe-in-cartagena\/background\/flower-detail.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/cartagena-info\/safe-in-cartagena\/travel-gov\/logo.jpg": {
+		"ft": 16384,
+		"iS": 14220,
+		"oA": 1,
+		"oAP": "\/dist\/img\/cartagena-info\/safe-in-cartagena\/travel-gov\/logo.jpg",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/dist\/img\/cartagena-info\/small.jpg": {
 		"ft": 16384,
 		"iS": 51616,
@@ -4701,27 +4717,27 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/img\/cartagena-info\/safe-in-cartagena\/background\/flower-detail.png": {
+		"ft": 32768,
+		"iS": 30325,
+		"oA": 1,
+		"oAP": "\/img\/cartagena-info\/safe-in-cartagena\/background\/flower-detail.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/cartagena-info\/safe-in-cartagena\/travel-gov\/logo.jpg": {
+		"ft": 16384,
+		"iS": 14220,
+		"oA": 1,
+		"oAP": "\/img\/cartagena-info\/safe-in-cartagena\/travel-gov\/logo.jpg",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/img\/cartagena-info\/small.jpg": {
 		"ft": 16384,
 		"iS": 51616,
 		"oA": 1,
 		"oAP": "\/img\/cartagena-info\/small.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/img\/cartagena-info\/smart-in-cartagena\/background\/flower-detail.png": {
-		"ft": 32768,
-		"iS": 30325,
-		"oA": 1,
-		"oAP": "\/img\/cartagena-info\/smart-in-cartagena\/background\/flower-detail.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/img\/cartagena-info\/smart-in-cartagena\/travel-gov\/logo.jpg": {
-		"ft": 16384,
-		"iS": 14220,
-		"oA": 1,
-		"oAP": "\/img\/cartagena-info\/smart-in-cartagena\/travel-gov\/logo.jpg",
 		"oF": 0,
 		"opt": 0
 		},
