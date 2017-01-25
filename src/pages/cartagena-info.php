@@ -63,7 +63,7 @@ body-class: cartagena-info
 						<tbody>
 							<tr>
 								<td>
-									<img srcset="/img/cartagena-info/experience-cartagena/lure/logo_2x.png 2x" src="/img/cartagena-info/experience-cartagena/lure/logo.png" alt="Lure Logo">
+									<img style="max-width: 255px;" srcset="/img/cartagena-info/experience-cartagena/lure/logo_2x.png 2x" src="/img/cartagena-info/experience-cartagena/lure/logo.png" alt="Lure Logo">
 								</td>
 							</tr>
 						</tbody>
@@ -72,12 +72,28 @@ body-class: cartagena-info
 			</div>
 			<div class="medium-4 columns">
 				<div class="linkGallery-item" id="wanderlustKitchen">
-					<img src="/img/cartagena-info/experience-cartagena/wanderlust-kitchen/logo.png" alt="WanderlustKitchen Logo">
+					<table>
+						<tbody>
+							<tr>
+								<td>
+									<img style="max-width: 320px;" src="/img/cartagena-info/experience-cartagena/wanderlust-kitchen/logo.png" alt="WanderlustKitchen Logo">
+								</td>
+							</tr>
+						</tbody>
+					</table>
 				</div>
 			</div>
 			<div class="medium-4 columns">
 				<div class="linkGallery-item" id="lonelyPlanet">
-					
+					<table>
+						<tbody>
+							<tr>
+								<td>
+									<img style="max-width: 350px;" src="/img/cartagena-info/experience-cartagena/lonely-planet/logo_2x.jpg" alt="Lonely Planet Logo">
+								</td>
+							</tr>
+						</tbody>
+					</table>
 				</div>
 			</div>
 		</div>
