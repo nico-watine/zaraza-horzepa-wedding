@@ -4995,6 +4995,11 @@ nav.mainNav {
 .linkGallery#experience-cartagena {
   background: #FAF9F9 url("/img/cartagena-info/experience-cartagena/background/flower-detail.png") left top/auto no-repeat; }
 
+.linkGallery#stay-in-cartagena {
+  background: #fff;
+  border-top: 0.375rem solid #EB391F;
+  border-bottom: 0.375rem solid #EB391F; }
+
 .registry {
   background: #e1e1e1; }
   .registry .splash-background {
