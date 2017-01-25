@@ -58,6 +58,7 @@ body-class: cartagena-info
 		</div>
 		<div class="row sectionLinks">
 			<div class="medium-4 columns">
+			<a href="http://www.lurecartagena.com/en/" target="_blank">
 				<div class="linkGallery-item" id="lure">
 					<table>
 						<tbody>
@@ -69,8 +70,10 @@ body-class: cartagena-info
 						</tbody>
 					</table>
 				</div>
+			</a>
 			</div>
 			<div class="medium-4 columns">
+			<a href="http://thewanderlustkitchen.com/5-reasons-why-you-need-to-drop-everything-and-go-to-cartagena/" target="_blank">
 				<div class="linkGallery-item" id="wanderlustKitchen">
 					<table>
 						<tbody>
@@ -82,8 +85,10 @@ body-class: cartagena-info
 						</tbody>
 					</table>
 				</div>
+			</a>
 			</div>
 			<div class="medium-4 columns">
+			<a href="https://www.lonelyplanet.com/colombia" target="_blank">
 				<div class="linkGallery-item" id="lonelyPlanet">
 					<table>
 						<tbody>
@@ -95,6 +100,7 @@ body-class: cartagena-info
 						</tbody>
 					</table>
 				</div>
+			</a>
 			</div>
 		</div>
 	</section>
