@@ -1,9 +1,9 @@
 ---
-url: /
-title: Our Story
-description: The beautiful love story of Joe & Juliana, 16 years in the making.
-og-title: Joe & Juliana's Love Story
-og-description: Joe knew from the beginning that he had just met his future wife. A love story 16 years in the making.
+url: /cartagena-info
+title: Cartagena Info
+description: 
+og-title: 
+og-description: 
 og-image:
 body-id: cartagena-info
 body-class: cartagena-info
