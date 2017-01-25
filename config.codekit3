@@ -4119,6 +4119,110 @@
 		"oAP": "\/dist\/humans.txt",
 		"oF": 0
 		},
+	"\/dist\/img\/cartagena-info\/experience-cartagena\/background\/flower-detail.png": {
+		"ft": 32768,
+		"iS": 31046,
+		"oA": 1,
+		"oAP": "\/dist\/img\/cartagena-info\/experience-cartagena\/background\/flower-detail.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/cartagena-info\/experience-cartagena\/flower-background.png": {
+		"ft": 32768,
+		"iS": 31046,
+		"oA": 1,
+		"oAP": "\/dist\/img\/cartagena-info\/experience-cartagena\/flower-background.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/cartagena-info\/experience-cartagena\/flower-detail.png": {
+		"ft": 32768,
+		"iS": 31046,
+		"oA": 1,
+		"oAP": "\/dist\/img\/cartagena-info\/experience-cartagena\/flower-detail.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/cartagena-info\/experience-cartagena\/lonely-planet\/logo_2x.jpg": {
+		"ft": 16384,
+		"iS": 15717,
+		"oA": 1,
+		"oAP": "\/dist\/img\/cartagena-info\/experience-cartagena\/lonely-planet\/logo_2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/cartagena-info\/experience-cartagena\/lonelyplanet\/logo_2x.jpg": {
+		"ft": 16384,
+		"iS": 15717,
+		"oA": 1,
+		"oAP": "\/dist\/img\/cartagena-info\/experience-cartagena\/lonelyplanet\/logo_2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/cartagena-info\/experience-cartagena\/lure\/logo.png": {
+		"ft": 32768,
+		"iS": 2800,
+		"oA": 1,
+		"oAP": "\/dist\/img\/cartagena-info\/experience-cartagena\/lure\/logo.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/cartagena-info\/experience-cartagena\/lure\/logo_2x.png": {
+		"ft": 32768,
+		"iS": 5960,
+		"oA": 1,
+		"oAP": "\/dist\/img\/cartagena-info\/experience-cartagena\/lure\/logo_2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/cartagena-info\/experience-cartagena\/lure\/lure-logo.png": {
+		"ft": 32768,
+		"iS": 2800,
+		"oA": 1,
+		"oAP": "\/dist\/img\/cartagena-info\/experience-cartagena\/lure\/lure-logo.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/cartagena-info\/experience-cartagena\/lure\/lure-logo_2x.png": {
+		"ft": 32768,
+		"iS": 5960,
+		"oA": 1,
+		"oAP": "\/dist\/img\/cartagena-info\/experience-cartagena\/lure\/lure-logo_2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/cartagena-info\/experience-cartagena\/New Folder With Items\/flower-detail.png": {
+		"ft": 32768,
+		"iS": 31046,
+		"oA": 1,
+		"oAP": "\/dist\/img\/cartagena-info\/experience-cartagena\/New Folder With Items\/flower-detail.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/cartagena-info\/experience-cartagena\/wanderlust-kitchen\/logo.png": {
+		"ft": 32768,
+		"iS": 4533,
+		"oA": 1,
+		"oAP": "\/dist\/img\/cartagena-info\/experience-cartagena\/wanderlust-kitchen\/logo.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/cartagena-info\/experience-cartagena\/wanderlustkitchen\/logo.png": {
+		"ft": 32768,
+		"iS": 4533,
+		"oA": 1,
+		"oAP": "\/dist\/img\/cartagena-info\/experience-cartagena\/wanderlustkitchen\/logo.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/cartagena-info\/experience-cartagena\/wanderlustkitchen\/wanderlustkitchen-logo.png": {
+		"ft": 32768,
+		"iS": 4533,
+		"oA": 1,
+		"oAP": "\/dist\/img\/cartagena-info\/experience-cartagena\/wanderlustkitchen\/wanderlustkitchen-logo.png",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/dist\/img\/cartagena-info\/large.jpg": {
 		"ft": 16384,
 		"iS": 119929,
@@ -4452,6 +4556,46 @@
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
+		},
+	"\/img\/cartagena-info\/experience-cartagena\/background\/flower-detail.png": {
+		"ft": 32768,
+		"iS": 31046,
+		"oA": 1,
+		"oAP": "\/img\/cartagena-info\/experience-cartagena\/background\/flower-detail.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/cartagena-info\/experience-cartagena\/lonely-planet\/logo_2x.jpg": {
+		"ft": 16384,
+		"iS": 15717,
+		"oA": 1,
+		"oAP": "\/img\/cartagena-info\/experience-cartagena\/lonely-planet\/logo_2x.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/cartagena-info\/experience-cartagena\/lure\/logo.png": {
+		"ft": 32768,
+		"iS": 2800,
+		"oA": 1,
+		"oAP": "\/img\/cartagena-info\/experience-cartagena\/lure\/logo.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/cartagena-info\/experience-cartagena\/lure\/logo_2x.png": {
+		"ft": 32768,
+		"iS": 5960,
+		"oA": 1,
+		"oAP": "\/img\/cartagena-info\/experience-cartagena\/lure\/logo_2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/cartagena-info\/experience-cartagena\/wanderlust-kitchen\/logo.png": {
+		"ft": 32768,
+		"iS": 4533,
+		"oA": 1,
+		"oAP": "\/img\/cartagena-info\/experience-cartagena\/wanderlust-kitchen\/logo.png",
+		"oF": 0,
+		"opt": 0
 		},
 	"\/img\/cartagena-info\/large.jpg": {
 		"ft": 16384,
