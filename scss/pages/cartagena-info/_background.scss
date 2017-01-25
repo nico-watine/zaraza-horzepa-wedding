@@ -1,18 +1,19 @@
 @import "../../_settings.scss";
 
+$min-480: "only screen and (min-width : 30.000em)";
 
 .cartagena-info {
 	.splash-background {
-		background: #C5C5C5 url('/img/cartagena-info/splash-background/large.jpg') left top/cover no-repeat fixed;
+		background: #C5C5C5 url('/img/cartagena-info/splash-background/small.jpg') center top/cover no-repeat;
+
+		@media #{$min-480} {
+			height: rem-calc(480);	
+		}
 
 		@include breakpoint(medium) {
 			background: #C5C5C5 url('/img/cartagena-info/splash-background/large.jpg') right top/cover no-repeat;
 			height: rem-calc(650);
 		}
-
-		// @include breakpoint(large) {
-		// 	background: #C5C5C5 url('/img/cartagena-info/large.jpg') 30% top/cover no-repeat fixed;
-		// }
 	}
 }
 
