@@ -195,7 +195,7 @@ body-class: cartagena-info
 						<tbody>
 							<tr>
 								<td>
-									<img style="max-width: 300px;" srcset="/img/cartagena-info/stay-in-cartagena/santa-clara/logo_2x.png 2x" src="/img/cartagena-info/stay-in-cartagena/santa-clara/logo.png" alt="Santa Clara Logo">
+									<img style="max-width: 300px;" srcset="/img/cartagena-info/stay-in-cartagena/santa-clara/logo_2x.jpg 2x" src="/img/cartagena-info/stay-in-cartagena/santa-clara/logo.png" alt="Santa Clara Logo">
 								</td>
 							</tr>
 						</tbody>
