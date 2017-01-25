@@ -16,6 +16,20 @@
 		border-width: rem-calc(3);
 		border-style: solid;
 		border-radius: rem-calc(4);
+
+		table {
+			margin: 0;
+
+			tbody {
+				border: 0;
+				background-color: none;
+			}
+
+			td {
+				height: rem-calc(220);
+				padding: 0 rem-calc(10);
+			}
+		}
 	}
 
 	.linkGallery-item#lure {
@@ -28,6 +42,11 @@
 		background: #252525;
 		border-color: #ECCB3C;
 		box-shadow: 0 2px 2px 0 rgba(236,203,60,0.20), 0 6px 10px 0 rgba(236,203,60,0.30);
+
+		img {
+			max-width: rem-calc(320);
+			width: 100%;
+		}
 	}
 
 	.linkGallery-item#lonelyPlanet {

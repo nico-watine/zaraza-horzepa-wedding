@@ -59,12 +59,20 @@ body-class: cartagena-info
 		<div class="row sectionLinks">
 			<div class="medium-4 columns">
 				<div class="linkGallery-item" id="lure">
-					
+					<table>
+						<tbody>
+							<tr>
+								<td>
+									<img srcset="/img/cartagena-info/experience-cartagena/lure/logo_2x.png 2x" src="/img/cartagena-info/experience-cartagena/lure/logo.png" alt="Lure Logo">
+								</td>
+							</tr>
+						</tbody>
+					</table>
 				</div>
 			</div>
 			<div class="medium-4 columns">
 				<div class="linkGallery-item" id="wanderlustKitchen">
-					
+					<img src="/img/cartagena-info/experience-cartagena/wanderlust-kitchen/logo.png" alt="WanderlustKitchen Logo">
 				</div>
 			</div>
 			<div class="medium-4 columns">

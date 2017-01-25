@@ -4945,6 +4945,14 @@ nav.mainNav {
     border-width: 0.1875rem;
     border-style: solid;
     border-radius: 0.25rem; }
+    .linkGallery .linkGallery-item table {
+      margin: 0; }
+      .linkGallery .linkGallery-item table tbody {
+        border: 0;
+        background-color: none; }
+      .linkGallery .linkGallery-item table td {
+        height: 13.75rem;
+        padding: 0 0.625rem; }
   .linkGallery .linkGallery-item#lure {
     background: #fff;
     border-color: #17E5C5;
@@ -4953,6 +4961,9 @@ nav.mainNav {
     background: #252525;
     border-color: #ECCB3C;
     box-shadow: 0 2px 2px 0 rgba(236, 203, 60, 0.2), 0 6px 10px 0 rgba(236, 203, 60, 0.3); }
+    .linkGallery .linkGallery-item#wanderlustKitchen img {
+      max-width: 20rem;
+      width: 100%; }
   .linkGallery .linkGallery-item#lonelyPlanet {
     background: #002E72;
     border-color: #EE692B;
