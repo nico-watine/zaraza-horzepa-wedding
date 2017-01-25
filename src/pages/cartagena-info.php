@@ -24,6 +24,7 @@ body-class: cartagena-info
 	</ul>
 </div>
 <div class="off-canvas-content" data-off-canvas-content style="background: none;">
+<div class="splash-background">
 	<header>
 		<div class="row">
 		<button class="float-right menu-icon hide-for-medium" type="button" data-open="offCanvas"></button>
@@ -40,20 +41,5 @@ body-class: cartagena-info
 			</div>
 		</div>
 	</header>
-	<main>
-		<div class="row">
-			<div class="medium-6 medium-push-6 columns">
-				<aside class="loveStory-headline">
-					<h1>Cartagena Info</h1>
-				</aside>
-			</div>
-		</div>
-		<div class="row">
-			<div class="medium-9 medium-push-3 large-7 large-push-5 columns">
-				<article class="loveStory-prose" style="height: 500px;">
-					&nbsp;
-				</article>
-			</div>
-		</div>
-	</main>
-</div> <!-- end .off-canvas-content -->
+</div>
+</div>
