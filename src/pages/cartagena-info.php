@@ -104,5 +104,59 @@ body-class: cartagena-info
 			</div>
 		</div>
 	</section>
+	<section class="linkGallery text-center" id="stay-in-cartagena">
+		<div class="row sectionTitle">
+			<div class="small-12 columns">
+				<h3>Stay In Cartagena</h3>
+			</div>
+		</div>
+		<div class="row sectionLinks">
+			<div class="medium-4 columns">
+			<a href="http://anandacartagena.com/?lang=en" target="_blank">
+				<div class="linkGallery-item" id="ananda">
+					<table>
+						<tbody>
+							<tr>
+								<td>
+									<img style="max-width: 340px;" src="/img/cartagena-info/stay-in-cartagena/ananda/logo_2x.jpg" alt="Ananda Logo">
+								</td>
+							</tr>
+						</tbody>
+					</table>
+				</div>
+			</a>
+			</div>
+			<div class="medium-4 columns">
+			<a href="http://en.bastionluxuryhotel.com" target="_blank">
+				<div class="linkGallery-item" id="bastion">
+					<table>
+						<tbody>
+							<tr>
+								<td>
+									<img style="max-width: 310px;" src="/img/cartagena-info/stay-in-cartagena/bastion/logo.png" alt="Bastion Logo">
+								</td>
+							</tr>
+						</tbody>
+					</table>
+				</div>
+			</a>
+			</div>
+			<div class="medium-4 columns">
+			<a href="http://www.hotelcharlestonsantateresa.com" target="_blank">
+				<div class="linkGallery-item" id="santaTeresa">
+					<table>
+						<tbody>
+							<tr>
+								<td>
+									<img style="max-width: 320px;" srcset="/img/cartagena-info/stay-in-cartagena/santa-teresa/santa-teresa_2x.png 2x" src="/img/cartagena-info/stay-in-cartagena/santa-teresa/santa-teresa.png" alt="Lonely Planet Logo">
+								</td>
+							</tr>
+						</tbody>
+					</table>
+				</div>
+			</a>
+			</div>
+		</div>
+	</section>
 </main>
 </div>
