@@ -157,6 +157,53 @@ body-class: cartagena-info
 			</a>
 			</div>
 		</div>
+		<div class="row sectionLinks">
+			<div class="medium-4 columns">
+			<a href="http://www.hotelboutiquecasapestagua.com/en/" target="_blank">
+				<div class="linkGallery-item" id="casaPestagua">
+					<table>
+						<tbody>
+							<tr>
+								<td>
+									<img style="max-width: 275px;" src="/img/cartagena-info/stay-in-cartagena/casa-pestagua/logo.png" alt="Casa Pestagua Logo">
+								</td>
+							</tr>
+						</tbody>
+					</table>
+				</div>
+			</a>
+			</div>
+			<div class="medium-4 columns">
+			<a href="https://www.radisson.com/cartagena-hotel-co/cocartag" target="_blank">
+				<div class="linkGallery-item" id="radisson">
+					<table>
+						<tbody>
+							<tr>
+								<td>
+									<img style="max-width: 300px;" srcset="/img/cartagena-info/stay-in-cartagena/radisson/logo_2x.png 2x" src="/img/cartagena-info/stay-in-cartagena/radisson/logo.png" alt="Raddison Logo">
+								</td>
+							</tr>
+						</tbody>
+					</table>
+				</div>
+			</a>
+			</div>
+			<div class="medium-4 columns">
+			<a href="http://www.sofitel.com/gb/hotel-1871-sofitel-legend-santa-clara-cartagena/index.shtml" target="_blank">
+				<div class="linkGallery-item" id="santaClara">
+					<table>
+						<tbody>
+							<tr>
+								<td>
+									<img style="max-width: 300px;" srcset="/img/cartagena-info/stay-in-cartagena/santa-clara/logo_2x.png 2x" src="/img/cartagena-info/stay-in-cartagena/santa-clara/logo.png" alt="Santa Clara Logo">
+								</td>
+							</tr>
+						</tbody>
+					</table>
+				</div>
+			</a>
+			</div>
+		</div>
 	</section>
 </main>
 </div>
