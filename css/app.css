@@ -4976,9 +4976,21 @@ nav.mainNav {
     border-color: #401F20;
     box-shadow: 0 2px 2px 0 rgba(64, 31, 32, 0.2), 0 6px 10px 0 rgba(64, 31, 32, 0.3); }
   .linkGallery .linkGallery-item#santaTeresa {
-    background: #000000;
+    background: #000;
     border-color: #16BFF0;
     box-shadow: 0 2px 2px 0 rgba(22, 191, 240, 0.2), 0 6px 10px 0 rgba(22, 191, 240, 0.3); }
+  .linkGallery .linkGallery-item#casaPestagua {
+    background: #F6F6F6;
+    border-color: #B89B66;
+    box-shadow: 0 2px 2px 0 rgba(184, 155, 102, 0.2), 0 6px 10px 0 rgba(184, 155, 102, 0.3); }
+  .linkGallery .linkGallery-item#radisson {
+    background: #424242;
+    border-color: #B9CE00;
+    box-shadow: 0 2px 2px 0 rgba(185, 206, 0, 0.2), 0 6px 10px 0 rgba(185, 206, 0, 0.3); }
+  .linkGallery .linkGallery-item#santaClara {
+    background: #fff;
+    border-color: #000;
+    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.3); }
 
 .linkGallery#experience-cartagena {
   background: #FAF9F9 url("/img/cartagena-info/experience-cartagena/background/flower-detail.png") left top/auto no-repeat; }
