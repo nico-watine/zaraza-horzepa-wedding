@@ -83,7 +83,6 @@ body-class: wedding-details
 									<h5>Bastión Luxury Hotel</h5>
 									<img src="/img/wedding-details/cocktailParty/bastion-logo.png" alt="Bastion Luxury Hotel Logo">
 									<p><a href="http://en.bastionluxuryhotel.com" target="_blank">Official Website</a></p>
-									<p>Transportation will be provided between your hotel and the cocktail party.</p>
 								</div>
 							</div>
 							<div class="large-3 columns text-center">
