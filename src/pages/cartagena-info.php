@@ -50,7 +50,7 @@ body-class: cartagena-info
 	</div>
 </div>
 <main>
-	<section class="cartagena-category text-center" id="experience-cartagena">
+	<section class="linkGallery text-center" id="experience-cartagena">
 		<div class="row sectionTitle">
 			<div class="small-12 columns">
 				<h3>Experience Cartagena</h3>
