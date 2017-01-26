@@ -120,7 +120,7 @@ body-class: cartagena-info
 		</div>
 		<div class="row sectionLinks">
 			<div class="medium-4 columns">
-			<a href="http://anandacartagena.com/?lang=en" target="_blank">
+			<a href="http://anandacartagena.com/?lang=es" target="_blank">
 				<div class="linkGallery-item" id="ananda">
 					<table>
 						<tbody>
@@ -135,7 +135,7 @@ body-class: cartagena-info
 			</a>
 			</div>
 			<div class="medium-4 columns">
-			<a href="http://en.bastionluxuryhotel.com" target="_blank">
+			<a href="http://www.bastionluxuryhotel.com/" target="_blank">
 				<div class="linkGallery-item" id="bastion">
 					<table>
 						<tbody>
@@ -150,7 +150,7 @@ body-class: cartagena-info
 			</a>
 			</div>
 			<div class="medium-4 columns">
-			<a href="http://www.hotelcharlestonsantateresa.com" target="_blank">
+			<a href="http://www.hotelcharlestonsantateresa.com/es/inicio" target="_blank">
 				<div class="linkGallery-item" id="santaTeresa">
 					<table>
 						<tbody>
@@ -167,7 +167,7 @@ body-class: cartagena-info
 		</div>
 		<div class="row sectionLinks">
 			<div class="medium-4 columns">
-			<a href="http://www.hotelboutiquecasapestagua.com/en/" target="_blank">
+			<a href="http://www.hotelboutiquecasapestagua.com/" target="_blank">
 				<div class="linkGallery-item" id="casaPestagua">
 					<table>
 						<tbody>
@@ -197,7 +197,7 @@ body-class: cartagena-info
 			</a>
 			</div>
 			<div class="medium-4 columns">
-			<a href="http://www.sofitel.com/gb/hotel-1871-sofitel-legend-santa-clara-cartagena/index.shtml" target="_blank">
+			<a href="http://www.sofitel.com/es/hotel-1871-sofitel-legend-santa-clara-cartagena/index.shtml" target="_blank">
 				<div class="linkGallery-item" id="santaClara">
 					<table>
 						<tbody>
