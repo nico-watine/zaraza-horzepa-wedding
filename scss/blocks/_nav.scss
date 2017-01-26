@@ -43,9 +43,17 @@ header {
 // ----------------------------------------
 
 nav.mainNav {
-	padding: rem-calc(12) 0;
+	// padding: rem-calc(12) 0;
 
 	ul.menu {
+		padding: rem-calc(12) 0;
+		
+		li.language-switch {
+			a {
+				padding: 0;
+			}
+		}
+
 		li {
 			text-align: center;
 			

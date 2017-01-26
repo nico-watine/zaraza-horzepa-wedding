@@ -4733,8 +4733,10 @@ header {
     margin: 1rem;
     width: 1.625rem; }
 
-nav.mainNav {
+nav.mainNav ul.menu {
   padding: 0.75rem 0; }
+  nav.mainNav ul.menu li.language-switch a {
+    padding: 0; }
   nav.mainNav ul.menu li {
     text-align: center; }
     nav.mainNav ul.menu li a {
