@@ -34,8 +34,8 @@ body-class: index
 			</ul>
 			<div class="small-12 columns">
 				<ul class="menu languageSwitches float-left show-for-large">
-					<li><a href="#"><img src="/img/icons/eng.png" alt="English"></a></li>
-					<li><a href="#"><img src="/img/icons/esp.png" alt="Spanish"></a></li>
+					<li><a href="#"><img srcset="/img/icons/eng_2x.png 2x" src="/img/icons/eng.png" alt="English"></a></li>
+					<li><a href="#"><img srcset="/img/icons/esp_2x.png 2x" src="/img/icons/esp.png" alt="Spanish"></a></li>
 				</ul>
 				<nav class="mainNav text-right medium-text-left show-for-large">
 					<ul class="menu float-right">
