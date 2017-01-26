@@ -1,8 +1,10 @@
 @import "../../_settings.scss";
 
-$max-480: "only screen and (max-width : 30.000em)";
-
 .registry {
-	background: $white url('/img/registry/background/default.png') center top/cover;
+	background: $white url('/img/registry/background/small.jpg') center top/cover;
+
+	@include breakpoint(medium) {
+		background: $white url('/img/registry/background/medium.jpg') center top/cover;
+	}
 }
 

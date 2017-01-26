@@ -4423,6 +4423,22 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/dist\/img\/registry\/background\/medium.jpg": {
+		"ft": 16384,
+		"iS": 334827,
+		"oA": 1,
+		"oAP": "\/dist\/img\/registry\/background\/medium.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/registry\/background\/small.jpg": {
+		"ft": 16384,
+		"iS": 138329,
+		"oA": 1,
+		"oAP": "\/dist\/img\/registry\/background\/small.jpg",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/dist\/img\/registry\/default.png": {
 		"ft": 32768,
 		"iS": 2970264,
@@ -4925,11 +4941,19 @@
 		"oF": 0,
 		"opt": 0
 		},
-	"\/img\/registry\/background\/default.png": {
-		"ft": 32768,
-		"iS": 2970264,
+	"\/img\/registry\/background\/medium.jpg": {
+		"ft": 16384,
+		"iS": 334827,
 		"oA": 1,
-		"oAP": "\/img\/registry\/background\/default.png",
+		"oAP": "\/img\/registry\/background\/medium.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/registry\/background\/small.jpg": {
+		"ft": 16384,
+		"iS": 138329,
+		"oA": 1,
+		"oAP": "\/img\/registry\/background\/small.jpg",
 		"oF": 0,
 		"opt": 0
 		},

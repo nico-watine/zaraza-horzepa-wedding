@@ -5022,7 +5022,10 @@ nav.mainNav {
   background: #FAF9F9 url("/img/cartagena-info/safe-in-cartagena/background/flower-detail.png") right bottom/auto no-repeat; }
 
 .registry {
-  background: #fefefe url("/img/registry/background/default.png") center top/cover; }
+  background: #fefefe url("/img/registry/background/small.jpg") center top/cover; }
+  @media print, screen and (min-width: 40em) {
+    .registry {
+      background: #fefefe url("/img/registry/background/medium.jpg") center top/cover; } }
 
 .registry .pageTitle {
   margin-top: 5rem; }
