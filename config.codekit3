@@ -4415,14 +4415,6 @@
 		"oF": 0,
 		"opt": 0
 		},
-	"\/dist\/img\/registry\/background\/default.png": {
-		"ft": 32768,
-		"iS": 2970264,
-		"oA": 1,
-		"oAP": "\/dist\/img\/registry\/background\/default.png",
-		"oF": 0,
-		"opt": 0
-		},
 	"\/dist\/img\/registry\/background\/medium.jpg": {
 		"ft": 16384,
 		"iS": 334827,
@@ -4436,22 +4428,6 @@
 		"iS": 138329,
 		"oA": 1,
 		"oAP": "\/dist\/img\/registry\/background\/small.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/dist\/img\/registry\/default.png": {
-		"ft": 32768,
-		"iS": 2970264,
-		"oA": 1,
-		"oAP": "\/dist\/img\/registry\/default.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/dist\/img\/registry\/New Folder With Items\/default.png": {
-		"ft": 32768,
-		"iS": 2970264,
-		"oA": 1,
-		"oAP": "\/dist\/img\/registry\/New Folder With Items\/default.png",
 		"oF": 0,
 		"opt": 0
 		},
@@ -4813,35 +4789,11 @@
 		"oF": 0,
 		"opt": 0
 		},
-	"\/img\/icons\/eng.png": {
-		"ft": 32768,
-		"iS": 5839,
-		"oA": 1,
-		"oAP": "\/img\/icons\/eng.png",
-		"oF": 0,
-		"opt": 0
-		},
 	"\/img\/icons\/eng_2x.png": {
 		"ft": 32768,
-		"iS": 16780,
+		"iS": 5250,
 		"oA": 1,
 		"oAP": "\/img\/icons\/eng_2x.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/img\/icons\/esp.png": {
-		"ft": 32768,
-		"iS": 4798,
-		"oA": 1,
-		"oAP": "\/img\/icons\/esp.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/img\/icons\/esp_2x.png": {
-		"ft": 32768,
-		"iS": 13538,
-		"oA": 1,
-		"oAP": "\/img\/icons\/esp_2x.png",
 		"oF": 0,
 		"opt": 0
 		},
