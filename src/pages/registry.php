@@ -1,5 +1,5 @@
 ---
-url: /
+url: /registry
 title: Wedding Registry
 description: 
 og-title: 

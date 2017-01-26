@@ -1,5 +1,5 @@
 ---
-url: /
+url: /wedding-details
 title: Wedding Details
 description: 
 og-title: 
