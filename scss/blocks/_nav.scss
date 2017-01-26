@@ -47,6 +47,18 @@ ul.menu.languageSwitches {
 	li {
 		a {
 			padding: rem-calc(6) 0 rem-calc(6) rem-calc(15);
+
+			img {
+				width: 40px;
+				height: 40px;
+			}
+
+			@include breakpoint(medium) {
+				img {
+					width: initial;
+					height: initial;
+				}
+			}
 		}
 	}
 }

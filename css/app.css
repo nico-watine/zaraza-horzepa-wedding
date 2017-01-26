@@ -4735,6 +4735,13 @@ header {
 
 ul.menu.languageSwitches li a {
   padding: 0.375rem 0 0.375rem 0.9375rem; }
+  ul.menu.languageSwitches li a img {
+    width: 40px;
+    height: 40px; }
+  @media print, screen and (min-width: 40em) {
+    ul.menu.languageSwitches li a img {
+      width: initial;
+      height: initial; } }
 
 nav.mainNav ul.menu {
   padding: 0.75rem 0; }
