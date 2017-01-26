@@ -48,7 +48,7 @@ body-class: registry
 		</div>
 	</div>
 	<div class="row">
-		<article class="small-10 small-push-1 columns text-center" style="padding: 32px 16px; margin-bottom: 40px;background: #FEFEFE; box-shadow: 0 1px 4px 0 rgba(0,0,0,0.37);">
+		<article class="small-10 small-push-1 columns text-center">
 			<h2>Your presence at our wedding is the greatest <span class="inline-block">gift of all.</span></h2>
 			<h5>However, should you wish to honor us with a gift, please donate to help treate and cure Angelman Syndrome. Donations may be made at <a href="http://cureangelman.org/donate/in-honor-of/" target="_blank">www.cureangelman.org/donate/in-honor-of/</a>. We ask that you donate in the name of <span class="inline-block">Antonella Grace Woodall.</span></h5>
 		</article>

@@ -5030,6 +5030,12 @@ nav.mainNav {
     .registry .pageTitle {
       margin-top: 7.5rem; } }
 
+.registry article {
+  padding: 2rem 1rem;
+  margin-bottom: 2.5rem;
+  background: #fefefe;
+  box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); }
+
 .p-0 {
   padding: 0; }
 

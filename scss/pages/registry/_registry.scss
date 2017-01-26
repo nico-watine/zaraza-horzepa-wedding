@@ -10,4 +10,12 @@
 			margin-top: rem-calc(120);
 		}
 	}
+
+	article {
+		padding: rem-calc(32) rem-calc(16);
+		margin-bottom: rem-calc(40);
+		background: $white; 
+		box-shadow: $z-1;
+	}
 }
+
