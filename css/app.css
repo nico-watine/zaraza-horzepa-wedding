@@ -5022,9 +5022,7 @@ nav.mainNav {
   background: #FAF9F9 url("/img/cartagena-info/safe-in-cartagena/background/flower-detail.png") right bottom/auto no-repeat; }
 
 .registry {
-  background: #e1e1e1; }
-  .registry .splash-background {
-    background: #C5C5C5 url("/img/wedding-details/palm-bg.jpg") center top/100% auto repeat; }
+  background: #fefefe url("/img/registry/background/default.png") center top/cover; }
 
 #wedding-details .loveStory-headline,
 #registry .loveStory-headline {
@@ -5038,24 +5036,6 @@ nav.mainNav {
   #registry .pageContent article {
     padding-top: 2.5rem;
     padding-bottom: 1.25rem; }
-  #wedding-details .pageContent .bumperRed,
-  #registry .pageContent .bumperRed {
-    background: #A61B2C;
-    height: 0.875rem;
-    width: 100%;
-    margin: 0 0 2.5rem 0; }
-  #wedding-details .pageContent .bumperYellow,
-  #registry .pageContent .bumperYellow {
-    background: #D08528;
-    height: 0.875rem;
-    width: 100%;
-    margin: 2.5rem 0; }
-  #wedding-details .pageContent .bumperBlue,
-  #registry .pageContent .bumperBlue {
-    background: #5BB3CB;
-    height: 0.875rem;
-    width: 100%;
-    margin: 0 0 2.5rem; }
 
 .weddingEvent .eventTitle {
   text-align: center; }
@@ -5104,3 +5084,6 @@ nav.mainNav {
 
 .p-y {
   padding: rem(16) 0; }
+
+.inline-block {
+  display: inline-block; }

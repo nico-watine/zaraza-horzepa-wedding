@@ -4059,16 +4059,6 @@
 		"oAP": "\/dist\/cartagena-info.php",
 		"oF": 0
 		},
-	"\/dist\/css\/app-min.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/dist\/css\/app-min-min.css",
-		"oF": 0,
-		"oS": 0
-		},
 	"\/dist\/css\/app.css": {
 		"aP": 0,
 		"bl": 0,
@@ -4412,6 +4402,30 @@
 		"iS": 60100,
 		"oA": 1,
 		"oAP": "\/dist\/img\/our-story\/small.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/registry\/background\/default.png": {
+		"ft": 32768,
+		"iS": 2970264,
+		"oA": 1,
+		"oAP": "\/dist\/img\/registry\/background\/default.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/registry\/default.png": {
+		"ft": 32768,
+		"iS": 2970264,
+		"oA": 1,
+		"oAP": "\/dist\/img\/registry\/default.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/registry\/New Folder With Items\/default.png": {
+		"ft": 32768,
+		"iS": 2970264,
+		"oA": 1,
+		"oAP": "\/dist\/img\/registry\/New Folder With Items\/default.png",
 		"oF": 0,
 		"opt": 0
 		},
@@ -4898,6 +4912,14 @@
 		"iS": 60100,
 		"oA": 1,
 		"oAP": "\/img\/our-story\/small.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/registry\/background\/default.png": {
+		"ft": 32768,
+		"iS": 2970264,
+		"oA": 1,
+		"oAP": "\/img\/registry\/background\/default.png",
 		"oF": 0,
 		"opt": 0
 		},
