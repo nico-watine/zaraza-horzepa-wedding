@@ -38,6 +38,19 @@ header {
 	}
 }
 
+
+// ------------------------------------------
+// |            LANGUAGE BUTTONS            |
+// ------------------------------------------
+
+ul.menu.languageSwitches {
+	li {
+		a {
+			padding: rem-calc(6) 0 rem-calc(6) rem-calc(15);
+		}
+	}
+}
+
 // ----------------------------------------
 // |            HORIZONTAL NAV            |
 // ----------------------------------------
@@ -47,12 +60,6 @@ nav.mainNav {
 
 	ul.menu {
 		padding: rem-calc(12) 0;
-		
-		li.language-switch {
-			a {
-				padding: 0;
-			}
-		}
 
 		li {
 			text-align: center;

@@ -4733,10 +4733,11 @@ header {
     margin: 1rem;
     width: 1.625rem; }
 
+ul.menu.languageSwitches li a {
+  padding: 0.375rem 0 0.375rem 0.9375rem; }
+
 nav.mainNav ul.menu {
   padding: 0.75rem 0; }
-  nav.mainNav ul.menu li.language-switch a {
-    padding: 0; }
   nav.mainNav ul.menu li {
     text-align: center; }
     nav.mainNav ul.menu li a {
