@@ -4461,6 +4461,30 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/dist\/img\/wedding-details\/sunday\/sunday-background.jpg": {
+		"ft": 16384,
+		"iS": 98780,
+		"oA": 1,
+		"oAP": "\/dist\/img\/wedding-details\/sunday\/sunday-background.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/wedding-details\/sunday\/sunday-banner.jpg": {
+		"ft": 16384,
+		"iS": 47349,
+		"oA": 1,
+		"oAP": "\/dist\/img\/wedding-details\/sunday\/sunday-banner.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/wedding-details\/sunday\/sunday-bg.jpg": {
+		"ft": 16384,
+		"iS": 98780,
+		"oA": 1,
+		"oAP": "\/dist\/img\/wedding-details\/sunday\/sunday-bg.jpg",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/dist\/img\/wedding-details\/weddingDay\/radisson-background.jpg": {
 		"ft": 16384,
 		"iS": 89391,
@@ -4928,6 +4952,22 @@
 		"iS": 71859,
 		"oA": 1,
 		"oAP": "\/img\/wedding-details\/small.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/wedding-details\/sunday\/sunday-background.jpg": {
+		"ft": 16384,
+		"iS": 98780,
+		"oA": 1,
+		"oAP": "\/img\/wedding-details\/sunday\/sunday-background.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/wedding-details\/sunday\/sunday-banner.jpg": {
+		"ft": 16384,
+		"iS": 47349,
+		"oA": 1,
+		"oAP": "\/img\/wedding-details\/sunday\/sunday-banner.jpg",
 		"oF": 0,
 		"opt": 0
 		},
