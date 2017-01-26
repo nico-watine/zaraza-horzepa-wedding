@@ -29,8 +29,8 @@ body-class: index
 		<div class="row">
 		<button class="float-right menu-icon hide-for-large" type="button" data-open="offCanvas"></button>
 			<ul class="menu languageSwitches float-left hide-for-large">
-				<li><a href="#"><img src="/img/icons/eng.png" alt="English"></a></li>
-				<li><a href="#"><img src="/img/icons/esp.png" alt="Spanish"></a></li>
+				<li><a href="#"><img srcset="/img/icons/eng_2x.png 2x" src="/img/icons/eng.png" alt="English"></a></li>
+				<li><a href="#"><img srcset="/img/icons/esp_2x.png 2x" src="/img/icons/esp.png" alt="Spanish"></a></li>
 			</ul>
 			<div class="small-12 columns">
 				<ul class="menu languageSwitches float-left show-for-large">
