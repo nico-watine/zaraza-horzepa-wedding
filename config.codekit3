@@ -5458,6 +5458,12 @@
 		"oAP": "\/src\/pages\/esp\/index.php",
 		"oF": 0
 		},
+	"\/src\/pages\/esp\/registry.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/pages\/esp\/registry.php",
+		"oF": 0
+		},
 	"\/src\/pages\/esp\/wedding-details.php": {
 		"ft": 8192,
 		"oA": 2,
