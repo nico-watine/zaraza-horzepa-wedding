@@ -61,7 +61,7 @@ body-class: cartagena-info
 	<section class="linkGallery text-center" id="experience-cartagena">
 		<div class="row sectionTitle">
 			<div class="small-12 columns">
-				<h3>Experience Cartagena</h3>
+				<h3>Experimenta Cartagena</h3>
 			</div>
 		</div>
 		<div class="row sectionLinks">
@@ -115,7 +115,7 @@ body-class: cartagena-info
 	<section class="linkGallery text-center" id="stay-in-cartagena">
 		<div class="row sectionTitle">
 			<div class="small-12 columns">
-				<h3>Stay In Cartagena</h3>
+				<h3>Estadia En Cartagena</h3>
 			</div>
 		</div>
 		<div class="row sectionLinks">
@@ -216,7 +216,7 @@ body-class: cartagena-info
 	<section class="linkGallery text-center" id="safe-in-cartagena">
 		<div class="row sectionTitle">
 			<div class="small-12 columns">
-				<h3>Safe In Cartagena</h3>
+				<h3>Seguridad En Cartagena</h3>
 			</div>
 		</div>
 		<div class="row sectionLinks">
