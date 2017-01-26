@@ -4079,10 +4079,22 @@
 		"oF": 0,
 		"oS": 0
 		},
+	"\/dist\/esp\/cartagena-info.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/esp\/cartagena-info.php",
+		"oF": 0
+		},
 	"\/dist\/esp\/index.php": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/dist\/esp\/index.php",
+		"oF": 0
+		},
+	"\/dist\/esp\/wedding-details.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/esp\/wedding-details.php",
 		"oF": 0
 		},
 	"\/dist\/fonts\/baskerville\/regular\/baskerville-regular.eot": {
@@ -4789,11 +4801,35 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/img\/icons\/eng.png": {
+		"ft": 32768,
+		"iS": 2558,
+		"oA": 1,
+		"oAP": "\/img\/icons\/eng.png",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/img\/icons\/eng_2x.png": {
 		"ft": 32768,
 		"iS": 5250,
 		"oA": 1,
 		"oAP": "\/img\/icons\/eng_2x.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/icons\/esp.png": {
+		"ft": 32768,
+		"iS": 2293,
+		"oA": 1,
+		"oAP": "\/img\/icons\/esp.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/icons\/esp_2x.png": {
+		"ft": 32768,
+		"iS": 4135,
+		"oA": 1,
+		"oAP": "\/img\/icons\/esp_2x.png",
 		"oF": 0,
 		"opt": 0
 		},
@@ -5410,10 +5446,22 @@
 		"oAP": "\/src\/pages\/cartagena-info.php",
 		"oF": 0
 		},
+	"\/src\/pages\/esp\/cartagena-info.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/pages\/esp\/cartagena-info.php",
+		"oF": 0
+		},
 	"\/src\/pages\/esp\/index.php": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/src\/pages\/esp\/index.php",
+		"oF": 0
+		},
+	"\/src\/pages\/esp\/wedding-details.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/src\/pages\/esp\/wedding-details.php",
 		"oF": 0
 		},
 	"\/src\/pages\/index.php": {
