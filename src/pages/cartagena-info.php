@@ -27,10 +27,18 @@ body-class: cartagena-info
 <div class="splash-background">
 	<header>
 		<div class="row">
-		<button class="float-right menu-icon hide-for-medium" type="button" data-open="offCanvas"></button>
+		<button class="float-right menu-icon hide-for-large" type="button" data-open="offCanvas"></button>
+			<ul class="menu languageSwitches float-left hide-for-large">
+				<li><a href="#"><img srcset="/img/icons/eng_2x.png 2x" src="/img/icons/eng.png" alt="English"></a></li>
+				<li><a href="#"><img srcset="/img/icons/esp_2x.png 2x" src="/img/icons/esp.png" alt="Spanish"></a></li>
+			</ul>
 			<div class="small-12 columns">
-				<nav class="mainNav text-right medium-text-left show-for-medium">
-					<ul class="menu">
+				<ul class="menu languageSwitches float-left show-for-large">
+					<li><a href="#"><img srcset="/img/icons/eng_2x.png 2x" src="/img/icons/eng.png" alt="English"></a></li>
+					<li><a href="#"><img srcset="/img/icons/esp_2x.png 2x" src="/img/icons/esp.png" alt="Spanish"></a></li>
+				</ul>
+				<nav class="mainNav text-right medium-text-left show-for-large">
+					<ul class="menu float-right">
 						<li><a href="/">Our Story</a></li>
 						<li><a href="http://www.rsvp.zaraza-horzepa2017.wedding/" target="_blank">RSVP</a></li>
 						<li><a href="/wedding-details">Wedding Details</a></li>
