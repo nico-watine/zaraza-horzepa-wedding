@@ -4928,6 +4928,13 @@ nav.mainNav {
   .weddingEvent#weddingDay .eventDetails {
     background: #fff url("/img/wedding-details/weddingDay/radisson-background.jpg") center center/cover no-repeat; } }
 
+@media print, screen and (min-width: 40em) {
+  .weddingEvent#sunday .eventDetails {
+    padding: 3.125rem 0;
+    background: #fff url("/img/wedding-details/sunday/sunday-background.jpg") center center/cover no-repeat; }
+    .weddingEvent#sunday .eventDetails p {
+      font-size: 1.125rem; } }
+
 .cartagena-info .splash-background {
   background: #C5C5C5 url("/img/cartagena-info/splash-background/small.jpg") center top/cover no-repeat; }
   @media only screen and (min-width: 30em) {

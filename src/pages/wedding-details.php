@@ -137,6 +137,26 @@ body-class: wedding-details
 				<div class="row">
 					<div class="bumperRed">&nbsp;</div>
 				</div>
+				<div class="row weddingEvent" id="sunday">
+					<div class="small-12 columns">
+						<div class="row eventTitle">
+							<div class="small-12 columns">
+								<h3>Sunday, April 30</h3>
+							</div>
+						</div>
+						<div class="row hide-for-medium">
+							<img src="/img/wedding-details/sunday/sunday-banner.jpg" alt="">
+						</div>
+						<div class="row eventDetails">
+							<div class="large-4 columns end">
+								<div class="infoCard infoCard-location text-center">
+									<p>Sunday’s event will be determined as the wedding approaches.</p>
+									<p class="margin-0">Beer on the beach, anyone?</p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
 			</article>
 		</div>
 	<!-- </main> -->
