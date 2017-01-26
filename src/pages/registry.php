@@ -42,7 +42,7 @@ body-class: registry
 	</header>
 	<div class="row">
 		<div class="medium-6 medium-push-6 columns">
-			<aside class="loveStory-headline">
+			<aside class="pageTitle">
 				<h1>Wedding Registry</h1>
 			</aside>
 		</div>
