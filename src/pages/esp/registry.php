@@ -16,11 +16,11 @@ body-class: registry
 
 	<!-- Menu -->
 	<ul class="vertical menu">
-		<li><a href="/">Our Story</a></li>
-		<li><a href="http://www.rsvp.zaraza-horzepa2017.wedding/" target="_blank">RSVP</a></li>
-		<li><a href="/wedding-details">Wedding Details</a></li>
-		<li><a href="/cartagena-info">Cartagena Info</a></li>
-		<li class="active"><a href="/registry">Registry</a></li>
+		<li><a href="/esp">Our Story</a></li>
+		<li><a href="http://www.rsvp.zaraza-horzepa2017.wedding/mx/tus-invitados/request-rsvp-by-guest?_ga=1.201991125.514128241.1485290807" target="_blank">RSVP</a></li>
+		<li><a href="/esp/wedding-details">Wedding Details</a></li>
+		<li><a href="/esp/cartagena-info">Cartagena Info</a></li>
+		<li class="active"><a href="/esp/registry">Registry</a></li>
 	</ul>
 </div>
 <div class="off-canvas-content" data-off-canvas-content style="background: none;">
@@ -28,21 +28,21 @@ body-class: registry
 		<div class="row">
 		<button class="float-right menu-icon hide-for-large" type="button" data-open="offCanvas"></button>
 			<ul class="menu languageSwitches float-left hide-for-large">
-				<li><a href="#"><img srcset="/img/icons/eng_2x.png 2x" src="/img/icons/eng.png" alt="English"></a></li>
-				<li><a href="#"><img srcset="/img/icons/esp_2x.png 2x" src="/img/icons/esp.png" alt="Spanish"></a></li>
+				<li><a href="/registry"><img srcset="/img/icons/eng_2x.png 2x" src="/img/icons/eng.png" alt="English"></a></li>
+				<li><a href="/esp/registry"><img srcset="/img/icons/esp_2x.png 2x" src="/img/icons/esp.png" alt="Spanish"></a></li>
 			</ul>
 			<div class="small-12 columns">
 				<ul class="menu languageSwitches float-left show-for-large">
-					<li><a href="#"><img srcset="/img/icons/eng_2x.png 2x" src="/img/icons/eng.png" alt="English"></a></li>
-					<li><a href="#"><img srcset="/img/icons/esp_2x.png 2x" src="/img/icons/esp.png" alt="Spanish"></a></li>
+				<li><a href="/registry"><img srcset="/img/icons/eng_2x.png 2x" src="/img/icons/eng.png" alt="English"></a></li>
+				<li><a href="/esp/registry"><img srcset="/img/icons/esp_2x.png 2x" src="/img/icons/esp.png" alt="Spanish"></a></li>
 				</ul>
 				<nav class="mainNav text-right medium-text-left show-for-large">
 					<ul class="menu float-right">
-						<li><a href="/">Our Story</a></li>
-						<li><a href="http://www.rsvp.zaraza-horzepa2017.wedding/" target="_blank">RSVP</a></li>
-						<li><a href="/wedding-details">Wedding Details</a></li>
-						<li><a href="/cartagena-info">Cartagena Info</a></li>
-						<li class="active"><a href="/registry">Registry</a></li>
+						<li><a href="/esp">Our Story</a></li>
+						<li><a href="http://www.rsvp.zaraza-horzepa2017.wedding/mx/tus-invitados/request-rsvp-by-guest?_ga=1.201991125.514128241.1485290807" target="_blank">RSVP</a></li>
+						<li><a href="/esp/wedding-details">Wedding Details</a></li>
+						<li><a href="/esp/cartagena-info">Cartagena Info</a></li>
+						<li class="active"><a href="/esp/registry">Registry</a></li>
 					</ul>
 				</nav>
 			</div>
