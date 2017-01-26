@@ -88,10 +88,10 @@ body-class: wedding-details
 							<div class="large-3 columns text-center">
 								<div class="infoCard infoCard-time text-center">
 									<h3>Time</h3>
-									<p class="margin-0">6PM</p>
+									<p class="margin-0">6PM - 10PM</p>
 								</div>
 								<div class="infoCard infoCard-theme text-center">
-									<h3>Theme</h3>
+									<h3>Attire</h3>
 									<p class="margin-0">White-Linen Party</p>
 								</div>
 							</div>
@@ -128,7 +128,7 @@ body-class: wedding-details
 								</div>
 								<div class="infoCard infoCard-theme text-center">
 									<h3>Attire</h3>
-									<p class="margin-0">Women in red <br>Men in white</p>
+									<p class="margin-0">Ladies in red <br>Gentlemen in white</p>
 								</div>
 							</div>
 						</div>
