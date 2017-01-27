@@ -50,8 +50,8 @@ body-class: registry
 	</header>
 	<div class="row">
 		<div class="medium-6 medium-push-6 columns">
-			<aside class="pageTitle" id="scriptStyle">
-				<h1>Wedding Registry</h1>
+			<aside class="pageTitle">
+				<h1 class="script">Wedding Registry</h1>
 			</aside>
 		</div>
 	</div>

@@ -4745,11 +4745,6 @@ h1.script {
 h3.script {
   letter-spacing: 0.03125rem; }
 
-.pageTitle#scriptStyle h1 {
-  font-family: "Beyond The Mountains", "Montserrat", Arial, sans-serif;
-  letter-spacing: 0.075rem;
-  text-transform: none; }
-
 header {
   margin-bottom: 3.75rem;
   background: rgba(0, 0, 0, 0.35); }
@@ -4797,11 +4792,6 @@ nav.mainNav ul.menu {
   .off-canvas .menu li.active a {
     background: #fefefe;
     color: #0a0a0a; }
-
-.pageTitle#scriptStyle h1 {
-  font-family: "Beyond The Mountains", "Montserrat", Arial, sans-serif;
-  letter-spacing: 0.075rem;
-  text-transform: none; }
 
 .pageTitle {
   text-align: right;
