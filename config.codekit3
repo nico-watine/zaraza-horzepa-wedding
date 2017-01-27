@@ -4053,12 +4053,6 @@
 		"oAP": "\/dist\/404.html",
 		"oF": 0
 		},
-	"\/dist\/cartagena-info.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/cartagena-info.php",
-		"oF": 0
-		},
 	"\/dist\/css\/app.css": {
 		"aP": 0,
 		"bl": 0,
@@ -4068,30 +4062,6 @@
 		"oAP": "\/dist\/css\/app-min.css",
 		"oF": 0,
 		"oS": 0
-		},
-	"\/dist\/esp\/cartagena-info.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/esp\/cartagena-info.php",
-		"oF": 0
-		},
-	"\/dist\/esp\/index.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/esp\/index.php",
-		"oF": 0
-		},
-	"\/dist\/esp\/registry.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/esp\/registry.php",
-		"oF": 0
-		},
-	"\/dist\/esp\/wedding-details.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/esp\/wedding-details.php",
-		"oF": 0
 		},
 	"\/dist\/fonts\/baskerville\/regular\/baskerville-regular.eot": {
 		"ft": 8192,
@@ -4121,8 +4091,6 @@
 		"oAP": "\/dist\/fonts\/baskerville\/regular\/baskerville-regular.woff",
 		"oF": 0
 		},
-<<<<<<< HEAD
-=======
 	"\/dist\/fonts\/beyond-the-mountains\/beyond-the-mountains.eot": {
 		"ft": 8192,
 		"oA": 2,
@@ -4151,7 +4119,6 @@
 		"oAP": "\/dist\/fonts\/beyond-the-mountains\/beyond-the-mountains.woff",
 		"oF": 0
 		},
->>>>>>> develop
 	"\/dist\/humans.txt": {
 		"ft": 8192,
 		"oA": 2,
@@ -4566,12 +4533,6 @@
 		"oF": 0,
 		"opt": 0
 		},
-	"\/dist\/index.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/index.php",
-		"oF": 0
-		},
 	"\/dist\/js\/app-min.js": {
 		"ft": 64,
 		"mi": 0,
@@ -4605,22 +4566,10 @@
 		"oAP": "\/dist\/php\/autoVer.php",
 		"oF": 0
 		},
-	"\/dist\/registry.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/registry.php",
-		"oF": 0
-		},
 	"\/dist\/robots.txt": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/dist\/robots.txt",
-		"oF": 0
-		},
-	"\/dist\/wedding-details.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/dist\/wedding-details.php",
 		"oF": 0
 		},
 	"\/fonts\/baskerville\/regular\/baskerville-regular.eot": {
