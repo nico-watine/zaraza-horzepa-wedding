@@ -64,7 +64,7 @@ body-class: wedding-details
 					<div class="small-12 columns">
 						<div class="row eventTitle">
 							<div class="small-12 columns">
-								<h2>Guest Arrival</h2>
+								<h2 class="script">Guest Arrival</h2>
 								<h3><span class="hide-for-small-only">&nbsp;|</span> THURSDAY, APRIL 27</h3>
 							</div>
 						</div>
@@ -77,7 +77,7 @@ body-class: wedding-details
 					<div class="small-12 columns">
 						<div class="row eventTitle">
 							<div class="small-12 columns">
-								<h2>Cocktail Party</h2>
+								<h2 class="script">Cocktail Party</h2>
 								<h3><span class="hide-for-small-only">&nbsp;|</span> FRIDAY, APRIL 28</h3>
 							</div>
 						</div>
@@ -113,7 +113,7 @@ body-class: wedding-details
 					<div class="small-12 columns">
 						<div class="row eventTitle">
 							<div class="small-12 columns">
-								<h2>Wedding Day</h2>
+								<h2 class="script">Wedding Day</h2>
 								<h3><span class="hide-for-small-only">&nbsp;|</span> Saturday, April 29</h3>
 							</div>
 						</div>
