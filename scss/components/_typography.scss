@@ -22,11 +22,12 @@ h3 {
 	text-transform: none;
 }
 
-h1.script {
-	letter-spacing: rem-calc(1.2);
+h1.script,
+h2.script {
+	letter-spacing: rem-calc(3);
 }
 
 h3.script {
-	letter-spacing: rem-calc(.5);
+	letter-spacing: rem-calc(1.2);
 }
 

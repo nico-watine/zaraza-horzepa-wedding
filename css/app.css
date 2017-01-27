@@ -4739,11 +4739,12 @@ h3 {
   font-family: "Beyond The Mountains", "Montserrat", Arial, sans-serif;
   text-transform: none; }
 
-h1.script {
-  letter-spacing: 0.075rem; }
+h1.script,
+h2.script {
+  letter-spacing: 0.1875rem; }
 
 h3.script {
-  letter-spacing: 0.03125rem; }
+  letter-spacing: 0.075rem; }
 
 header {
   margin-bottom: 3.75rem;
