@@ -72,6 +72,10 @@
 				font-family: $sans-serif-font;
 			}
 
+			p {
+				font-family: $sans-serif-font;
+			}
+
 			@include breakpoint(medium) {
 				background: #fff;
 				box-shadow: $z-1;
