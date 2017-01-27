@@ -68,6 +68,10 @@
 				text-transform: uppercase;
 			}
 
+			h5 {
+				font-family: $sans-serif-font;
+			}
+
 			@include breakpoint(medium) {
 				background: #fff;
 				box-shadow: $z-1;

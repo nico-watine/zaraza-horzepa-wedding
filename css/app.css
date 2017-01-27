@@ -4936,6 +4936,8 @@ nav.mainNav ul.menu {
       font-weight: bold;
       font-family: "Montserrat", Arial, sans-serif;
       text-transform: uppercase; }
+    .weddingEvent .eventDetails .infoCard h5 {
+      font-family: "Montserrat", Arial, sans-serif; }
     @media print, screen and (min-width: 40em) {
       .weddingEvent .eventDetails .infoCard {
         background: #fff;
