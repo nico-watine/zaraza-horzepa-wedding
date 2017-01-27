@@ -56,10 +56,17 @@ body-class: registry
 		</div>
 	</div>
 	<div class="row">
-		<article class="small-10 small-push-1 columns text-center">
-			<h3>La presencia de ustedes en nuestra boda es el mejor <span class="inline-block">regalo del mundo.</span></h3>
-			<p>Sin embargo, sí desean honrarnos con un regalo, por favor ayúdenos a encontrar la cura contra el síndrome de Angelman. Las donaciones las pueden hacer a <a href="http://cureangelman.org/donate/in-honor-of/" target="_blank">www.cureangelman.org/donate/in-honor-of/</a>. Te pedimos hacer la donación a nombre a <span class="inline-block">Antonella Grace Woodall.</span></p>
-			<h5>Mil gracias, Juliana &amp; Joe</h5>
+		<article class="small-10 small-push-1 columns">
+			<h3 class="text-center">La presencia de ustedes en nuestra boda es el mejor <span class="inline-block">regalo del mundo.</span></h3>
+			<div class="row">
+				<div class="medium-4 columns text-center">
+					<img src="/img/registry/antonella.jpg" alt="Antonella">
+				</div>
+				<div class="medium-8 columns">
+					<p>Sin embargo, sí desean honrarnos con un regalo, por favor ayúdenos a encontrar la cura contra el síndrome de Angelman. Las donaciones las pueden hacer a <a href="http://cureangelman.org/donate/in-honor-of/" target="_blank">www.cureangelman.org/donate/in-honor-of/</a>. Te pedimos hacer la donación a nombre a <span class="inline-block">Antonella Grace Woodall.</span></p>
+					<h5>Mil gracias, Juliana &amp; Joe</h5>
+				</div>
+			</div>
 		</article>
 	</div>
 </div>
