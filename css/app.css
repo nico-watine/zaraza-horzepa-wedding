@@ -4958,7 +4958,7 @@ nav.mainNav ul.menu {
     margin: 0 auto 1rem; }
   .weddingEvent .eventDetails .infoCard-time,
   .weddingEvent .eventDetails .infoCard-theme {
-    max-width: 12.8125rem;
+    max-width: 15rem;
     margin: 0 auto 1.5625rem; }
 
 @media print, screen and (min-width: 40em) {
