@@ -4916,10 +4916,13 @@ nav.mainNav ul.menu {
 
 .weddingEvent .eventTitle {
   text-align: center; }
-  @media print, screen and (min-width: 40em) {
-    .weddingEvent .eventTitle h2,
-    .weddingEvent .eventTitle h3 {
-      display: inline-block; } }
+  .weddingEvent .eventTitle h2,
+  .weddingEvent .eventTitle h3 {
+    text-transform: none; }
+    @media print, screen and (min-width: 40em) {
+      .weddingEvent .eventTitle h2,
+      .weddingEvent .eventTitle h3 {
+        display: inline-block; } }
 
 .weddingEvent .eventDetails {
   background: #fff;

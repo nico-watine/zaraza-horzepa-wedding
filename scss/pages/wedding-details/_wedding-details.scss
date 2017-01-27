@@ -45,6 +45,8 @@
 
 		h2,
 		h3 {
+			text-transform: none;
+			
 			@include breakpoint(medium) {
 				display: inline-block;
 			}
