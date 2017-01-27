@@ -5080,10 +5080,15 @@ nav.mainNav ul.menu {
   background: #fefefe;
   box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); }
   .registry article h3 {
-    text-transform: none; }
+    text-transform: none;
+    margin-bottom: 1.25rem; }
   .registry article p,
   .registry article h5 {
     font-family: "Montserrat", Arial, sans-serif; }
+  .registry article img {
+    margin-bottom: 1.25rem;
+    max-width: 300px;
+    width: 100%; }
 
 .p-0 {
   padding: 0; }
