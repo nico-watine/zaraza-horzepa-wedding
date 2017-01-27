@@ -57,8 +57,8 @@ body-class: registry
 	</div>
 	<div class="row">
 		<article class="small-10 small-push-1 columns text-center">
-			<h2>La presencia de ustedes en nuestra boda es el mejor <span class="inline-block">regalo del mundo.</span></h2>
-			<h5>Sin embargo, sí desean honrarnos con un regalo, por favor ayúdenos a encontrar la cura contra el síndrome de Angelman. Las donaciones las pueden hacer a <a href="http://cureangelman.org/donate/in-honor-of/" target="_blank">www.cureangelman.org/donate/in-honor-of/</a>. Te pedimos hacer la donación a nombre a <span class="inline-block">Antonella Grace Woodall.</span></h5>
+			<h3>La presencia de ustedes en nuestra boda es el mejor <span class="inline-block">regalo del mundo.</span></h3>
+			<p>Sin embargo, sí desean honrarnos con un regalo, por favor ayúdenos a encontrar la cura contra el síndrome de Angelman. Las donaciones las pueden hacer a <a href="http://cureangelman.org/donate/in-honor-of/" target="_blank">www.cureangelman.org/donate/in-honor-of/</a>. Te pedimos hacer la donación a nombre a <span class="inline-block">Antonella Grace Woodall.</span></p>
 			<h5>Mil gracias, Juliana &amp; Joe</h5>
 		</article>
 	</div>
