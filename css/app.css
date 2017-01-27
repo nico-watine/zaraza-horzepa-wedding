@@ -4783,6 +4783,11 @@ nav.mainNav ul.menu {
     background: #fefefe;
     color: #0a0a0a; }
 
+.pageTitle#scriptStyle h1 {
+  font-family: "Beyond The Mountains", "Montserrat", Arial, sans-serif;
+  letter-spacing: 0.075rem;
+  text-transform: none; }
+
 .pageTitle {
   text-align: right;
   background: rgba(0, 0, 0, 0.35);

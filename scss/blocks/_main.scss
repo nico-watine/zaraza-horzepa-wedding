@@ -2,6 +2,14 @@
 
 $max-570: "only screen and (max-width : 35.625em)";
 
+.pageTitle#scriptStyle {
+	h1 {
+		font-family: $script-font;
+		letter-spacing: rem-calc(1.2);
+		text-transform: none;
+	}
+}
+
 .pageTitle {
 	text-align: right; 
 	background: rgba(0,0,0,0.35); 
