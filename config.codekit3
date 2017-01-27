@@ -4121,6 +4121,37 @@
 		"oAP": "\/dist\/fonts\/baskerville\/regular\/baskerville-regular.woff",
 		"oF": 0
 		},
+<<<<<<< HEAD
+=======
+	"\/dist\/fonts\/beyond-the-mountains\/beyond-the-mountains.eot": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/fonts\/beyond-the-mountains\/beyond-the-mountains.eot",
+		"oF": 0
+		},
+	"\/dist\/fonts\/beyond-the-mountains\/beyond-the-mountains.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/dist\/fonts\/beyond-the-mountains\/beyond-the-mountains.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/dist\/fonts\/beyond-the-mountains\/beyond-the-mountains.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/fonts\/beyond-the-mountains\/beyond-the-mountains.ttf",
+		"oF": 0
+		},
+	"\/dist\/fonts\/beyond-the-mountains\/beyond-the-mountains.woff": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/fonts\/beyond-the-mountains\/beyond-the-mountains.woff",
+		"oF": 0
+		},
+>>>>>>> develop
 	"\/dist\/humans.txt": {
 		"ft": 8192,
 		"oA": 2,
@@ -4618,6 +4649,34 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/fonts\/baskerville\/regular\/baskerville-regular.woff",
+		"oF": 0
+		},
+	"\/fonts\/beyond-the-mountains\/beyond-the-mountains.eot": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/fonts\/beyond-the-mountains\/beyond-the-mountains.eot",
+		"oF": 0
+		},
+	"\/fonts\/beyond-the-mountains\/beyond-the-mountains.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/fonts\/beyond-the-mountains\/beyond-the-mountains.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/fonts\/beyond-the-mountains\/beyond-the-mountains.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/fonts\/beyond-the-mountains\/beyond-the-mountains.ttf",
+		"oF": 0
+		},
+	"\/fonts\/beyond-the-mountains\/beyond-the-mountains.woff": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/fonts\/beyond-the-mountains\/beyond-the-mountains.woff",
 		"oF": 0
 		},
 	"\/gulpfile.babel.js": {

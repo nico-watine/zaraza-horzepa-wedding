@@ -53,7 +53,7 @@ body-class: wedding-details
 		<div class="row">
 			<div class="medium-6 medium-push-6 columns">
 				<aside class="pageTitle">
-					<h1>Detalles de la Boda</h1>
+					<h1 class="script">Detalles de la Boda</h1>
 				</aside>
 			</div>
 		</div>
@@ -64,8 +64,8 @@ body-class: wedding-details
 					<div class="small-12 columns">
 						<div class="row eventTitle">
 							<div class="small-12 columns">
-								<h2>Llegada de Invitados</h2>
-								<h3><span class="hide-for-small-only">&nbsp;|</span> Jueves, ABRIL 27</h3>
+								<h2 class="script">Llegada de Invitados</h2>
+								<h3><span class="hide-for-small-only"><strong>&nbsp;|</strong></span> Jueves, April 27</h3>
 							</div>
 						</div>
 					</div>
@@ -77,8 +77,8 @@ body-class: wedding-details
 					<div class="small-12 columns">
 						<div class="row eventTitle">
 							<div class="small-12 columns">
-								<h2>Cocktail</h2>
-								<h3><span class="hide-for-small-only">&nbsp;|</span> Viernes, ABRIL 28</h3>
+								<h2 class="script">Cocktail</h2>
+								<h3><span class="hide-for-small-only"><strong>&nbsp;|</strong></span> Viernes, April 28</h3>
 							</div>
 						</div>
 						<div class="row hide-for-medium">
@@ -113,8 +113,8 @@ body-class: wedding-details
 					<div class="small-12 columns">
 						<div class="row eventTitle">
 							<div class="small-12 columns">
-								<h2>Dia de la Boda</h2>
-								<h3><span class="hide-for-small-only">&nbsp;|</span> Sabado, ABRIL 29</h3>
+								<h2 class="script">Dia de la Boda</h2>
+								<h3><span class="hide-for-small-only"><strong>&nbsp;|</strong></span> Sabado, April 29</h3>
 							</div>
 						</div>
 						<div class="row hide-for-medium">
@@ -149,7 +149,7 @@ body-class: wedding-details
 					<div class="small-12 columns">
 						<div class="row eventTitle">
 							<div class="small-12 columns">
-								<h3>Domingo, ABRIL 30</h3>
+								<h3>Domingo, April 30</h3>
 							</div>
 						</div>
 						<div class="row hide-for-medium">

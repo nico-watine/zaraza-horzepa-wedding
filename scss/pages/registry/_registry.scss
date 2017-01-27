@@ -16,6 +16,15 @@
 		margin-bottom: rem-calc(40);
 		background: $white; 
 		box-shadow: $z-1;
+
+		h3 {
+			text-transform: none;
+		}
+
+		p,
+		h5 {
+			font-family: $sans-serif-font;
+		}
 	}
 }
 

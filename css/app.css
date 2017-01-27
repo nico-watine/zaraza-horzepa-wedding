@@ -5,7 +5,7 @@
  * foundation.zurb.com
  * Licensed under MIT Open Source
  */
-@import url("https://fonts.googleapis.com/css?family=Montserrat");
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,700");
 .slide-in-down.mui-enter {
   transition-duration: 500ms;
   transition-timing-function: linear;
@@ -4715,6 +4715,15 @@ a.thumbnail {
   font-style: normal;
   font-weight: 400; }
 
+@font-face {
+  font-family: 'Beyond The Mountains';
+  src: url("/fonts/beyond-the-mountains/beyond-the-mountains.eot");
+  /* IE9 Compat Modes */
+  src: url("/fonts/beyond-the-mountains/beyond-the-mountains.eot?#iefix") format("embedded-opentype"), url("/fonts/beyond-the-mountains/beyond-the-mountains.woff") format("woff"), url("/fonts/beyond-the-mountains/beyond-the-mountains.ttf") format("truetype"), url("/fonts/beyond-the-mountains/beyond-the-mountains.svg#f802a49c562906c546e2e992250708b4") format("svg");
+  /* Legacy iOS */
+  font-style: normal;
+  font-weight: 400; }
+
 h1,
 h3 {
   font-family: "Montserrat", Arial, sans-serif;
@@ -4725,6 +4734,17 @@ h1 {
 
 h3 {
   letter-spacing: 0.03125rem; }
+
+.script {
+  font-family: "Beyond The Mountains", "Montserrat", Arial, sans-serif;
+  text-transform: none; }
+
+h1.script,
+h2.script {
+  letter-spacing: 0.1875rem; }
+
+h3.script {
+  letter-spacing: 0.075rem; }
 
 header {
   margin-bottom: 3.75rem;
@@ -4896,10 +4916,13 @@ nav.mainNav ul.menu {
 
 .weddingEvent .eventTitle {
   text-align: center; }
-  @media print, screen and (min-width: 40em) {
-    .weddingEvent .eventTitle h2,
-    .weddingEvent .eventTitle h3 {
-      display: inline-block; } }
+  .weddingEvent .eventTitle h2,
+  .weddingEvent .eventTitle h3 {
+    text-transform: none; }
+    @media print, screen and (min-width: 40em) {
+      .weddingEvent .eventTitle h2,
+      .weddingEvent .eventTitle h3 {
+        display: inline-block; } }
 
 .weddingEvent .eventDetails {
   background: #fff;
@@ -4909,6 +4932,14 @@ nav.mainNav ul.menu {
       padding-bottom: 1.25rem; } }
   .weddingEvent .eventDetails .infoCard {
     margin: 0 auto; }
+    .weddingEvent .eventDetails .infoCard h4 {
+      font-weight: bold;
+      font-family: "Montserrat", Arial, sans-serif;
+      text-transform: uppercase; }
+    .weddingEvent .eventDetails .infoCard h5 {
+      font-family: "Montserrat", Arial, sans-serif; }
+    .weddingEvent .eventDetails .infoCard p {
+      font-family: "Montserrat", Arial, sans-serif; }
     @media print, screen and (min-width: 40em) {
       .weddingEvent .eventDetails .infoCard {
         background: #fff;
@@ -4927,7 +4958,7 @@ nav.mainNav ul.menu {
     margin: 0 auto 1rem; }
   .weddingEvent .eventDetails .infoCard-time,
   .weddingEvent .eventDetails .infoCard-theme {
-    max-width: 12.8125rem;
+    max-width: 15rem;
     margin: 0 auto 1.5625rem; }
 
 @media print, screen and (min-width: 40em) {
@@ -5048,6 +5079,11 @@ nav.mainNav ul.menu {
   margin-bottom: 2.5rem;
   background: #fefefe;
   box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); }
+  .registry article h3 {
+    text-transform: none; }
+  .registry article p,
+  .registry article h5 {
+    font-family: "Montserrat", Arial, sans-serif; }
 
 .p-0 {
   padding: 0; }

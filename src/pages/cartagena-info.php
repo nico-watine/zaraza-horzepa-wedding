@@ -52,7 +52,7 @@ body-class: cartagena-info
 	<div class="row">
 		<div class="medium-6 medium-push-6 columns">
 			<aside class="pageTitle">
-				<h1>Cartagena Info</h1>
+				<h1 class="script">Cartagena Info</h1>
 			</aside>
 		</div>
 	</div>
@@ -61,7 +61,7 @@ body-class: cartagena-info
 	<section class="linkGallery text-center" id="experience-cartagena">
 		<div class="row sectionTitle">
 			<div class="small-12 columns">
-				<h3>Experience Cartagena</h3>
+				<h3 class="script">Experience Cartagena</h3>
 			</div>
 		</div>
 		<div class="row sectionLinks">
@@ -115,7 +115,7 @@ body-class: cartagena-info
 	<section class="linkGallery text-center" id="stay-in-cartagena">
 		<div class="row sectionTitle">
 			<div class="small-12 columns">
-				<h3>Stay In Cartagena</h3>
+				<h3 class="script">Stay In Cartagena</h3>
 			</div>
 		</div>
 		<div class="row sectionLinks">
@@ -216,7 +216,7 @@ body-class: cartagena-info
 	<section class="linkGallery text-center" id="safe-in-cartagena">
 		<div class="row sectionTitle">
 			<div class="small-12 columns">
-				<h3>Safe In Cartagena</h3>
+				<h3 class="script">Safe In Cartagena</h3>
 			</div>
 		</div>
 		<div class="row sectionLinks">

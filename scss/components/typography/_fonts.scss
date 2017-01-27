@@ -1,6 +1,6 @@
 @import "../../_settings.scss";
 
-@import url('https://fonts.googleapis.com/css?family=Montserrat');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700');
 
 
 
@@ -11,6 +11,19 @@
        url('#{$url}/fonts/baskerville/regular/baskerville-regular.woff') format('woff'), /* Modern Browsers */
        url('#{$url}/fonts/baskerville/regular/baskerville-regular.ttf')  format('truetype'), /* Safari, Android, iOS */
        url('#{$url}/fonts/baskerville/regular/baskerville-regular.svg#0056e359605c42173e61fed2212d8c03') format('svg'); /* Legacy iOS */
+       
+  font-style:   normal;
+  font-weight:  400;
+}
+
+
+@font-face {
+  font-family: 'Beyond The Mountains';
+  src: url('/fonts/beyond-the-mountains/beyond-the-mountains.eot'); /* IE9 Compat Modes */
+  src: url('/fonts/beyond-the-mountains/beyond-the-mountains.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('/fonts/beyond-the-mountains/beyond-the-mountains.woff') format('woff'), /* Modern Browsers */
+       url('/fonts/beyond-the-mountains/beyond-the-mountains.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('/fonts/beyond-the-mountains/beyond-the-mountains.svg#f802a49c562906c546e2e992250708b4') format('svg'); /* Legacy iOS */
        
   font-style:   normal;
   font-weight:  400;

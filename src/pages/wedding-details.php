@@ -53,7 +53,7 @@ body-class: wedding-details
 		<div class="row">
 			<div class="medium-6 medium-push-6 columns">
 				<aside class="pageTitle">
-					<h1>Wedding Details</h1>
+					<h1 class="script">Wedding Details</h1>
 				</aside>
 			</div>
 		</div>
@@ -64,8 +64,8 @@ body-class: wedding-details
 					<div class="small-12 columns">
 						<div class="row eventTitle">
 							<div class="small-12 columns">
-								<h2>Guest Arrival</h2>
-								<h3><span class="hide-for-small-only">&nbsp;|</span> THURSDAY, APRIL 27</h3>
+								<h2 class="script">Guest Arrival</h2>
+								<h3><span class="hide-for-small-only"><strong>&nbsp;|</strong></span> Thursday, April 27</h3>
 							</div>
 						</div>
 					</div>
@@ -77,8 +77,8 @@ body-class: wedding-details
 					<div class="small-12 columns">
 						<div class="row eventTitle">
 							<div class="small-12 columns">
-								<h2>Cocktail Party</h2>
-								<h3><span class="hide-for-small-only">&nbsp;|</span> FRIDAY, APRIL 28</h3>
+								<h2 class="script">Cocktail Party</h2>
+								<h3><span class="hide-for-small-only"><strong>&nbsp;|</strong></span> Friday, April 28</h3>
 							</div>
 						</div>
 						<div class="row hide-for-medium">
@@ -87,7 +87,7 @@ body-class: wedding-details
 						<div class="row eventDetails">
 							<div class="large-4 columns">
 								<div class="infoCard infoCard-location text-center">
-									<h3>Location</h3>
+									<h4>Location</h4>
 									<h5>Bastión Luxury Hotel</h5>
 									<img src="/img/wedding-details/cocktailParty/bastion-logo.png" alt="Bastion Luxury Hotel Logo">
 									<p><a href="http://en.bastionluxuryhotel.com" target="_blank">Official Website</a></p>
@@ -95,11 +95,11 @@ body-class: wedding-details
 							</div>
 							<div class="large-3 columns text-center">
 								<div class="infoCard infoCard-time text-center">
-									<h3>Time</h3>
+									<h4>Time</h4>
 									<p class="margin-0">6PM - 10PM</p>
 								</div>
 								<div class="infoCard infoCard-theme text-center">
-									<h3>Attire</h3>
+									<h4>Attire</h4>
 									<p class="margin-0">White-Linen Party</p>
 								</div>
 							</div>
@@ -113,8 +113,8 @@ body-class: wedding-details
 					<div class="small-12 columns">
 						<div class="row eventTitle">
 							<div class="small-12 columns">
-								<h2>Wedding Day</h2>
-								<h3><span class="hide-for-small-only">&nbsp;|</span> Saturday, April 29</h3>
+								<h2 class="script">Wedding Day</h2>
+								<h3><span class="hide-for-small-only"><strong>&nbsp;|</strong></span> Saturday, April 29</h3>
 							</div>
 						</div>
 						<div class="row hide-for-medium">
@@ -123,7 +123,7 @@ body-class: wedding-details
 						<div class="row eventDetails">
 							<div class="large-4 columns">
 								<div class="infoCard infoCard-location text-center">
-									<h3>Location</h3>
+									<h4>Location</h4>
 									<h5>Radisson Cartagena</h5>
 									<img src="/img/wedding-details/weddingDay/radisson-logo.png" alt="Radisson Cartagena Logo">
 									<p><a href="https://www.radisson.com/cartagena-hotel-co/cocartag" target="_blank">Official Website</a></p>
@@ -131,11 +131,11 @@ body-class: wedding-details
 							</div>
 							<div class="large-3 columns">
 								<div class="infoCard infoCard-time text-center" style="margin-bottom: 25px;">
-									<h3>Timeline</h3>
+									<h4>Timeline</h4>
 									<p class="margin-0">5:30 - 6 | Ceremony <br>6:15 - 7 | Cocktail Hour <br>7 - 3 | Celebration Party</p>
 								</div>
 								<div class="infoCard infoCard-theme text-center">
-									<h3>Attire</h3>
+									<h4>Attire</h4>
 									<p class="margin-0">Ladies in red <br>Gentlemen in white</p>
 								</div>
 							</div>
