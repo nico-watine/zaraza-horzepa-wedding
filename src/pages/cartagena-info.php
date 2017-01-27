@@ -61,7 +61,7 @@ body-class: cartagena-info
 	<section class="linkGallery text-center" id="experience-cartagena">
 		<div class="row sectionTitle">
 			<div class="small-12 columns">
-				<h3>Experience Cartagena</h3>
+				<h3 class="script">Experience Cartagena</h3>
 			</div>
 		</div>
 		<div class="row sectionLinks">
