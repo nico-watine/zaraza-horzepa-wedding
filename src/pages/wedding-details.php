@@ -52,7 +52,7 @@ body-class: wedding-details
 	<!-- <main> -->
 		<div class="row">
 			<div class="medium-6 medium-push-6 columns">
-				<aside class="pageTitle">
+				<aside class="pageTitle" id="scriptStyle">
 					<h1>Wedding Details</h1>
 				</aside>
 			</div>
