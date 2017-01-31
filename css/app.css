@@ -4976,13 +4976,13 @@ nav.mainNav ul.menu {
     .weddingEvent#sunday .eventDetails p {
       font-size: 1.125rem; } }
 
-.cartagena-info .splash-background {
+#cartagena-info .splash-background {
   background: #C5C5C5 url("/img/cartagena-info/splash-background/small.jpg") center top/cover no-repeat; }
   @media only screen and (min-width: 30em) {
-    .cartagena-info .splash-background {
+    #cartagena-info .splash-background {
       height: 30rem; } }
   @media print, screen and (min-width: 40em) {
-    .cartagena-info .splash-background {
+    #cartagena-info .splash-background {
       background: #C5C5C5 url("/img/cartagena-info/splash-background/large.jpg") right top/cover no-repeat;
       height: 40.625rem; } }
 
