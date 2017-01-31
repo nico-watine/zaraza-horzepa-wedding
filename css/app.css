@@ -4781,6 +4781,25 @@ nav.mainNav ul.menu {
     background: none;
     text-decoration: underline; }
 
+.espanol nav.mainNav ul.menu {
+  padding: 0.75rem 0; }
+  .espanol nav.mainNav ul.menu li {
+    text-align: center; }
+    .espanol nav.mainNav ul.menu li a {
+      font-family: "Montserrat", Arial, sans-serif;
+      font-size: 1.125rem;
+      color: #fff;
+      line-height: 1.4;
+      letter-spacing: 0.0625rem;
+      text-shadow: 0 0.0625rem 0.1875rem #000;
+      text-transform: uppercase;
+      padding: 0 1rem; }
+      .espanol nav.mainNav ul.menu li a:hover {
+        text-decoration: underline; }
+  .espanol nav.mainNav ul.menu li.active a {
+    background: none;
+    text-decoration: underline; }
+
 .off-canvas {
   background: rgba(0, 0, 0, 0.5); }
   .off-canvas .menu li a {

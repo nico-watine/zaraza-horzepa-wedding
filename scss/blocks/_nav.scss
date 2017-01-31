@@ -99,6 +99,46 @@ nav.mainNav {
 }
 
 // --------------------------------------------------
+// |            HORIZONTAL NAV - ESPANOL            |
+// --------------------------------------------------
+
+.espanol {
+	nav.mainNav {
+		ul.menu {
+			padding: rem-calc(12) 0;
+
+			li {
+				text-align: center;
+				
+				a {
+					font-family: $sans-serif-font;
+					font-size: rem-calc(18);
+					color: #fff;
+					line-height: $header-lineheight;
+					letter-spacing: rem-calc(1);
+					text-shadow: 0 rem-calc(1) rem-calc(3) #000;
+					text-transform: uppercase;
+					padding: 0 rem-calc(16);
+
+					&:hover {
+						text-decoration: underline;
+					}
+				}
+			}
+
+			li.active {
+				a {
+					background: none;
+					text-decoration: underline;
+				}
+			}
+		}
+	}	
+}
+
+
+
+// --------------------------------------------------
 // |            VERTICAL OFF-CANVAS MENU            |
 // --------------------------------------------------
 
