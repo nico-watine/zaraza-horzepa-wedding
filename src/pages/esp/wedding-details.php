@@ -65,7 +65,7 @@ body-class: wedding-details
 						<div class="row eventTitle">
 							<div class="small-12 columns">
 								<h2 class="script">Llegada de Invitados</h2>
-								<h3><span class="hide-for-small-only"><strong>&nbsp;|</strong></span> Jueves, April 27</h3>
+								<h3><span class="hide-for-small-only"><strong>&nbsp;|</strong></span> Jueves, Abril 27</h3>
 							</div>
 						</div>
 					</div>
@@ -78,7 +78,7 @@ body-class: wedding-details
 						<div class="row eventTitle">
 							<div class="small-12 columns">
 								<h2 class="script">Cocktail</h2>
-								<h3><span class="hide-for-small-only"><strong>&nbsp;|</strong></span> Viernes, April 28</h3>
+								<h3><span class="hide-for-small-only"><strong>&nbsp;|</strong></span> Viernes, Abril 28</h3>
 							</div>
 						</div>
 						<div class="row hide-for-medium">
@@ -114,7 +114,7 @@ body-class: wedding-details
 						<div class="row eventTitle">
 							<div class="small-12 columns">
 								<h2 class="script">Dia de la Boda</h2>
-								<h3><span class="hide-for-small-only"><strong>&nbsp;|</strong></span> Sabado, April 29</h3>
+								<h3><span class="hide-for-small-only"><strong>&nbsp;|</strong></span> Sabado, Abril 29</h3>
 							</div>
 						</div>
 						<div class="row hide-for-medium">
@@ -149,7 +149,7 @@ body-class: wedding-details
 					<div class="small-12 columns">
 						<div class="row eventTitle">
 							<div class="small-12 columns">
-								<h3>Domingo, April 30</h3>
+								<h3>Domingo, Abril 30</h3>
 							</div>
 						</div>
 						<div class="row hide-for-medium">
@@ -158,8 +158,8 @@ body-class: wedding-details
 						<div class="row eventDetails">
 							<div class="large-4 columns end">
 								<div class="infoCard infoCard-location text-center">
-									<p>Sunday’s event will be determined as the wedding approaches.</p>
-									<p class="margin-0">Beer on the beach, anyone?</p>
+									<p>El evento de el Domingo será anunciado cuando la boda se aproxime.</p>
+									<p class="margin-0">Alguien quiere Cervezas en la playa!?</p>
 								</div>
 							</div>
 						</div>
