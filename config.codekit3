@@ -4053,6 +4053,12 @@
 		"oAP": "\/dist\/404.html",
 		"oF": 0
 		},
+	"\/dist\/cartagena-info.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/cartagena-info.php",
+		"oF": 0
+		},
 	"\/dist\/css\/app.css": {
 		"aP": 0,
 		"bl": 0,
@@ -4062,6 +4068,30 @@
 		"oAP": "\/dist\/css\/app-min.css",
 		"oF": 0,
 		"oS": 0
+		},
+	"\/dist\/esp\/cartagena-info.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/esp\/cartagena-info.php",
+		"oF": 0
+		},
+	"\/dist\/esp\/index.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/esp\/index.php",
+		"oF": 0
+		},
+	"\/dist\/esp\/registry.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/esp\/registry.php",
+		"oF": 0
+		},
+	"\/dist\/esp\/wedding-details.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/esp\/wedding-details.php",
+		"oF": 0
 		},
 	"\/dist\/fonts\/baskerville\/regular\/baskerville-regular.eot": {
 		"ft": 8192,
@@ -4421,6 +4451,14 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/dist\/img\/registry\/antonella.jpg": {
+		"ft": 16384,
+		"iS": 16118,
+		"oA": 1,
+		"oAP": "\/dist\/img\/registry\/antonella.jpg",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/dist\/img\/registry\/background\/medium.jpg": {
 		"ft": 16384,
 		"iS": 334827,
@@ -4533,6 +4571,12 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/dist\/index.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/index.php",
+		"oF": 0
+		},
 	"\/dist\/js\/app-min.js": {
 		"ft": 64,
 		"mi": 0,
@@ -4566,10 +4610,22 @@
 		"oAP": "\/dist\/php\/autoVer.php",
 		"oF": 0
 		},
+	"\/dist\/registry.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/registry.php",
+		"oF": 0
+		},
 	"\/dist\/robots.txt": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/dist\/robots.txt",
+		"oF": 0
+		},
+	"\/dist\/wedding-details.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/dist\/wedding-details.php",
 		"oF": 0
 		},
 	"\/fonts\/baskerville\/regular\/baskerville-regular.eot": {
@@ -4930,6 +4986,14 @@
 		"iS": 60100,
 		"oA": 1,
 		"oAP": "\/img\/our-story\/small.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/registry\/antonella.jpg": {
+		"ft": 16384,
+		"iS": 16118,
+		"oA": 1,
+		"oAP": "\/img\/registry\/antonella.jpg",
 		"oF": 0,
 		"opt": 0
 		},
