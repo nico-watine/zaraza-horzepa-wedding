@@ -3,7 +3,7 @@
 @import "_background.scss";
 
 
-.registry {
+#registry {
 	.pageTitle {
 		margin-top: rem-calc(80);
 		@include breakpoint(medium) {

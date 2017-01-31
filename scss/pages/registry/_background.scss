@@ -1,6 +1,6 @@
 @import "../../_settings.scss";
 
-.registry {
+#registry {
 	background: $white url('/img/registry/background/small.jpg') center top/cover;
 
 	@include breakpoint(medium) {

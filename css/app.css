@@ -5062,30 +5062,30 @@ nav.mainNav ul.menu {
 .linkGallery#safe-in-cartagena {
   background: #FAF9F9 url("/img/cartagena-info/safe-in-cartagena/background/flower-detail.png") right bottom/auto no-repeat; }
 
-.registry {
+#registry {
   background: #fefefe url("/img/registry/background/small.jpg") center top/cover; }
   @media print, screen and (min-width: 40em) {
-    .registry {
+    #registry {
       background: #fefefe url("/img/registry/background/medium.jpg") center top/cover; } }
 
-.registry .pageTitle {
+#registry .pageTitle {
   margin-top: 5rem; }
   @media print, screen and (min-width: 40em) {
-    .registry .pageTitle {
+    #registry .pageTitle {
       margin-top: 7.5rem; } }
 
-.registry article {
+#registry article {
   padding: 2rem 1rem;
   margin-bottom: 2.5rem;
   background: #fefefe;
   box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); }
-  .registry article h3 {
+  #registry article h3 {
     text-transform: none;
     margin-bottom: 1.25rem; }
-  .registry article p,
-  .registry article h5 {
+  #registry article p,
+  #registry article h5 {
     font-family: "Montserrat", Arial, sans-serif; }
-  .registry article img {
+  #registry article img {
     margin-bottom: 1.25rem;
     max-width: 300px;
     width: 100%; }
