@@ -4884,9 +4884,9 @@ nav.mainNav ul.menu {
   .index .image-gallery img {
     margin-bottom: 1.875rem; }
 
-.wedding-details {
+#wedding-details {
   background: #e1e1e1; }
-  .wedding-details .splash-background {
+  #wedding-details .splash-background {
     background: #C5C5C5 url("/img/wedding-details/palm-bg.jpg") center top/100% auto repeat; }
 
 #wedding-details .pageTitle {

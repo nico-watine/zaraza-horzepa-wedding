@@ -6,7 +6,7 @@ og-title:
 og-description: 
 og-image:
 body-id: wedding-details
-body-class: wedding-details
+body-class: espanol
 ---
 <div class="off-canvas position-right" id="offCanvas" data-transition="overlap" data-off-canvas>
 	<!-- Close button -->
