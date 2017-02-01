@@ -5,8 +5,8 @@ description: The beautiful love story of Joe & Juliana, 16 years in the making.
 og-title: Joe & Juliana's Love Story
 og-description: Joe knew from the beginning that he had just met his future wife. A love story 16 years in the making.
 og-image:
-body-id: index
-body-class: index
+body-id: our-story
+body-class: our-story
 ---
 <div class="off-canvas position-right" id="offCanvas" data-transition="overlap" data-off-canvas>
 	<!-- Close button -->
@@ -53,9 +53,7 @@ body-class: index
 		<div class="row">
 			<div class="medium-6 medium-push-6 columns">
 				<aside class="pageTitle">
-					<h1 class="script">"I just met my future wife”</h1>
-					<p><i>- Joe Horzepa, on the phone with his best friend after meeting Juliana for the first time <br>
-					- June 13, 2000</i></p>
+					<h1 class="script">The story continues...</h1>
 				</aside>
 			</div>
 		</div>

@@ -1,0 +1,27 @@
+@import "../../_settings.scss";
+
+@import "_background.scss";
+
+
+#our-story {
+
+	article {
+		padding: 0 rem-calc(20);
+		margin: rem-calc(30) 0;
+	}
+
+	p {
+		font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+	}
+}
+
+
+#our-story {
+	.image-gallery {
+		margin-bottom: rem-calc(60);
+		
+		img {
+			margin-bottom: rem-calc(30);
+		}
+	}
+}

@@ -5049,6 +5049,24 @@ nav.mainNav ul.menu {
     max-width: 300px;
     width: 100%; }
 
+#our-story .splash-background {
+  background: #C5C5C5 url("/img/our-story/collage/default.jpg") center top/cover no-repeat; }
+  @media print, screen and (min-width: 40em) {
+    #our-story .splash-background {
+      height: 40.625rem; } }
+
+#our-story article {
+  padding: 0 1.25rem;
+  margin: 1.875rem 0; }
+
+#our-story p {
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; }
+
+#our-story .image-gallery {
+  margin-bottom: 3.75rem; }
+  #our-story .image-gallery img {
+    margin-bottom: 1.875rem; }
+
 .p-0 {
   padding: 0; }
 
