@@ -4893,6 +4893,14 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/img\/our-story\/collage\/default.jpg": {
+		"ft": 16384,
+		"iS": 265701,
+		"oA": 1,
+		"oAP": "\/img\/our-story\/collage\/default.jpg",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/img\/our-story\/gallery\/our-story-1.jpg": {
 		"ft": 16384,
 		"iS": 33146,
@@ -4978,6 +4986,14 @@
 		"iS": 149125,
 		"oA": 1,
 		"oAP": "\/img\/our-story\/medium.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/our-story\/ocean-view.jpg": {
+		"ft": 16384,
+		"iS": 35278,
+		"oA": 1,
+		"oAP": "\/img\/our-story\/ocean-view.jpg",
 		"oF": 0,
 		"opt": 0
 		},
