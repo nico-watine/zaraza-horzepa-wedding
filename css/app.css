@@ -4812,7 +4812,7 @@ nav.mainNav ul.menu {
   .pageTitle p {
     color: #fff; }
   .pageTitle p {
-    max-width: 18.75rem;
+    max-width: 25rem;
     letter-spacing: 0.00625rem;
     font-weight: 600;
     float: right; }
@@ -4833,9 +4833,6 @@ nav.mainNav ul.menu {
   @media print, screen and (min-width: 64em) {
     #index .splash-background {
       background: #C5C5C5 url("/img/our-story/large.jpg") 30% top/cover no-repeat; } }
-
-#index .pageTitle p {
-  max-width: 25rem; }
 
 #index article {
   padding: 0 1.25rem;
