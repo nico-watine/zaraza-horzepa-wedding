@@ -53,7 +53,7 @@ body-class: index
 		<div class="row">
 			<div class="medium-6 medium-push-6 columns">
 				<aside class="loveStory-headline">
-					<h1>"I just met my future wife”</h1>
+					<h1 class="script">"I just met my future wife”</h1>
 					<p><i>- Joe Horzepa, on the phone with his best friend after meeting Juliana for the first time <br>
 					- June 13, 2000</i></p>
 				</aside>

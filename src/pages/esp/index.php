@@ -53,7 +53,7 @@ body-class: espanol
 		<div class="row">
 			<div class="medium-6 medium-push-6 columns">
 				<aside class="loveStory-headline">
-					<h1>"Acabo de conocer a mi futura esposa"</h1>
+					<h1 class="script">"Acabo de conocer a mi futura esposa"</h1>
 					<p><i>- Joe Horzepa, le dijo a su mejor amigo por teléfono después de conocer a Juliana por primera vez <br>
 					- El 13 de Junio del año 2000</i></p>
 				</aside>
