@@ -6,10 +6,6 @@ $max-480: "only screen and (max-width : 30.000em)";
 	.splash-background {
 		background: #C5C5C5 url('/img/our-story/small.jpg') left top/cover no-repeat;
 
-		@media #{$max-480} {
-			background: #C5C5C5 url('/img/our-story/max-480.jpg') left top/contain no-repeat;
-		}
-
 		@include breakpoint(medium) {
 			background: #C5C5C5 url('/img/our-story/medium.jpg') 30% top/cover no-repeat;
 			height: rem-calc(650);
