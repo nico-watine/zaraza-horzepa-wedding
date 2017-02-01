@@ -4834,53 +4834,15 @@ nav.mainNav ul.menu {
     #index .splash-background {
       background: #C5C5C5 url("/img/our-story/large.jpg") 30% top/cover no-repeat; } }
 
-#index .loveStory-headline,
-.cartagena-info .loveStory-headline,
-.wedding-details .loveStory-headline,
-.registry .loveStory-headline {
-  text-align: right;
-  background: rgba(0, 0, 0, 0.35);
-  padding: 0.75rem 1rem;
-  float: right;
-  margin-bottom: 3.75rem;
-  margin-top: 12.5rem; }
-  @media only screen and (max-width: 35.625em) {
-    #index .loveStory-headline,
-    .cartagena-info .loveStory-headline,
-    .wedding-details .loveStory-headline,
-    .registry .loveStory-headline {
-      margin-top: 6.25rem;
-      margin-bottom: 1.875rem; } }
-  #index .loveStory-headline h1,
-  #index .loveStory-headline p,
-  .cartagena-info .loveStory-headline h1,
-  .cartagena-info .loveStory-headline p,
-  .wedding-details .loveStory-headline h1,
-  .wedding-details .loveStory-headline p,
-  .registry .loveStory-headline h1,
-  .registry .loveStory-headline p {
-    color: #fff; }
-  #index .loveStory-headline p,
-  .cartagena-info .loveStory-headline p,
-  .wedding-details .loveStory-headline p,
-  .registry .loveStory-headline p {
-    max-width: 18.75rem;
-    letter-spacing: 0.00625rem;
-    font-weight: 600;
-    float: right; }
+#index .pageTitle p {
+  max-width: 25rem; }
 
-#index .loveStory-prose,
-.cartagena-info .loveStory-prose,
-.wedding-details .loveStory-prose,
-.registry .loveStory-prose {
-  padding: 1.25rem;
+#index article {
+  padding: 0 1.25rem;
   margin: 1.875rem 0; }
 
-@media print, screen and (min-width: 40em) {
-  #index .loveStory-headline,
-  .cartagena-info .loveStory-headline,
-  .wedding-details .loveStory-headline {
-    margin-top: 0; } }
+#index p {
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; }
 
 #index .image-gallery {
   margin-bottom: 3.75rem; }

@@ -52,7 +52,7 @@ body-class: espanol
 	<!-- <main> -->
 		<div class="row">
 			<div class="medium-6 medium-push-6 columns">
-				<aside class="loveStory-headline">
+				<aside class="pageTitle">
 					<h1 class="script">"Acabo de conocer a mi futura esposa"</h1>
 					<p><i>- Joe Horzepa, le dijo a su mejor amigo por teléfono después de conocer a Juliana por primera vez <br>
 					- El 13 de Junio del año 2000</i></p>
@@ -62,7 +62,7 @@ body-class: espanol
 </div>
 		<div class="row">
 			<div class="medium-10 medium-push-1 columns end">
-				<article class="loveStory-prose">
+				<article>
 					<p>Joe y Juliana tienen una historia de amor de dieciséis años. Su historia comenzó una tarde calurosa y húmeda en Houston, Texas, el 13 de Junio del año 2000, cuando Joe miró por la ventana de su apartamento y notó un grupo de mujeres charlando y relajándose en la piscina. Una mujer hermosa y alta se destacó de todas las demás e inmediatamente su belleza cautivó a Joe.</p>
 					<p>El decidió que debía conocer a esta hermosa mujer y al acercarse al grupo, pudo oír a las mujeres riéndose y hablando entre sí, en español. Sin el hablar este idioma, Joe sabía que tenía una difícil batalla. Respirando profundo, miró directamente a Juliana y se dirigió al grupo - "Hola, soy Joe, y les pregunto ¿será que alguien quiere una cerveza?" Juliana escuchó, se volvió a sus amigas y rápidamente intercambió algunos comentarios en español - comentarios que no necesitaban Traducción: "¿Quién es este tipo, y por qué no nos deja solas?" Fue en ese momento que ambas vidas cambiaron.</p>
 					<p>Más tarde esa noche, Joe con entusiasmo llamó a un amigo y le informó que acababa de conocer a su futura esposa - énfasis en el "futuro" - Ya que resultaría ser un viaje muy largo hasta que ambos pudieran tomar la decisión de estar juntos.</p>

@@ -5,55 +5,72 @@
 $max-480: "only screen and (max-width : 30.000em)";
 $max-570: "only screen and (max-width : 35.625em)";
 
-#index,
-.cartagena-info,
-.wedding-details,
-.registry {
-	.loveStory-headline {
-		text-align: right; 
-		background: rgba(0,0,0,0.35); 
-		padding: rem-calc(12) rem-calc(16); 
-		float: right;
-
-		@media #{$max-570} {
-			margin-top: rem-calc(100);
-			margin-bottom: rem-calc(30);
-		}
-		
-		margin-bottom: rem-calc(60);
-		margin-top: rem-calc(200);
-
-		h1,
+#index {
+	.pageTitle {
 		p {
-			color: #fff;
-		}
-
-		p {
-			max-width: rem-calc(300);
-			letter-spacing: rem-calc(0.1);
-			font-weight: 600;
-			float: right;
+			max-width: rem-calc(400);
 		}
 	}
 
-	.loveStory-prose {
-		// background: red; 
-		// box-shadow: 0 rem-calc(1) rem-calc(4) 0 rgba(0,0,0,0.37); 
-		// box-shadow: none;
-		padding: rem-calc(20);
+	article {
+		padding: 0 rem-calc(20);
 		margin: rem-calc(30) 0;
 	}
+
+	p {
+		font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+	}
 }
 
-@include breakpoint(medium) {
-	#index,
-	.cartagena-info,
-	.wedding-details {
-		.loveStory-headline {
-			margin-top: 0;
-		}
-	}	
-}
+// #index,
+// .cartagena-info,
+// .wedding-details,
+// .registry {
+	// .loveStory-headline {
+	// 	text-align: right; 
+	// 	background: rgba(0,0,0,0.35); 
+	// 	padding: rem-calc(12) rem-calc(16); 
+	// 	float: right;
+
+	// 	@media #{$max-570} {
+	// 		margin-top: rem-calc(100);
+	// 		margin-bottom: rem-calc(30);
+	// 	}
+		
+	// 	margin-bottom: rem-calc(60);
+	// 	margin-top: rem-calc(200);
+
+	// 	h1,
+	// 	p {
+	// 		color: #fff;
+	// 	}
+
+	// 	p {
+	// 		max-width: rem-calc(300);
+	// 		letter-spacing: rem-calc(0.1);
+	// 		font-weight: 600;
+	// 		float: right;
+	// 	}
+	// }
+
+	// .loveStory-prose {
+	// 	// background: red; 
+	// 	// box-shadow: 0 rem-calc(1) rem-calc(4) 0 rgba(0,0,0,0.37); 
+	// 	// box-shadow: none;
+	// 	padding: rem-calc(20);
+	// 	margin: rem-calc(30) 0;
+	// }
+// }
+
+// @include breakpoint(medium) {
+// 	#index,
+// 	.cartagena-info,
+// 	.wedding-details {
+// 		.loveStory-headline {
+// 			margin-top: 0;
+// 		}
+// 	}	
+// }
 
 #index {
 	.image-gallery {
