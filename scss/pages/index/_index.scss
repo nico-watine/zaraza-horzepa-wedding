@@ -9,31 +9,17 @@
 	a.button.large {
 		border: rem-calc(3) solid #fff;
 		background: #6D6D6D;
-		// background: rgba(241,241,241,0.55);
 		border-radius: rem-calc(5);
-font-size: rem-calc(22);
-font-family: $sans-serif-font;
-color: #FFFFFF;
-text-shadow: 0 1px 3px #000000;
+		font-size: rem-calc(22);
+		font-family: $sans-serif-font;
+		color: #fff;
+		text-shadow: 0 rem-calc(1) rem-calc(3) #000;
 
 		&:hover {
 			background: rgba(241,241,241,0.55);
-			// background: #6D6D6D;
 			color: #000;
 			text-shadow: none;
-			border: 3px solid #FFFFFF;
-			border-radius: 5px;
 		}
 	}
 }
 
-
-#index {
-	.image-gallery {
-		margin-bottom: rem-calc(60);
-		
-		img {
-			margin-bottom: rem-calc(30);
-		}
-	}
-}
