@@ -4059,6 +4059,16 @@
 		"oAP": "\/dist\/cartagena-info.php",
 		"oF": 0
 		},
+	"\/dist\/css\/app-min.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/dist\/css\/app-min-min.css",
+		"oF": 0,
+		"oS": 0
+		},
 	"\/dist\/css\/app.css": {
 		"aP": 0,
 		"bl": 0,
@@ -4366,6 +4376,38 @@
 		"iS": 265701,
 		"oA": 1,
 		"oAP": "\/dist\/img\/our-story\/collage\/default.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/our-story\/flower-detail-1 copy.png": {
+		"ft": 32768,
+		"iS": 31046,
+		"oA": 1,
+		"oAP": "\/dist\/img\/our-story\/flower-detail-1 copy.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/our-story\/flower-detail-1.png": {
+		"ft": 32768,
+		"iS": 31046,
+		"oA": 1,
+		"oAP": "\/dist\/img\/our-story\/flower-detail-1.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/our-story\/flower-detail-2.png": {
+		"ft": 32768,
+		"iS": 31046,
+		"oA": 1,
+		"oAP": "\/dist\/img\/our-story\/flower-detail-2.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dist\/img\/our-story\/flower-detail.png": {
+		"ft": 32768,
+		"iS": 31046,
+		"oA": 1,
+		"oAP": "\/dist\/img\/our-story\/flower-detail.png",
 		"oF": 0,
 		"opt": 0
 		},
@@ -4926,6 +4968,22 @@
 		"iS": 265701,
 		"oA": 1,
 		"oAP": "\/img\/our-story\/collage\/default.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/our-story\/flower-detail-1.png": {
+		"ft": 32768,
+		"iS": 30365,
+		"oA": 1,
+		"oAP": "\/img\/our-story\/flower-detail-1.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/our-story\/flower-detail-2.png": {
+		"ft": 32768,
+		"iS": 30350,
+		"oA": 1,
+		"oAP": "\/img\/our-story\/flower-detail-2.png",
 		"oF": 0,
 		"opt": 0
 		},

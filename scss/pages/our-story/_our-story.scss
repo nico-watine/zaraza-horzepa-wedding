@@ -6,8 +6,19 @@
 #our-story {
 
 	article {
+		// background: #FAF9F9;
+		background: #FAF9F9 url('/img/our-story/flower-detail-1.png') left bottom/auto no-repeat;
 		padding: 0 rem-calc(20);
-		margin: rem-calc(30) 0;
+		margin-bottom: rem-calc(30);
+		border-bottom: rem-calc(4) solid #E98F82;
+
+		.row#first-row {
+			padding-top: rem-calc(30);
+		}
+
+		.row#second-row {
+			padding-bottom: rem-calc(30);
+		}
 	}
 
 	p {

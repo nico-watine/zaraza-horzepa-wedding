@@ -5056,8 +5056,14 @@ nav.mainNav ul.menu {
       height: 40.625rem; } }
 
 #our-story article {
+  background: #FAF9F9 url("/img/our-story/flower-detail-1.png") left bottom/auto no-repeat;
   padding: 0 1.25rem;
-  margin: 1.875rem 0; }
+  margin-bottom: 1.875rem;
+  border-bottom: 0.25rem solid #E98F82; }
+  #our-story article .row#first-row {
+    padding-top: 1.875rem; }
+  #our-story article .row#second-row {
+    padding-bottom: 1.875rem; }
 
 #our-story p {
   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; }
