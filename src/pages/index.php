@@ -49,7 +49,6 @@ body-class: index
 			</div>
 		</div>
 	</header>
-	<!-- <main> -->
 		<div class="row">
 			<div class="medium-6 medium-push-6 columns">
 				<aside class="pageTitle">
@@ -65,35 +64,4 @@ body-class: index
 				<a class="button large" href="/our-story" style="margin-top: 16px;">The story continues...</a>
 			</div>
 		</div>
-		<!-- <section class="image-gallery">
-			<div class="row">
-				<div class="small-6 medium-3 columns">
-					<img class="thumbnail" src="/img/our-story/gallery/our-story-1.jpg" title="Joe &amp; Juliana" alt="Joe &amp; Juliana">
-				</div>
-				<div class="small-6 medium-3 columns">
-					<img class="thumbnail" src="/img/our-story/gallery/our-story-2.jpg" title="Joe &amp; Juliana" alt="Joe &amp; Juliana">
-				</div>
-				<div class="small-6 medium-3 columns">
-					<img class="thumbnail" src="/img/our-story/gallery/our-story-3.jpg" title="Joe &amp; Juliana" alt="Joe &amp; Juliana">
-				</div>
-				<div class="small-6 medium-3 columns">
-					<img class="thumbnail" src="/img/our-story/gallery/our-story-4.jpg" title="Joe &amp; Juliana" alt="Joe &amp; Juliana">
-				</div>
-			</div>
-			<div class="row">
-				<div class="small-6 medium-3 columns">
-					<img class="thumbnail" src="/img/our-story/gallery/our-story-5.jpg" title="Joe &amp; Juliana" alt="Joe &amp; Juliana">
-				</div>
-				<div class="small-6 medium-3 columns">
-					<img class="thumbnail" src="/img/our-story/gallery/our-story-6.jpg" title="Joe &amp; Juliana" alt="Joe &amp; Juliana">
-				</div>
-				<div class="small-6 medium-3 columns">
-					<img class="thumbnail" src="/img/our-story/gallery/our-story-7.jpg" title="Joe &amp; Juliana" alt="Joe &amp; Juliana">
-				</div>
-				<div class="small-6 medium-3 columns">
-					<img class="thumbnail" src="/img/our-story/gallery/our-story-8.jpg" title="Joe &amp; Juliana" alt="Joe &amp; Juliana">
-				</div>
-			</div>
-		</section> -->
-	<!-- </main> -->
 </div> <!-- end .off-canvas-content -->
