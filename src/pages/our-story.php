@@ -17,10 +17,10 @@ body-class: our-story
 	<!-- Menu -->
 	<ul class="vertical menu">
 		<li class="active"><a href="/">Our Story</a></li>
-		<li><a href="http://www.rsvp.zaraza-horzepa2017.wedding/" target="_blank">RSVP</a></li>
+		<!-- <li><a href="http://www.rsvp.zaraza-horzepa2017.wedding/" target="_blank">RSVP</a></li> -->
 		<li><a href="/wedding-details">Wedding Details</a></li>
 		<li><a href="/cartagena-info">Cartagena Info</a></li>
-		<li><a href="/registry">Registry</a></li>
+		<!-- <li><a href="/registry">Registry</a></li> -->
 	</ul>
 </div>
 <div class="off-canvas-content" data-off-canvas-content style="background: none;">
@@ -40,10 +40,10 @@ body-class: our-story
 				<nav class="mainNav text-right medium-text-left show-for-large">
 					<ul class="menu float-right">
 						<li class="active"><a href="/">Our Story</a></li>
-						<li><a href="http://www.rsvp.zaraza-horzepa2017.wedding/" target="_blank">RSVP</a></li>
+						<!-- <li><a href="http://www.rsvp.zaraza-horzepa2017.wedding/" target="_blank">RSVP</a></li> -->
 						<li><a href="/wedding-details">Wedding Details</a></li>
 						<li><a href="/cartagena-info">Cartagena Info</a></li>
-						<li><a href="/registry">Registry</a></li>
+						<!-- <li><a href="/registry">Registry</a></li> -->
 					</ul>
 				</nav>
 			</div>
